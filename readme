@@ -1,0 +1,5 @@
+To get perplexity of any sentence, run the following command:
+- python3 language_model.py <n_value> <smoothing type> <path to corpus>
+
+A prompt will appear asking for an input. Give the input sentence and it will return the perplexity of that sentence.
+

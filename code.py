@@ -2,6 +2,9 @@ import random
 import numpy as np
 import re
 import math
+import time
+
+epsilon = 0.00000001
 
 def read_data(filename):
     f = open(filename)
@@ -10,7 +13,7 @@ def read_data(filename):
 
     return content
 
-def tokenize(data, vocab_dct):
+def tokenize(data, vocab_dct=None):
 
     punct = '''!()-[]{};:"\,<>./?@#$%^&*_~'''
 
@@ -41,7 +44,10 @@ def tokenize(data, vocab_dct):
 
     fin_data = fin_data.strip(" ")
     words = fin_data.split(' ')
-    
+   
+    if vocab_dct==None:
+        return fin_data
+
     for word in words:
         if vocab_dct.get(word):
             value = vocab_dct[word]
@@ -49,7 +55,6 @@ def tokenize(data, vocab_dct):
         else:
             vocab_dct[word] = 1
 
-#    print(vocab_dct)
     return fin_data, vocab_dct
 
 def convert_to_lowercase(data):
@@ -89,7 +94,7 @@ def rep_tokens(data):
 
     return data
 
-def preprocessing(data, vocab_dct):
+def preprocessing_data(data, vocab_dct):
 
     lines = []
     for line in data.split("\n"):
@@ -106,14 +111,27 @@ def preprocessing(data, vocab_dct):
     
     return lines, vocab_dct
 
-def train_test_split(data, cutoff):
+
+def preprocessing_line(line):
+    
+    line = convert_to_lowercase(line)
+    line = rem_urls(line)
+    line = rem_hashtags(line)
+    line = rem_mentions(line)
+    line = rem_punct(line)
+    line = tokenize(line)
+    line = rep_tokens(line)
+    
+    return line
+
+def train_test_split(data):
 
     data_lst = data.split("\n")
     tot_cnt = len(data_lst)
 
     random.shuffle(data_lst)
     
-    train_data_cnt = int(tot_cnt*cutoff)
+    train_data_cnt = tot_cnt-1000
     train_data = data_lst[:train_data_cnt]
     test_data = data_lst[train_data_cnt:]
 
@@ -131,14 +149,6 @@ def train_test_split(data, cutoff):
 
 def make_ngrams_dct(initial_tup, dct, words, n, ending_word_dct=None):
     
-#    if dct.get(initial_tup):
-#        val = dct[initial_tup]
-#        dct[initial_tup] = val+1
-#    else:
-#        dct[initial_tup] = 1
-#
-#    rem_tup = initial_tup
-
     for i in range(0,len(words)-n+1):
         tmp_tup = tuple(words[i:i+n])
 
@@ -148,28 +158,6 @@ def make_ngrams_dct(initial_tup, dct, words, n, ending_word_dct=None):
         else:
             dct[tmp_tup] = 1
 
-#        rem_str = rem_str.split("_",1)
-#        
-#        if len(rem_str)>=2:
-#            print(rem_str)
-#            rem_str = rem_str[1]
-#            rem_str = rem_str + "_" + words[i]
-#
-##            if n==4:
-##                if ending_word_dct.get(words[i]):
-##                    value = ending_word_dct[words[i]]
-##                    ending_word_dct[words[i]] = value+1
-##                else:
-##                    ending_word_dct[words[i]] = 1
-#        else:
-#            rem_str = words[i]
-#        
-#        if dct.get(rem_str):
-#            val = dct[rem_str]
-#            dct[rem_str] = val+1
-#        else:
-#            dct[rem_str] = 1
-#    
     return dct
 
 def make_ngrams(data_lines):
@@ -185,15 +173,8 @@ def make_ngrams(data_lines):
         words = line.split(" ")
     
         if len(words)>=4:
-            #initial_str = words[0] + "_" + words[1] + "_" + words[2] + "_" + words[3]
             initial_tup = tuple(words[0:4])
 
-#            if ending_word_dct.get(word[3]):
-#                value = ending_word_dct[word[3]]
-#                ending_word_dct[word[3]] = value+1
-#            else:
-#                ending_word_dct[word[3]] = 1           
-#            
             _4gram_dct = make_ngrams_dct(initial_tup, _4gram_dct, words, 4, ending_word_dct)
         
         if len(words)>=3:
@@ -212,10 +193,13 @@ def make_ngrams(data_lines):
 
 
 def find_val(gram, dct_lst):
-    if len(gram) == 0:
+
+    gram_len = len(gram)
+
+    if gram_len == 0:
         return sum(dct_lst[1].values())
-    if gram in dct_lst[len(gram)].keys():
-        return dct_lst[len(gram)][gram] 
+    if dct_lst[gram_len].get(gram):
+        return dct_lst[gram_len][gram] 
     else:
         return 0
 
@@ -224,8 +208,8 @@ def witten2(sent, dct_lst):
     unique = 0
     for c in dct_lst[len(sent)+1].keys():
         if(c[:-1] == sent):
-            
             unique += 1
+    
     k = float(unique + int(find_val(sent, dct_lst)))
     if(k != 0):
         return (unique / k)
@@ -237,34 +221,33 @@ def witten_smoothing(sent, dct_lst):
     if x == 1:
         return find_val(sent, dct_lst) / sum(dct_lst[1].values())
     if(find_val(sent[:-1], dct_lst) != 0):
-        return ((1 - witten2(sent[:-1], dct_lst)) * (find_val(sent, dct_lst) / find_val(sent[:-1], dct_lst))) + (witten2(sent[:-1], dct_lst) * witten_smoothing(sent[:-1], dct_lst))
+        helper_val = witten2(sent[:-1], dct_lst)
+        return ((1 - helper_val) * (find_val(sent, dct_lst) / find_val(sent[:-1], dct_lst))) + (helper_val * witten_smoothing(sent[:-1], dct_lst))
     else:
         return random.uniform(0.00001, 0.0001) +  (witten2(sent[:-1], dct_lst) * witten_smoothing(sent[:-1], dct_lst))
 
 
-def kneyser_ney_smoothing(sent, dct_lst, ending_word_dct, maxi):
+def kneyser_ney_smoothing(sent, dct_lst, maxi):
 
-    ###### gram = sent
-
-#    last_word = sent[-1]
-#    p_cont = ending_word_dct[last_word]/len(_4dct.keys())
-#
-#    def kneser(gram, maxi):
     x = len(sent)
     d = 0.75
-    if find_val(sent[:-1], dct_lst) == 0:
+
+    ret_val = find_val(sent[:-1], dct_lst)
+
+    if ret_val == 0:
         lamda = random.uniform(0,1)
         term = random.uniform(0.00001,0.0001)
     else:
         if x == maxi:
-            term = max(0,find_val(sent, dct_lst)-d)/find_val(sent[:-1], dct_lst)
+            term = max(0,find_val(sent, dct_lst)-d)/ret_val
         else:
-            term = max(0,(sum(token[1:] == sent for token in dct_lst[len(sent) + 1].keys()) - d)) / find_val(sent[:-1], dct_lst)
-        lamda = d * sum(token[:-1] == sent[:-1] for token in dct_lst[len(sent)].keys()) / find_val(sent[:-1], dct_lst)
+            term = max(0,(sum(token[1:] == sent for token in dct_lst[x+1].keys())-d))/ret_val
+
+        lamda = d * sum(token[:-1] == sent[:-1] for token in dct_lst[x].keys())/ret_val
     if x == 1:
        return term
     else:
-        return term + lamda * kneyser_ney_smoothing(sent[:-1], dct_lst, ending_word_dct, maxi)
+        return term + lamda * kneyser_ney_smoothing(sent[:-1], dct_lst, maxi)
 
 def perplexity(sent, dct_lst):
 
@@ -272,48 +255,59 @@ def perplexity(sent, dct_lst):
     prob = 1
     tot_kneyser = 0
     tot_witten = 0
-
+    t1 = time.time()
     for i in range(len(sent_words)-3):
     
         temp_sent = tuple(sent_words[i:i+4])
-        val_kneyser = kneyser_ney_smoothing(temp_sent, dct_lst,  ending_word_dct, len(temp_sent))
-        tot_kneyser += math.log(val_kneyser)
-        
+#        t1 = time.time()
+        val_kneyser = kneyser_ney_smoothing(temp_sent, dct_lst, len(temp_sent))
+#        t2 = time.time()
+#        print(t2-t1)
+        tot_kneyser += math.log(val_kneyser+epsilon)
+       
+#        print("-----")
+#        t1 = time.time()
         val_witten = witten_smoothing(temp_sent, dct_lst)
-        tot_witten += math.log(val_witten)
-#        prob *= kneyser_ney_smoothing(temp_sent, medical_1dct, medical_2dct, medical_3dct, medical_4dct, ending_word_dct, len(temp_sent))
+#        t2 = time.time()
+#        print(t2-t1)
+        tot_witten += math.log(val_witten+epsilon)
 
+    t2 = time.time()
+#    print(t2-t1)
     word_count = len(sent_words)
     perplex_score_kneyser = -(tot_kneyser/word_count)
     perplex_score_witten = -(tot_witten/word_count)
-#    perplex_score = np.power((1/final_prob), word_count)
 
     return perplex_score_kneyser, perplex_score_witten
 
 ##########################################################################################3
 
-##general_data = "This has to be 'what are you saying????' said isn''t it!!!! @wow #wowing"
-#general_data = read_data('./dataset/general-tweets.txt')
+general_data = read_data('./dataset/general-tweets.txt')
+
+general_vocab_dct = {}
+preprocessed_general_data, general_vocab_dct = preprocessing_data(general_data, general_vocab_dct)
+
+#for line in preprocessed_general_data:
 #
-#general_vocab_dct = {}
-#preprocessed_general_data, general_vocab_dct = preprocessing(general_data, general_vocab_dct)
-##print(preprocessed_general_data)
-##exit(0)
+#    print(line)
 
 ##########################################################################################3
 
 europarl_data = read_data('./dataset/europarl-corpus.txt')
 medical_data = read_data('./dataset/medical-corpus.txt')
-#europarl_data = "This has to be 'what are you saying????' said isn''t it!!!! @wow #wowing"
-#medical_data = "This has to be 'what are you saying????' said isn''t it!!!! @wow #wowing this has to be"
 
-europarl_train_data, europarl_test_data = train_test_split(europarl_data, 0.8)
-medical_train_data, medical_test_data = train_test_split(medical_data, 0.8)
+europarl_train_data, europarl_test_data = train_test_split(europarl_data)
+medical_train_data, medical_test_data = train_test_split(medical_data)
 
 europarl_vocab_dct = {}
-preprocessed_europarl_data, europarl_vocab_dct = preprocessing(europarl_train_data, europarl_vocab_dct)
+preprocessed_europarl_data, europarl_vocab_dct = preprocessing_data(europarl_train_data, europarl_vocab_dct)
 medical_vocab_dct = {}
-preprocessed_medical_data, medical_vocab_dct = preprocessing(medical_train_data, medical_vocab_dct)
+preprocessed_medical_data, medical_vocab_dct = preprocessing_data(medical_train_data, medical_vocab_dct)
+
+tmp_dct = {}
+preprocessed_europarl_test_data, _ = preprocessing_data(europarl_test_data, tmp_dct)
+preprocessed_medical_test_data, _ = preprocessing_data(medical_test_data, tmp_dct)
+
 
 europarl_1dct, europarl_2dct, europarl_3dct, europarl_4dct, ending_word_dct = make_ngrams(preprocessed_europarl_data)
 medical_1dct, medical_2dct, medical_3dct, medical_4dct, ending_word_dct = make_ngrams(preprocessed_medical_data)
@@ -326,32 +320,63 @@ europarl_combined_lst.append(europarl_2dct)
 europarl_combined_lst.append(europarl_3dct)
 europarl_combined_lst.append(europarl_4dct)
 
+f1 = open("./outputs/L1_test.txt", "w")
+f2 = open("./outputs/L2_test.txt", "w")
+
 for line in europarl_test_data.split("\n"):
+
+    pre_line = preprocessing_line(line)
+    acc_kneyser, acc_witten = perplexity(pre_line, europarl_combined_lst)
+   
+    f1.write(line+"\t"+str(acc_kneyser)+"\n")
+    f2.write(line+"\t"+str(acc_witten)+"\n")
     
-    acc_kneyser, acc_witten = perplexity(line, europarl_combined_lst)
-    print("***************************************")
-    print("KNEYSER-NEY SMOOTHING")
-    print(line, end=": ")
-    print(acc_kneyser)
-    print()
-    print("WITTEN SMOOTHING")
-    print(line, end=": ")
-    print(acc_witten)
-    print("***************************************")
-    print()
-    print()
+#    print("***************************************")
+#    print("KNEYSER-NEY SMOOTHING")
+#    print(line, end="\t")
+#    print(acc_kneyser)
+#    print()
+#    print("WITTEN SMOOTHING")
+#    print(line, end="\t")
+#    print(acc_witten)
+#    print("***************************************")
+#    print()
+#    print()
 
-for line in test_medical_data:
 
-    acc_kneyser, acc_witten = perplexity(line, medical_combined_lst)
-    print("***************************************")
-    print("KNEYSER-NEY SMOOTHING")
-    print(line, end=": ")
-    print(acc_kneyser)
-    print()
-    print("WITTEN SMOOTHING")
-    print(line, end=": ")
-    print(acc_witten)
-    print("***************************************")
-    print()
-    print()
+f1.close()
+f2.close()
+
+medical_combined_lst = []
+medical_combined_lst.append([0])
+medical_combined_lst.append(medical_1dct)
+medical_combined_lst.append(medical_2dct)
+medical_combined_lst.append(medical_3dct)
+medical_combined_lst.append(medical_4dct)
+
+
+f3 = open("/outputs/L3_test.txt", "w")
+f4 = open("/outputs/L4_test.txt", "w")
+
+for line in medical_test_data.split("\n"):
+
+    pre_line = preprocessing_line(line)
+    acc_kneyser, acc_witten = perplexity(pre_line, medical_combined_lst)
+    
+    f3.write(line+"\t"+str(acc_kneyser)+"\n")
+    f4.write(line+"\t"+str(acc_witten)+"\n")
+
+#    print("***************************************")
+#    print("KNEYSER-NEY SMOOTHING")
+#    print(line, end="\t")
+#    print(acc_kneyser)
+#    print()
+#    print("WITTEN SMOOTHING")
+#    print(line, end="\t")
+#    print(acc_witten)
+#    print("***************************************")
+#    print()
+#    print()
+
+f3.close()
+f4.close()
