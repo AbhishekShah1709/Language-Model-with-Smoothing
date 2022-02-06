@@ -192,62 +192,75 @@ def make_ngrams(data_lines):
     return _1gram_dct, _2gram_dct, _3gram_dct, _4gram_dct, ending_word_dct 
 
 
-def find_val(gram, dct_lst):
+def helper_fnc(gram, dct_lst):
 
     gram_len = len(gram)
 
     if gram_len == 0:
-        return sum(dct_lst[1].values())
+        tot_sum = sum(dct_lst[1].values())
+        return tot_sum
     if dct_lst[gram_len].get(gram):
         return dct_lst[gram_len][gram] 
     else:
         return 0
 
 
-def witten2(sent, dct_lst):
-    unique = 0
-    for c in dct_lst[len(sent)+1].keys():
-        if(c[:-1] == sent):
-            unique += 1
+def witten_helper(sent, dct_lst):
     
-    k = float(unique + int(find_val(sent, dct_lst)))
-    if(k != 0):
-        return (unique / k)
-    else:
+    u_cnt = sum([c[:-1]==sent for c in dct_lst[len(sent)+1].keys()])
+    k = float(u_cnt + int(helper_fnc(sent, dct_lst)))
+    
+    if k == 0:
         return random.uniform(0.00001,0.0001)
+    else:
+        return (u_cnt/k)
 
 def witten_smoothing(sent, dct_lst):
+    
     x = len(sent)
+    
     if x == 1:
-        return find_val(sent, dct_lst) / sum(dct_lst[1].values())
-    if(find_val(sent[:-1], dct_lst) != 0):
-        helper_val = witten2(sent[:-1], dct_lst)
-        return ((1 - helper_val) * (find_val(sent, dct_lst) / find_val(sent[:-1], dct_lst))) + (helper_val * witten_smoothing(sent[:-1], dct_lst))
+        tot_sum = sum(dct_lst[1].values())
+        return helper_fnc(sent, dct_lst)/tot_sum
+    
+    if(helper_fnc(sent[:-1], dct_lst) != 0):
+        helper_val = witten_helper(sent[:-1], dct_lst)
+
+        f_term = (1-helper_val)*(helper_fnc(sent, dct_lst)/helper_fnc(sent[:-1], dct_lst))
+        s_term = helper_val*witten_smoothing(sent[:-1], dct_lst)
+        
+        return f_term + s_term 
+    
     else:
-        return random.uniform(0.00001, 0.0001) +  (witten2(sent[:-1], dct_lst) * witten_smoothing(sent[:-1], dct_lst))
+        f_term = random.uniform(0.00001, 0.0001)
+        s_term = witten_helper(sent[:-1], dct_lst)*witten_smoothing(sent[:-1], dct_lst)
+        return f_term + s_term 
 
 
-def kneyser_ney_smoothing(sent, dct_lst, maxi):
+def kneyser_ney_smoothing(sent, dct_lst, max_len):
 
-    x = len(sent)
     d = 0.75
+    x = len(sent)
 
-    ret_val = find_val(sent[:-1], dct_lst)
+    ret_val = helper_fnc(sent[:-1], dct_lst)
 
     if ret_val == 0:
-        lamda = random.uniform(0,1)
         term = random.uniform(0.00001,0.0001)
+        lamda = random.uniform(0,1)
     else:
-        if x == maxi:
-            term = max(0,find_val(sent, dct_lst)-d)/ret_val
+        if x != max_len:
+            term = max(0,(sum(token[1:] == sent for token in dct_lst[x+1].keys())-d))
+            term = term/ret_val
         else:
-            term = max(0,(sum(token[1:] == sent for token in dct_lst[x+1].keys())-d))/ret_val
+            term = max(0,helper_fnc(sent, dct_lst)-d)
+            term = term/ret_val
+        lamda = d*sum(token[:-1] == sent[:-1] for token in dct_lst[x].keys())
+        lamda = lamda/ret_val
 
-        lamda = d * sum(token[:-1] == sent[:-1] for token in dct_lst[x].keys())/ret_val
     if x == 1:
        return term
     else:
-        return term + lamda * kneyser_ney_smoothing(sent[:-1], dct_lst, maxi)
+        return term + lamda*kneyser_ney_smoothing(sent[:-1], dct_lst, max_len)
 
 def perplexity(sent, dct_lst):
 
