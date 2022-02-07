@@ -1,0 +1,1001 @@
+Clinical improvement of the cutaneous manifestations is noted in most cases and usually occurs during the first year of life.	1.150754056978156
+We present a patient with CMTC with a band-like pattern following the L3 dermatome.	1.0088277898038616
+At the age of 13 years, the skin manifestations worsened, with ulcerations and intermittent claudication.	1.1794049665978257
+Angiographic imaging revealed stenosis of the deep femoral artery, and the circumflex femoral artery and the first perforating arteries were not visualized.	1.1361050617063067
+To our knowledge, this is the first reported case of CMTC with anomalies of the large arteries.	0.9252929475325862
+Introduction: The efficacy of vascular surgery in the treatment of popliteal arterial aneurysms (PAA) and the justification of conservative therapy was investigated in the present study.	1.32975794904479
+Materials and methods: From January 1985 to December 1996, 87 patients were operated on for PAA.	1.0220661085090494
+The clinical records were reviewed retrospectively and patients were categorized concerning PAA-related symptoms, vascular run-off, and material used for vascular reconstruction.	1.0998364425630085
+Patients were examined, and the patency of the vascular reconstruction was checked by palpation and Doppler sonography.	1.1985860992228412
+Results: The cumulative survival calculated using the Kaplan-Meier curve was 70% after 10 years.	1.238088391683773
+Asymptomatic patients had the best results and patients with acute ischemia, the worst.	1.3629779910373572
+The outcome concerning patent vs. occluded run-off and autologous vs. heterologous bypass material was similar.	0.8682410387510959
+Conclusion: Asymptomatic and uncomplicated PAA should be treated surgically.	1.0841829135282597
+Only PAA with a diameter less than 2 cm, and without thrombus on the vessel walls can be treated conservatively.	1.0811773646254543
+Collodion baby is a clinical description for a transient condition of the newborn which is caused by various disorders of cornification.	1.051546232379249
+The majority of cases are due to autosomal recessive lamellar ichthyosis.	0.9150223386846329
+In up to 10% of cases "self-healing" of the skin occurs.	1.4534522982216695
+We report about a mature male baby who at birth was covered entirely with a shining, collodion-like membrane.	0.9010033703716934
+There also were marked ectropion of the eyelids and eversion of the lips.	0.8728686095648509
+After shedding of the membrane almost complete clearing of the skin occurred until the age of three months.	1.1018561565090932
+In the case reported here skin biopsies taken on the 20th day of life showed discrete and non-specific ultrastructural changes, with no features of lamellar ichthyosis or other cornification disorders.	1.1440194099973227
+Past research on the phenomenon of enhanced pain sensitivity in fibromyalgia syndome (FS) revealed evidence for both a higher pain magnitude in response to nociceptive stimuli (hyperalgesia) and a general perceptual amplification of sensations (hypervigilance).	1.062786051522062
+In order to distinguish between these two aspects of disturbed sensory processing in FS, cerebral evoked potentials after brief painful laser and auditory stimuli were measured in 10 FS patients.	0.9523248131832219
+Results were compared with those from age-matched painfree controls.	0.9475901213955947
+Amplitudes of middle-latency (N1) and long-latency (P2) laser evoked potentials (LEPs) were significantly higher in FS than in controls.	1.0347461335589714
+Furthermore, laser intensity at pain but not at sensation threshold was lower in FS than in controls.	1.042988644026876
+However, auditory evoked potentials (AEPs) did not differ between groups.	1.1193204377852588
+Enhanced N1 and P2 amplitudes of LEPs suggest stronger sensory and attentional processing of nociceptive information in FS, respectively.	0.7667434853354941
+The concept of hypervigilance is challenged by the failure to find differences in auditory perception among FS and control patients.	0.8837070362372428
+Yet, the importance of unpleasant intensities of auditory stimulation, not applied in this study, to reveal abnormal non-nociceptive perceptual amplification in FS is discussed.	1.0861737340071072
+In a prospective study, 53 fractures of the distal fifth of the tibia were stabilized by unreamed nailing.	1.1331053015906554
+Additional involvement of the ankle joint occurred in 18 patients.	0.8631078895859999
+50 patients returned for follow-up.	0.6562999089649543
+In 30 patients tibia and fibula were fractured at the same (distal) level; in 20 patients the fracture of the fibula was located more proximally.	1.1112466364578761
+In 12 patients the fractures extended into the tibial pilon.	0.8969845506622357
+Severe soft tissue damage was seen in 24 fractures (18 open, 6 closed).	1.1415890232623374
+Ninety percent of all fractures healed uneventfully without further surgical intervention after unreamed nailing.	0.9572834711426796
+In two patients the unreamed nail had to be exchanged for a reamed tibial nail.	0.8785034528432222
+Bone grafting and secondary dynamization of the nail by removal of a proximal interlocking bolt were performed in one case each.	1.1834242036750706
+Thirty-one fractures healed in anatomical position.	0.9092375907978316
+Valgus or varus angulation of less than 5  ° occurred in 18 patients.	0.844686294637931
+One fracture healed with rotatory angulation of 15  °.	0.7257361374474737
+The highest rate of complications (22 %) was seen in patients with distal fractures of the fibula without additional plating (of the fibula).	1.2325063207377869
+There was no deep infection.	0.8645762960067617
+Tibial fractures close to the ankle joint can be managed by unreamed nailing.	0.9896383949016696
+Distal fractures of the fibula should be stabilized by additional plating.	0.9582230214806713
+Because of the unreamed technique of implantation this procedure can also be used in grade II or III open fractures.	1.1197646356885638
+Complex mechanisms have evolved in mammalian cells for regulating cellular lifespan.	0.7160078172579193
+Normal cells demonstrate a strictly limited growth potential and senescence after a defined number of cell divisions.	0.8559186175785563
+In contrast, tumor cells often exhibit an apparently unlimited proliferation potential and are termed immortalized.	1.0132378973197642
+It has been proposed that the progressive shortening of the tips of the eukaryotic chromosomes - the telomeres - is an important component of senescence and is involved in the control of cell cycle.	1.2718957801711581
+The enzyme telomerase adds TTAGGG repeats onto mammalian telomeres, preventing their shortening.	0.8141662395273997
+Telomerase is normally inactive in most somatic cells, but detectable in tumor cells.	0.991381911036341
+The activation of telomerase in malignant cancers seems to be an important step in tumorigenesis in order to gain the ability of indefinite proliferation and to become immortal.	1.0619500502675612
+This review describes the present knowledge of telomeres and telomerase and their role in cellular senescence and human aging.	0.7923743411597011
+It summarizes aspects of telomerase in cancer and its function as a diagnostic and prognostic tumor marker.	1.0365224740251828
+PCR-based diagnosis of infectious diseases has developed into an important method in surgical pathology.	0.8223050539497218
+We summarize our experience in this area based on 3500 analyses performed during the past 5 years.	1.1692971225947248
+The peculiarity of material from a pathological laboratory is the risk of DNA fragmentation as a consequence of tissue fixation.	1.0304103752650535
+For this reason the assays used must be adapted to this particular situation.	1.0186759950189817
+PCR-based diagnosis of infectious diseases, if performed according to appropriate quality standards, is a safe and effective technique with high sensitivity and specificity and results in an etiologically based diagnosis.	1.1033490103384873
+The shift of age distribution within the population of industrialized societies has led to an increased need of treating diseases in elderly patients and at the same time in a higher number of patients bearing an increased operative risk.	1.1397374150192872
+Today, the development of surgical techniques and intensive care treatment enables us to carry out numerous procedures in geriatric patients.	1.0159828920405176
+Innovative surgical techniques like minimal invasive surgery with minor trauma due to the surgical approach changed patient's categories, also.	1.1252991427403314
+Taken together with other procedures causing less operative stress indications for patients who were not operable previously have changed.	1.0118531426450175
+New developments such as organ transplantation and immunosuppression also generated totally new groups of patients with very distinct conditions for the operative procedure.	0.95292488749302
+Vanishing indications or selection of patients as in peptic ulcer disease changed the surgical approach completely: Negative selection has shifted elective operative interventions in ulcer disease to emergency procedures.	1.0109707480865724
+Contrasting experiences made in most other countries and especially in the third world, in Germany economic restrictions have not been encountered as of yet.	1.2494390984490062
+Economical conditions, an increase in surgical procedures in elderly patients and advances in medical science will continue to change the surgical patient's characteristics profoundly.	1.1323318863296656
+From the physicians viewpoint we have to actively participate in this development by personal interaction with the patient, by interdisciplinary cooperation and prompt social and political action.	1.080561238829972
+Osteoid osteomas are tumors with intense clinical symptoms and extensive reactive bone changes far exceeding the volume of the lesion itself.	1.034482057304623
+Because of their small size they can be approached by minimally invasive surgical procedures.	0.8789283451266597
+We treated ten symptomatic patients with osteoid osteomas (n 6 hip point, n 1 iliac bone, n 1 femoral diaphysis, n2 tibial diaphysis) by excision of the nidus with a 3-mm Harlow-Wood needle using a percutaneous CT-guided approach.	1.1428459085348905
+Seven patients with residual tumor were treated with either thermocautery (n 2) or sclerosis with 1 ml of 96% ethanol (n 5).	1.4612333258632013
+Six patients had instant and constant relief (3 years' observation) of their pain.	1.2618618555575754
+In two patients a second transcutaneous intervention was successful.	0.9503128187420117
+Only two patients needed open resection.	0.8741649516640347
+Compared with the invasive open resection of the tumors, sometimes even putting the stability of the femoral neck at risk, transcutaneous CT-guided enucleation of the nidus of the osteoid osteoma with additional sclerotherapy is a good alternative method, especially in the region of the femoral neck.	1.1236601217865634
+We live in an epoch that could be designated as the post-Gutenberg-era.	0.7806129974787767
+Writing is no longer the dominant sign system.	0.8860671024455553
+It is replaced by electronic signs.	0.5366260083810354
+We consider approximately the year 1950 as the turning-point between these two epochs, because by then, in the years after the 2nd World War the American households were saturated with televisions.	1.1615799953935118
+Thereby, the new sign system asserted itself.	1.1004329150666645
+The topic of this article is the transformation of our sign system and thereby of our worlds of symbols, the leap from the world of written signs into the world of electronic signs, and the possibility born out of it to create electronic objects, which I prefer to call virtual objects.	1.1748485912288866
+The manipulation of object-choice and object-relationships accompanying this change and the role assigned to analysts in this new world will be considered as well.	0.8859673316400002
+These electronic signs developed quickly a life of their own.	0.842098666042946
+A totally new class of objects came into being, the class of virtual objects.	0.9418327981788449
+These are electronically transformed, completed or wholly electronically produced objects.	0.7178921936958828
+This procedure is accompanied by an industrialization of object-choice and object-relationships.	0.7232718508380492
+The manipulated object-choice and object-relationship is born and, moreover, a displacement of natural objects through virtual ones.	1.0680352743524624
+A change of the socio-cultural understanding is also a consequence of this process.	1.0697872444971914
+New patterns of socio-cultural understanding develop, that could be described as industrial feudalism.	0.9452659023526699
+The goal of this article is to describe the transformation of our world of signs and the connected industrialization of object relationships, and to interprete them according to our present possibilities.	1.1331644058046484
+In this article 34 randomized controlled trials examining peripherally mediated opioid effects after knee surgery are discussed.	0.9418138471532147
+All studies examined small doses of morphine injected intraarticularly at the end of knee surgery, but not all studies did show an analgesic effect of the peripheral opioid.	1.1641208895665385
+Because of differing study designs a meta-analysis of the data is not possible.	0.9213598128362196
+Dysplastic epithelia represent potentially precancerous conditions in which the risk of progression to cancer is unknown in the individual case.	1.0290610936423488
+The positive predictive value of mild and moderate dysplasias of the uterine cervix is only about 13%.	0.8246159107993691
+Using DNA image cytometry on restained, conventional Pap-smears the cytometric equivalent of chromosomal aneuploidy can be detected as marker for neoplastic transformation of cells.	0.9082768306145349
+The identification of DNA aneuploidy in dysplastic squamous epithelia can increase the predictive value for malignant transformation to over 90%.	0.8960234230672376
+DNA aneuploidy qualifies squamous intraepithelial lesions as high grade (H-SIL) which have to be treated whereas lack of DNA aneuploidy characterizes low grade squamous intraepithelial lesions (L-SIL) which have only to be controlled.	1.1281009782597904
+The methodology is meanwhile internationally standardized concerning performance and diagnostic interpretation.	0.742443162052184
+In this brief article I attempt to sketch a few salient insights from my career as a researcher and practitioner of psychotherapy: The key to successful therapy is undoubtedly the therapist's empathic listening, coupled with a series of other positive attributes and finely honed interpersonal skills.	0.9039709057289615
+On the debit side, patients' hostility frequently evokes counterhostility from the therapist which not infrequently results in a negative outcome.	0.9678381123912391
+Percutaneous dilatational tracheotomy is a procedure for inserting a tracheal cannula without a large incision, without extensive dissection of pretracheal tissue, and without exposure of the trachea.	1.0740972058224465
+The early complications of the technique are usually minor and late complications are rare.	1.0611065664976564
+Although it is a simple procedure, it is not a minor operation.	1.4712546026589821
+Users must be familiar with the technique, the indications and contra-indications for the procedure, as well as the complications.	1.0518839952316574
+Proper training of the operation and knowledge of the procedure will avoid unnecessary complications.	1.1722557465377044
+Percutaneous dilatational tracheotomy is a relatively new technique for inserting a cannula in the tracheal lumen.	0.9533918806282541
+It can be done at the patients bedside with only minimal complications.	0.9364099137890445
+A short history, the indications and contraindications, the early and late complications of the technique, and comparisons with other techniques as well as with conventional open tracheotomy are reviewed.	1.1853954865240186
+In this study, a histologic and histomorphometric analysis of delayed and immediate-placed implants was performed.	0.9645389365126842
+An implantation of 16 self-cutting conical titanium screw implants was carried out in 8 beagle dogs.	0.9527989115104867
+Of these implants, 8 were placed immediately after extraction of the second premolar and 8 implants were placed after 6 months of healing after extraction.	1.1142335318619685
+For dynamic histomorphometry, fluorochrome bone markers were injected at two different times prior to euthanasia.	0.7894590635237763
+The specimens were examined macroscopically and microscopically 8 months after implantation.	0.8710025442218899
+A histologic, dynamic, and static histomorphometry was performed with the aid of different computer programs.	1.2363353705311733
+A mean surface of osseointegration of 75.7% and a mean soft tissue implant contact surface of 24.2% was seen in immediate-placed implants.	1.1572306840553708
+For delayed implantation, an osseointegrated surface of 80.7% and a soft tissue covering of 19.3% was examined.	1.353745015462472
+The fibrogenic structures in the cervical implant part were more dense and there were more adhesive epithelial elements (hemidesmosomes) around delayed implants.	0.9739052806057784
+The result of the dynamic and static histomorphometry showed no significant differences in the two groups (P < 0.1).	1.0633027274754119
+In conclusion, it can be stated that a new steady-state of the soft and hard tissue around dental implants was seen 8 months after implant insertion in both groups.	1.1310839795351406
+There was a pseudoankylotic healing in the osseous part.	0.9694764637232787
+The lower level of osseointegration in immediate-placed implants was caused by early resorption of bone in the crestal part.	0.8047509454068653
+Thus, a larger part of the implant was surrounded by soft tissue and a long epithelial attachment resulted.	1.1669638457495886
+Polydactyly may be preaxial or tibial (halluxside), postaxial or ulnar (side of the little toe) and central (middle toes).	1.06553336237298
+The duplication may appear at the distal and medial phalanges or at the whole digit.	0.9598798406133842
+The metatarsal bone may be partwise or completely duplicated, the accessory toes may share only one metatarsal.	0.8660551753595044
+Surgical intervention may be indicated in shoeproblems, for esthetic reasons or, especially in duplication of the metatarsales, because of secondary deviation of the toes and therefore shoeproblems or plantar callosities.	1.1501015749998231
+Preoperative analysis including x-ray is of great importance to achieve good functional and cosmetic results.	1.013135343464083
+Across centers, transfusion can vary eightfold for the same mediastinal drainage after adult cardiac operations.	0.8276566894652269
+Excessive blood drainage resulting in increased transfusions occurs in 29 % of patients.	0.8560376439270699
+Various strategies have been proposed to decrease bleeding and allogenic transfusion requirements in the perioperative period of heart surgery.	1.0704334789049788
+Blood conservation methods were reviewed critically.	0.6619307518060513
+Avoidance of preoperative anemia, tolerance of low hemoglobin concentrations, the use of autologous blood, and adherence to a strict transfusion protocol will reduce the use of allogenic transfusions.	1.051059783584058
+Perioperatively, maintenance of normothermia contributes to improved hemostasis.	0.7139452736810962
+Injections with botulinum toxin type A (BTX) are considered the first-line treatment for spasmodic torticollis (ST), blepharospasm (BL) and hemifacial spasm (HFS).	1.0884044494611032
+Because BTX brings only temporary and partial relief, patients frequently try other additional therapies to minimize their symptoms.	0.9318738799353881
+The subjective rating of all therapies ever tried by patients with ST, BL and HFS was evaluated by using a simple questionnaire.	0.8947910562538612
+Two hundred questionnaires were considered (112 TS, 54 BL, 34 HFS).	0.986263987593208
+BTX was rated subjectively the best therapy in all three diagnostic groups (median: 2=good effect).	1.0428373802596826
+Despite Citalopram and physiotherapy (median: 3=average effect), all other therapies were rated with a median of >=4 (=minimal effect).	1.162501688369447
+Patients with ST tried 7.7, patients with BL 2.4 and patients with HFS 2.6 different types of therapy.	1.2376175250956218
+In conclusion, BTX is the most effective treatment for patients with ST, BL and HFS, as rated subjectively.	1.019677545986328
+Further evaluation of therapies additional to BTX injections is recommended.	0.7531553102521248
+The perioperative morbidity and mortality is mainly influenced by the type and duration of surgery as well as the patient's preoperative state of health.	1.2767526698686733
+Anesthesia per se, however, may also result in severe perioperative (patho)physiological changes, which may be both desired (e.g.	1.077605231281429
+analgesia, vasodilation in vascular surgery) or detrimental (e.g.	0.7250041813189292
+hypothermia, ventilatory depression) and which may differ depending on the anesthetic technique used (e.g.	0.8836218522388782
+general anesthesia vs. regional anesthesia).	0.7889111284163203
+Yet, all anesthestic techniques have in common, that their effects are not limited to the duration of the surgical intervention, but may expand far into the postoperative period.	1.3617917417137406
+Therefore, many trials have been performed in the past aiming to compare the impact of different anesthetic techniques on the incidence of postoperative techniques, no significant advantage of one or the other technique has been identified up to now with respect to postoperative mortality or severe morbidity.	1.3186546232956617
+This finding may be due to at least three factors.	0.7908151270118118
+1) Many side-effects related to anesthesia - due to close postoperative monitoring - are detected and treated early in the postoperative phase (e.g.	1.20366644644066
+in the recovery room), thereby preventing serious complications.	1.1502521364744966
+2) Postoperative mortality related exclusively to anesthesia probably is so low, that huge patient numbers would be required to demonstrate any significant differences between different techniques.	1.1294177970756625
+3) Besides the factor 'anesthesia', may other factors contribute to the anesthesia related morbidity and mortality (e.g.	0.9837648172058661
+the factor 'anesthetist') which are hardly quantified.	1.1988460732455757
+The fact that clear advantages for a single technique have not yet been demonstrated must not, however, result in anesthetic 'nihilism'.	1.0942652749455963
+Rather there may be good reasons in the individual patient (e.g.	0.9286805142131783
+lack of a recovery room), to prefer a certain anesthetic technique or drug over another, in order to lower the individual risk of anesthesia.	1.1052441404846747
+Whether the use of a certain technique - e.g.	0.9222140097028318
+spinal or epidural anesthesia - may contribute to a reduction of specific postoperative surgical complications (e.g.	0.913285306382354
+rate of reocclusion subsequent to peripheral vascular surgery) is presently under investigation.	0.9225038075819666
+This paper first describes how the project study on the regulation and monitoring of medical treatment arose.	0.9664680065780773
+We then introduce its objectives, the members of the study group, the composition of the collective and selection of cases, and the methods used for ascertainment and recording of data.	1.186282454933918
+Results are then presented with reference to the various hypotheses put forward.	0.9257248182320288
+After some introductory remarks about the traumatizing experience many parents have after the birth of a very small preterm baby (<= 1500 g), a developmental risk model is presented.	1.1317881584830027
+This is the basis for an early beginning preventive psychotherapeutic intervention.	1.1847173233088082
+In the Ulm Study the comprehensive parent-centered intervention program includes insight oriented focal individual psychotherapy, supportive group psychotherapy, a home visit and a video-based sensitivity training.	0.9554233490947973
+The intervention aims to improve parental coping, the process of attachment and parent-infant interaction.	0.8739775111519567
+The theoretical implications, the design and the methods of this prospective randomized longitudinal study will be discussed.	1.2079002674069477
+We report the case of a 55-year-old male patient who underwent transanal endoscopic microsurgery for recurrent benign rectal adenoma.	0.8970608880111496
+He developed severe postoperative retroperitoneal phlegmon and sepsis and died 28 days after the operation due to untreatable diffuse intraabdominal bleeding caused by persistent thrombocytopenia.	0.9260244481001579
+Rudolf Nissen was born in Neisse, Schlesien, 9 September 1896.	0.8933808466171524
+From 1921 to 1933 he was the favorite pupil of Ferdinand Sauerbruch in Munich and Berlin.	0.7750951346705999
+1930 he became professor of surgery at the Charité.	0.5586160886063616
+The assumption of power by the Nazi-regime forced Nissen to resign his position and end his career in Germany.	0.8476857335909819
+He took over the surgical chair in Istanbul, Turkey.	0.7388284868908946
+Emigrating in 1939 to the USA, he held surgical positions in hospitals at New York and accepted in 1952 the chair of Surgery at the University of Basel, Switzerland.	0.9888640678900669
+Nissen died in Riehen/Basel on 22 January 1981.	0.6752409798447458
+Nissen was a critical observant clinician, an efficient and popular physician, a teacher and a speaker.	1.0404088278464914
+Of historical significance are pioneering works in thoracic surgery, the first successful pneumectomy in man, the classical works about the treatment of gastro-oesophageal reflux disease and hiatus hernia.	1.1223592234952098
+The Nissen-Rossetti type of fundoplication has remained the standard procedure in Europe and the USA.	0.9325013304460134
+This study describes the approach that is necessary in outpatient surgery in order to carry out the operation safely.	1.0013445858471524
+The particular procedure is discussed, and the necessity of strict postoperative management is shown.	1.1479601752448054
+Between 1994 and 1997, the author supervised 4588 outpatient operations, of which 3020 were arthroscopic.	1.0193102606309468
+The observed complications are listed and evaluated.	0.6921589092280089
+Overall, outpatient surgery is well accepted by the patients.	1.1754235943685292
+The criteria for denying a patient surgery on an outpatient basis are laid out.	0.9094120099912815
+The Schering Atlas is a teaching file in CT and MRI anatomy designed for physicians and students.	0.8403160482653339
+It is available on CD-ROM, shows good image quality, and is easy to use in medium-price-range personal computer systems.	1.0510197729627782
+Because of the amount and quality of image material, the Schering Atlas's price is appropriate for institutions, but not for private users.	1.166103357511884
+M. Linehan developed "dialectical behavioral therapy" specifically to treat chronically suicidal borderline patients.	0.6958459340924692
+It rests on a biosocial model that assumes a disorder in the regulation of emotions and in tolerance of stress.	0.8524137213723264
+The numerous dysfunctional patterns of behavior such as self-destructive behavior, inability to govern impulses or severe dissociative phenomena are regarded as attempts at problem-solving.	0.7565054361427509
+This concept of therapy focuses on the continuing balance between the necessity of accepting maladaptive behavior patterns in both an intrapsychic and an interactional context while still working to change them.	0.8927440709025608
+A comprehensive manual outlines the clearly structured therapy and integrates a wide choice of therapeutic strategies.	0.7885674057252295
+Parallel to development of the therapy itself, a method also was developed for testing therapist adherence to the manual's guidelines, thus providing a basis for empirical evaluation.	1.171289515361959
+An initial controlled, randomized study demonstrated the significant superiority of this method to methods of unspecific psychotherapy at various levels.	1.0636264906571242
+In the current endeavor to develop disorder-specific approaches to the treatment of personality disorders, "dialectical behavioral therapy" is a noteworthy model.	1.1611823337965326
+Complications associated with the application of a halo device are not infrequent; however, osteomyelitis of the skull with a consecutive subdural abscess is a rare but severe complication.	1.1637426667965796
+We present the case of a patient with a subdural abscess as a result of a local pin-track infection of the halo device, in whom pathological behavior was the primary clinical finding.	1.2014396538588383
+The possible complications associated with the halo device are discussed with emphasis on associated head injuries and preexisting neurological diseases, as well as indications for the halo, clinical symptoms of pin-track infections, necessary diagnostic measurements and the appropriate treatment.	1.1021337748307316
+The attempt was made to explain dysfunctions of the motor system - analogical to electronic data processing systems - as a speciality of the regulation part of the motor system.	1.1760391184360968
+Thereby dysfunctions can be seen as misplaced variables in the regulation software with not defined or unknown values of afferences or combination of afferences.	0.9813589686501323
+This leads to a failure of the corresponding software modul that results in the loss of function which is regulated through this modul.	1.0394206860113702
+Especially with changing of afference through manual treatment or through needling, a replacement of the variables can be reached and this leads to normal function.	1.0512586752588688
+With this hypothesis all phenomens of dysfunctions can be explained.	0.7622247351699198
+Empirical data on costs of care for chronically mentally ill patients in Germany are rare.	0.833867724105941
+There is a lack of cross-sectional studies as well as of any analysis of the long-term course of mental health care costs.	1.0671677789664715
+This study combines data from two cost-studies on patients with schizophrenia, conducted in the same catchment area at an interval of 15 years, to draw conclusions about the long-term course of these costs.	1.1155240690449912
+The direct costs of comprehensive community based mental health care had increased by 77.0% during 15 years, while the costs of a permanents stay in a long-term ward of a psychiatric hospital had increased by 78.5% in the same period.	1.1297674780172813
+This increase was 27 and 28.5 per cent higher than the general rise in cost of living in Germany during the interval between the two studies.	1.129687481376458
+This higher-than-average increase in mental health care costs was accompanied by a much higher cost-effectiveness.	0.934115604081644
+Thus, this rise of costs must be seen as a consequence of the great deficits and the resulting basic improvement of care for chronically mentally ill patients in Germany, which was demanded by an expert-commission of the government in the mid-seventies.	1.2067632938908266
+Background: The usefulness of Holter monitoring to detect rarely occuring symptoms seems to be limited.	0.9431143987986673
+In adults the event recorder has already been a precise diagnostic tool in evaluating palpitations and syncopes.	0.9213920409286901
+There have been few reports of the implementation of cardiac monitoring with an event recorder in children.	0.9127813993023897
+The immunomodulating effect of primary surgical intervention was investigated in 33 patients with squamous cell carcinomas of the oral cavity, pharynx and larynx.	0.9138759871399285
+An operation time longer than 7 h was significantly associated with a decrease in lymphocytes, CD4+ T-lymphocytes and CD8+ T-lymphocytes.	0.9661640336886556
+The CD4/CD8-ratio as a marker for the down-regulation of the cellular immune response was slightly decreased but was still in the normal range.	0.9629752707019821
+CD4-lymphocyte counts increased 7 days after operation while CD8 lymphocytes were found elevated 4 weeks after sugery.	0.9443300096678872
+The in vitro stimulation of the lymphocytes was impaired for 1 to 4 weeks.	0.9485802893935988
+Interleukins, interferon-gamma and tumor necrosis factor did not show any changes after surgery.	0.9899276169057418
+Decreases of lymphocytes, especially CD4+ and CD8+ lymphocytes, were significantly associated with the time of operation and the volume of blood loss.	1.3349559640363693
+Extensive trauma, age, different kinds of anesthesia and intensive care interventions were not associated with specific immunomodulating effects, although these factors might be responsible for suppressing cytokine responses.	1.0248780799736217
+Both preclinical and clinical evidence support the usefulness of antidepressants in chronic pain treatment.	0.8575563585432155
+Monoamine uptake inhibitors influence the neurotransmissions of noradrenaline (NA) and/or serotonin (5-HT); their effect on nociception is thought to take place predominantly within the spinal cord.	1.1028590456127945
+Antidepressant drugs seem to differ in their properties as analgesics and as thymoleptics.	0.8482732848136271
+The present work is aimed at correlating the special mechanism of action of antidepressants in diminishing nocicepetion with the pharmacological profile of these drugs in clinical pain treatment.	0.945555201886413
+From a preclinical, experimental point of view, it can be expected, that mixed type uptake blockers should be superior to selective NA or 5-HT uptake inhibitors.	1.0716602254098104
+The analgesic profile of antidepressants was established by a metaanalysis of clinical trials on the effect of these drugs, given alone or in combination with other analgetics, in chronic pain syndromes.	1.1772742540240824
+57 Clinical trials were separated into 5 groups according to their scientific quality: [1] placebo-controlled double-blind studies with high power; [2] placebo-controlled double-blind studies with low power; [3-4] open controlled studies or studies with historical controls; [5] case reports.	1.1569490245298992
+A study was positive if the tested antidepressant was more effective than placebo or the compared drug or seemed beneficial with respect to the interval of its previous absence.	1.0718546091069443
+The most effective antidepressants in chronic pain treatment only included unselective monoamine reuptake inhibitors in the following rank order: amitriptyline > clomipramine >= desipramine >= imipramine >= doxepin.	1.1291575948091819
+A statement about the appropriate dosage of these drugs in chronic pain treatment, however, must wait for properly conducted dose finding studies which include the measurement of plasma concentrations.	1.1518499776703284
+Intensive care medicine for both surgical and medical patients has a common scientific and clinical basis.	1.1283277070613793
+In critically ill patients the medical conditions are complex and can be managed only by specialists thoroughly trained in intensive care medicine.	0.9233785156248928
+Therefore, surgeons as well as anesthesiologists must have a detailed theoretical and clinical knowledge of intensive care medicine.	1.1212895839363453
+Surgical training places the emphasis on operative skills, while intraoperative management of the patient by the anesthesiologist calls for skills involved in intensive care medicine.	1.040226448494376
+Interdisciplinary cooperation between specialists is essential to improve the quality of intensive care medicine further.	1.0105300579214331
+The cooperation that already exists between surgeons and anesthesiologists makes closer collaboration in the future a logical step.	0.9251202162614394
+In this review article data of retrospective studies on the therapeutic effects of oxygen are summarized and possible indications for this therapy suggested.	1.2255163055806493
+Studies in infants with chronic lung disease (CLD) showed that (i) if SaO2 was kept >= 93 % via generous prescription of home oxygen, rates of sudden death were much lower than in studies where this was less generously prescribed, (ii) weight gain was significantly better with O2 therapy than without it, (iii) increasing SaO2 from 82 to 93 % by providing low-flow oxygen resulted in a 50 % reduction of pulmonary artery pressure, (iv) hypoxia could cause a significant increase in airway resistance, and (v) low-flow oxygen reduced the frequency of intermittent falls in SaO2 to < 85 % even in infants who had values of >= 90 % at rest.	1.2813925926279417
+These data suggest that oxygen therapy should be considered in CLD infants if baseline SaO2 is < 93 %.	0.9972211961674203
+For older infants, particularly with CF, only few data are available.	1.1100614862036546
+In these patients oxygen may only be given if SaO2 is < 90 % unless there are clinical symptoms related to hypoxaemia, e. g. pulmonary hypertension.	1.099828123099371
+Regarding the practical aspects of home oxygen therapy, provision of liquid oxygen via nasal cannulae appears to be the method of choice.	0.9201456804474071
+Side effects include the risk of CO2 retention, which occurs occasionally in children with CF or sleep-related upper airway obstruction, but has not been reported for infants with CLD.	1.1392484836882375
+To identify this potential side effect and to determine the exact amount of oxygen required, performance of a sleep recording of SaO2 and CO2 with and without oxygen is suggested.	0.9573764149090364
+In infants with CLD, home monitoring of oxygenation should also be considered.	0.9662658358679688
+Fractures of the distal radius represent one of the most common fractures and do have high social-economic relevance.	1.1428840401293787
+For treatement they need practicable classification and therapeutic standards.	0.727887946382408
+The demand for stable osteosynthesis of A3-, B2-B3 and C1-C2-fractures is connected to dorsal or volar internal fixation with plate and practical autogenous cancellous bone grafting, even for the elder patient.	1.0562351390640339
+The isolated external fixation with K-wires represent special situation.	0.7943210987243156
+Supply of implants and biodegradable materials will support this development.	0.6611837060708438
+Introduction: Pheochromocytoma during pregnancy is rare and represents a high risk for mother and fetus.	1.1885614781656955
+Due to the variable clinical presentation it may be mistaken for preeclampsia.	0.914812241685679
+Case: A 34-year-old primiapara with hypertension up to 240/120 mmHg.	1.0139615648336888
+After diagnosis of a pheochromocytoma its resection together with lymph node metastasis in the 17th week of gestation was performed.	1.0014974159852255
+Conclusion: The definitive diagnosis is confirmed by elevation of serum catecholamines and their metabolites in a 24-h urine collection.	1.1490151158336837
+Localization during pregnancy can be made by ultrasound and MRI.	1.0720280529378534
+The definitive treatment is surgical removal after administration of adrenergic blockers.	0.7374548598219817
+If discovered later in pregnancy, delivery by elective caesarean section followed by tumor resection is recommended.	0.7453643847988229
+Since about 10 % of pheochromocytomas are malignant, postpartum screening is required to detect and treat extraadrenal or metastatic tumors by MIBG scintigraphy, chemotherapy or surgical procedures.	1.06575652161219
+Ionizing radiation from natural or man-made sources may affect human health.	0.74607852866111
+The main consequence of low and moderate radiation doses is the induction of cancer.	0.8687221017774259
+To quantify these effects both epidemiological studies and experimental radiobiological research are needed.	0.7900652818180788
+The ensuing results of the studies are used to establish radiation protection principles and dose limits to protect the public from the effects of ionizing radiation.	1.027128513075053
+Homozygous familial hypercholesterolemia is associated with premature atherosclerosis and early cardiovascular death if untreated.	0.8042961225347843
+In an asymptomatic 13-year-old girl we discovered an extensive hypoplasia of the abdominal aorta and the Aa.	1.1342542093563799
+iliacae, a combination which so far has not been described, that has not been reported before.	1.2902426739009376
+The vascular hypoplasia was asymptomatic.	0.5219137242324586
+Angiography additionally showed severe atherosclerosis of the Aa.	0.7065936065367322
+After 13 months of low-density-lipoprotein(LDL)-apheresis angiographically there was no pregression, but even slight improvement of vascular the disease.	1.2321747531654206
+Discussion: Since severe atheromatous changes of systemic arteries may be missed by clinical examination, we strongly recommend complete imaging of all major systemic arteries in children with homozygous familial hypercholesterinemia.	1.10183983438677
+LDL-apheresis is the treatment of choice in these patients.	0.9585011817999445
+Since 1993 almost 400 patients with port wine stains have been treated with the flashlamp pumped pulsed dye laser.	0.7962311083558671
+The therapeutic effect on 61 adult patients was evaluated.	0.9009793092249092
+After a mean of 2.16 treatments the colour lightened by between 33% and 100% in 70% of these patients.	1.3559660625925052
+The best results were obtained in patients with plain pink port wine stains.	0.8797441020893947
+In this kind of port wine stains the argon laser has proved to be far less successful.	0.6769994502820013
+The rate of adverse effects amounted to only 5%.	0.8726207806140364
+The results are expected to be improved by further laser sessions.	1.1738646027703161
+The flashlamp pumped pulsed dye laser is an important advance in the treatment of port wine stains.	0.8400378754513714
+Most craniofacial malformations result from a premature fusion of skull sutures.	0.8435469223618077
+Depending on the scope of the sutures affected, the results are more or less distinct deformations of the facial and cranial skull with substantial negative effects on functional as well as esthetic aspects.	1.168835613063139
+The etiopathology is still unclear.	0.43426578858327675
+Various therapies have been developed over the past 100 years.	0.963295818281204
+However, Tessier's technique of fronto-orbital advancement has been an important milestone in the treatment of these malformations.	1.2925691635158125
+Numerous adjustments have since perfected this operational technique.	0.5776559299286277
+It is now possible to treat practically all skull malformations with the surgical techniques available today.	1.0101452078140927
+At the same time, these techniques have also aided the advancements in tumor surgery and traumatology.	0.9780060019169446
+Injuries of the flexor tendon are usually open injuries.	0.8222791539669154
+In most cases primary treatment is therefore seldom performed by orthopaedic surgeons.	0.9110114622876673
+This is different for injuries of the extensor tendon.	0.6822275277959451
+Three quarters of injuries of the extensor tendon are closed injuries.	0.8683642558279479
+Therefore we do go into primary and secondary reconstruction of the flexor tendon, but focus on primary and secondary reconstruction of the extensor tendon in the most common zones (1, Th I, 3, Th III).	1.1589574245643293
+The Shouldice operation has evolved to become the classic procedure for open pure tissue repair for inguinal hernias.	0.885320308358085
+The operation is an important part of a surgeon's repertoire as he may need to perform the procedure at some critical time, especially when faced with strangulation, when tension-free prosthetic repairs and laparoscopic approaches fail.	1.1307515423897156
+When properly done, the Shouldice repair yields results that have set standards for all other techniques to emulate.	0.9808490514820786
+Other particular advantages of the technique are: safety, the use of local anaesthesia, benign postoperative complications and the cost, which is the most reasonable of all surgical techniques.	1.2580742206278623
+Acute occlusive mesenteric ischemia is caused by a local impairment of splanchnic blood flow and poses a particular surgical challenge.	0.8989256197127595
+Acute superior mesenteric occlusion is a medical/surgical emergency mandating prompt diagnosis (clinical awareness, angiography) and therapy (exploratory laparotomy with possible arterial reconstruction; embolectomy, thrombectomy; and/or bowel resection).	0.9710608224564276
+The difficulty of early diagnosis is probably the most important cause of the high mortality which varies from 70 % to 90 % in arterial and functional mesenteric ischemia and from 20 % to 70 % in an acute thrombosis of the mesenteric veins.	1.516959946894583
+Improved survival from nonocclusive mesenteric ischemia is dependent upon the identification of high-risk groups and on aggressive diagnostic and therapeutic measures (intra-arterial infusion of papaverine through the angiographic catheter with or without bowel resection).	0.9603460007548534
+For assessment of bowel viability, the clinical judgement during first- or second-look exploration is still the most reliable parameter.	1.2556569259878478
+The surgical management of chronic mesenteric ischemia includes aortomesenteric grafting and transaortic endarterectomy in the majority of patients with comorbidity of cardiovascular arteriosclerotic diseases and results in a high rate of symptom-free patients.	1.010462004055358
+Prophylactic reconstruction of visceral arteries is indicated only in certain limited circumstances.	0.8817994238681569
+Thirty-nine of 63 patients undergoing deep anterior rectal resection received a straight coloanal anastomosis (CAA); the remaining 24 patients additionally had a colon-j-pouch (CPA) constructed.	0.9304043877964199
+After pouch-anal anastomosis, local septic complications occurred in 12.5 % of patients compared to 20.5 % after coloanal anastomosis.	1.2109970266490515
+Stool frequency after pouch-anal anastomosis was 3.3 per 24 h compared to 5.2 per 24 h after straight anastomosis within the first year after ileostomy closure (P = 0.053).	1.1407773257341
+Continence was slightly better in the pouch group (n. s.), and anal manometry showed a significant postoperative decrease only in resting pressure after straight coloanal anastomosis (P < 0.001).	0.9641988196851728
+This study supports the construction of a colon-j-pouch after deep rectal resection, as the pouch-anal anastomosis has fewer local septic complications and seems to improve functional outcome.	1.0256425476016922
+The introduction of flow-directed pulmonary artery (PA) catheters has helped to improve our knowledge of cardiovascular physiology.	0.8996346215349078
+There have been several developments of this equipment in recent years, including continuous monitoring of mixed-venous O2 saturation (Sv\=O2) and cardiac output (CO).	1.0383302146694593
+The high purchase price, however, is an obstacle to its use in the critically ill.	1.1874292467716638
+The aim of the present study was to analyse the actual costs of these devices in comparison to standardly used intermittent monitoring of Sv\=O2 and CO.	0.942067752572366
+Purpose: Persistent hypotony with maculo-pathy is a severe complication of mitomycin C when used during filtration surgery.	1.036667446359847
+We wanted to know whether this complication can be controlled by a surgical reintervention yielding tight closure of the initial sclerostomy.	1.052559893073565
+The detection of cytokines may elucidate the pathophysiological mechanisms that produce early systemic complications in acute interstitial (i) or necrotizing (n) pancreatitis (AP).	1.0030290771683406
+The increase in the level of cytokines in the blood of patients with AP may correlate with the severity of the disease.	1.1478297619822388
+In a prospective clinical trial from October 1992 to August 1993, 23 patients with AP were recruited and blood samples taken for cytokine detection by commercially available Elisa kits and C-reactive protein (CRP) by laser nephelometry.	0.9868755609097075
+Six of 11 patients with nAP died either early (n = 1) or of late septic complications.	1.0443789421768008
+The peak of cytokine and CRP level in the first 3 days of hospitalization was used for calculation.	1.2221406089415652
+The IL-6 concentration in the blood reached up to 2600 pg/ml in the 1st few days, depending on the severity of AP, and dropped to almost zero in the next days, independently of the clinical course.	1.0056287016530878
+The differentiation of i- versus nAP, using a cutoff line of 600 pg/ml, was correct in 20 patients [87 %, sensitivity (SE): 82 %, specificity (SP): 91 %, P < 0.001].	1.2768402056882615
+The blood levels of IL-8 reached a maximum of 1381 pg/ml in the 1st few days, depending on the severity of AP, and showed a correlation with the clinical course in the following days.	0.9999895678940425
+The peak of IL-8 blood levels indicated correctly the severity of AP in 18 out of 23 patients using a cutoff level of 200 pg/ml (accuracy: 78 %, SE: 82 %, SP: 75 %, P < 0.01).	1.1299571498474013
+The CRP levels increased up to a maximum of 535 mg/l and indicated the course of AP correctly in 18 out of 22 patients (SE and SP 82 %, P < 0.01).	0.9799675053678795
+There was no correlation between cytokine blood levels and mortality.	0.8940286767501582
+In the blood samples of five patients with i- or nAP, no TNF- was detectable.	1.3046878644529794
+The blood levels of IL-6, and to a lesser extent of IL-8 and CRP, can predict the severity and early systemic complications of AP.	1.2238977544279406
+The excessive rise in cytokines can be explained by the stimulation of immunological cells (macrophages, lymphocytes and endothelial cells) in the course of AP, inducing early systemic complications.	0.9990066262482116
+The surface area and the microporosity of bone regeneration materials influence their chemical and biological properties.	0.7947924661177909
+Therefore, the size of the specific surface area and the distribution of the pore diameters (pores < 1 µm) of bone regeneration materials were analyzed within this study.	1.1035348350684635
+The analyzed hydroxyapatites were of synthetic, bovine, and phytotroph origin.	0.9841177037781679
+The tricalcium phosphates and the bioglasses included only synthetic materials.	0.6513238440115616
+The gas adsorption of each specimen was analyzed using a volumetric N2/Kr system (ASAP 2010, Micromeritics).	0.7954164025779932
+Additionally, for materials with a specific surface area (> 2 m2/g) the pore size distribution was evaluated by the BJH-method.	1.2650222855968198
+Two of the materials evaluated astonishingly large dimensions of the specific surface area (BioOss 79.7 m2/g, Algipore new 14.6 m2/g).	0.7585612286591594
+A medium surface area was found for Algipore old (4.9 m2/g) and Interpore200 (2.64 m2/g).	1.2617190800949953
+All other included materials showed only small sizes of the specific surface area (Ceros80 1.8 m2/g, Ceros82 1.31 m2/g, Cerasorb 1.2 m2/g, Biobase 0.7 m2/g, Endobone 0.7 m2/g, Perioglas 0.6 m2/g, Allotropat50 0.23 m2/g, Biogran 0.2 m2/g).	0.9253088667813583
+The materials with large and medium sizes of the specific surface area evaluated the following pore diameters: BioOss 2-50 nm, Algipore new 2-100 nm, Algipore old 5-50 nm, Interpore200 2-100 nm.	0.9230765818383883
+Pore sizes less than 2 nm were not found in relevant numbers.	0.9119708063880443
+The materials BioOss, old and new Algipore, and Interpore200 contain a large interconnecting mesopore system (diameter < 1 µm).	1.0547552890785177
+For the materials Biobase, Endobone, Perioglas, Allotropat 50, and Biogran this cannot be assumed.	0.9392777033701826
+The materials Ceros80, Ceros82, and Cerasorb evaluated a specific surface area between those and might include only a small part of these interconnecting pores.	1.0558500798590438
+An influence of the interconnecting porosity and the different sizes of the specific surface areas on the biological behavior of the bone regeneration materials can be suggested.	1.0944029332253924
+The literature on the psychosocial aspects of head and neck cancer surgery from 1950 to 1995 was reviewed in four parts.	0.4997128130755671
+In the present Part 4 ten possibly useful targets for future research are formulated:...	0.9950412094346848
+Radiotherapy unequivocally has to be regarded as standard therapy in stage I and IIA/B testicular seminoma.	0.9171916331601399
+Using low dose abdominal irradiation tumour control rates of 95-98 % in stage I disease and 80-95 % in stage IIA/B can be achieved.	1.2699085022648873
+Disease specific survival reaches 100 %.	0.6699854501248564
+Likewise, radiotherapy is treatment of first choice in case of testicular intraepithelial neoplasia (TIN) in a solitary testis or in case of a double-sided TIN yielding safe eradication of the in-situ carcinoma of the testis.	1.2316960882619064
+Objectives of further clinical research in radiotherapy of testicular malignancies aim at reduction of treatment intensity in order to minimize acute and late side effects of irradiation without compromising tumour control rates.	1.0217304495206498
+A forty year old healthy adult man was admitted to our out-patient department because of a highly elevanted rheumatoid factor.	0.9998003824273908
+Since the person was planning an extended stay in Africa, we performed an extensive history, clinical and laboratory examination to rule out oligosymptomatic inflammatory diseases.	1.1646523059731766
+We further analyzed if the person presented genetic risk factors to develop rheumatic diseases in the future or if the presence of the rheumatoid factor could be a reaction to multiple immunizations.	1.114554392960838
+Possible explanations for an elevated rheumatoid factor including the genetic risk factors are discussed.	0.9283604147140102
+A multifactorial etiology underlies the  majority of cases of Alzheimer's disease (AD).	0.8109171953919175
+Both ill-defined environmental and genetic factors contribute to the development of the disease.	0.8086229900617492
+Allele 4 of ApoE is a genetic risk factor.	0.8033046883799813
+Its presence increases the risk of developing AD.	0.8856547777661233
+However, presence of e4 is neither necessary nor sufficient for the disease to arise.	1.2368674073032346
+Apart from the common multifactorial forms of the disease, there are rare variants which are inherited as Mendelian traits.	1.094142625907111
+To date three genes are known that can be  mutated in these rare forms of AD.	0.8498465086293959
+Of these, mutations in the gene presenilin 1 on chromosome 14 are most frequent.	0.855800457466354
+In addition, mutations in the gene presenilin 2 on chromosome 1 and in the amyloid precursor protein gene (APP on chromosome 21) occur in autosomal dominant AD.	1.0097051253960183
+This article reviews our present knowledge of the genetics of AD and discusses its relevance for patients with AD and their relatives.	1.0936685879742907
+In recent years female psychoanalysts provided fertile approaches to an understanding of the mother-daughter-relationship with the conceptions of the 'lesbian complex' (Poluda-Korte), the 'symbiotic illusion' (Halberstadt-Freud), the 'higher permeability of the ego-boundaries' (Rohde-Dachser), and the 'conflict of separation-individuation which has to be resolved again and again throughout life' (Berger).	1.0159571688768907
+In the light of these conceptions it is hypothesized that in analyses with both participants being of equal gender (female-female psychoanalyses) a specific intensity and quality of female aggression may manifest itself when certain threshold situations of the pre-oedipal mother-daughter-relationship are revided.	0.944839290450169
+Case vignettes and a literary example illustrate the risks as well as possible resolutions engendered by these early relationship dynamics, as these are reactivated in the here and now of the analyst's relationship towards her patient.	1.0569800135757927
+There has been a marked increase in the incidence of pelvic fractures over the last few years.	0.9798217367146691
+Associated injuries to the urogenital and vascular system as well as nerve injuries worsen the prognosis.	0.8528244507698348
+Over a five year period 126 patients with severe pelvic trauma were treated.	0.972646778905734
+Out of these 39 (30.9%) sustained additional peripelvic injuries and represent the study sample.	1.1619462628523909
+Type B injuries according to the AO classification occurred in 16 (41%) patients, type C fractures in 23 (59%) patients.	1.2321243876340982
+The spleen, liver and kidney were the most frequently injured organs (58.9%), followed by urogenital lesions (46.6%), nerve injuries (25.6%) and vascular lesions (15.3%).	1.1561987321423728
+The most common extrapelvic lesions were thoracic injuries in 56.4% and severe head injuries (GCS<8) in 33.3%.	1.2278092712210662
+The mean Hannover Polytraumascore was 35.6 points, the mean Injury Severity Score 27.6 points.	1.19825807115685
+Osteosnthesis was performed in 21 pelvic ring fractures (53%), eight procedures (50%) in type B fractures and 13 (56%) in type C fractures.	1.309065766158859
+In type B injuries the anterior pelvic ring was stabilized with a tension band wiring in four cases, in two patients with an external fixator and with plate osteosynthesis in one case.	1.2510612725391304
+In type C injuries the external fixator was applied as the only stabilizing procedure in six patients.	1.0709919121798896
+In four cases the anterior ring was fixed with tension band wiring or plates and the dorsal aspect of the pelvic ring with sacral bars.	1.0355367715916117
+Three patients had their additional acetabular fracture plated through a anterior approach.	0.8554232316044477
+All surviving 28 patients were followed up for an average of 18 months (range 7--59 months) after the trauma.	1.2831071639079732
+The patients were classified using the pelvic outcome score proposed by the German Society of Trauma Surgery.	1.0560736952697931
+53.4% of the type B fractures showed a good clinical outcome, 47.6% a poor outcome.	1.2589397426380413
+15.4% with type C fractures presented with a good outcome, 84.6% with a poor outcome.	1.2726672224818723
+80% of the type B and 23% of the type C fractures had a good radiological outcome.	1.3660571440961935
+20% of type B and 77% of type C injuries had a poor radiological outcome.	1.4045130216648898
+Five patients (12.8%) sustained persistent urological symptoms.	1.1405445002966008
+Three of these had urinary dysfunction, two used permanent cystotomies due to their severe neurolgical deficit after a head injury.	0.943629501332923
+Ten patients with nerve injuries at the time of trauma suffered long term neurological dysfunction of the lumbosacral plexus.	1.0066045153649879
+The mortality rate was 28%.	0.9962764292684259
+Seven patients died in the emergency room due to uncontrollable bleeding, four in the intensive care unit from multi-organ failure.	0.9300649116842896
+The management of complex pelvic trauma consists of fracture treatment and interdisciplinary treatment of the associated injury.	1.0760698752126994
+Lesions of the abdominal organs or of major vessels must be addressed first if hemodynamic instability is present.	0.974108453047837
+Injuries to smaller vessels can be embolized percutaneously.	0.6038839004185547
+Urinary bladder ruptures are treated as an emergency, urethral lesions electively after four to six weeks .We recommend external fixation of the pelvis in the acute phase for control of both the osseous instability and control of haemorrhage through external compression.	1.1487353994738267
+The treatment of choice for the anterior pelvic ring is tension band wiring or plating.	1.0480377133254184
+If this is contraindicated due to an open fracture external fixation is the treatment of choice.	1.097679931585925
+Type C fractures require posterior ring stabilization which should be postponed until four days post admission.	0.7766708225220222
+Dysfunction of serotonergic neurotransmission has been associated with two different psychopathological syndromes - impulsive aggressivity resulting form a lack of stimulation of the "behavior inhibition system" on the one hand and the manifestation of clinical depression and compulsive syndromes on the other.	1.003028213448404
+The examination of primate behavior provides a model which may reconciliate these seemingly contradictory hypotheses.	0.8006519458328403
+According to primate experiments, monoaminergic depletion results in anxious and desperate behavior only if the individual has previously been exposed to social isolation stress, which in turn induces a decrease in the central serotonin turnover rate.	0.9989150107924497
+Young non-human primates who experience early social separation stress are anxious and fearful, while as adults they tend to be aggressive, consume excessive amounts of alcohol and are less intoxicated by alcohol intake.	0.9175876522605098
+These observation indicate the importance of social separation stress in the pathogenesis of alcoholism and antisocial behavior and may point to prophylactic and pharmacological treatment strategies.	0.926227155824933
+The implantation of transsclerally sutured posterior chamber lenses (PCL) leads to greater trauma to the eye than endocapsular PCL implantation.	0.7144067718223549
+Persistent breakdown of the blood-aqueous barrier might impair the postoperative long-term prognosis.	0.9904846412489213
+Using laser-tyndallometry, we quantified the disorder of the barrier function during the early postoperative phase and in the long-term postoperative course for both surgical procedures.	1.2194786483718163
+During the first 3 postoperative days, flare values were three times higher in the group with transsclerally sutured PCL than in the conventional PCL group.	1.1984797301373826
+Cell counts after transscleral suture fixation (27.7 +/- 18.3/0.075 mm3) decreased slightly during the first 5 postoperative days.	1.0398940409520863
+In contrast, the conventional PCL group regained the preoperative level (2.5 +/- 5.1) after 3 days.	1.2325456767654654
+After 3 months, no significant differences in flare values and cell counts were seen between the two groups.	0.9427781212265336
+After implantation of transsclerally sutured posterior chamber lenses, breakdown of the blood-aqueous barrier was initially more pronounced than in conventional PCL implantation.	0.890697493572983
+However, the barrier function was re-established equally in both groups in the long term.	1.0907617156196994
+No signs of a persistent disorder of the barrier were found.	0.9201681210885289
+There is clear evidence for obstructive sleep apnea as an independent cause of arterial hypertension.	0.9394716147936322
+We report a case of intracranial hemorrhage with systemic hypertension resistant to antihypertensive medication, which could only be adjusted after effective treatment of coexisting sleep-disordered breathing.	1.0169324313680563
+The 36 year old male (body mass index 31 kg/m2) was admitted to hospital three weeks before for intracranial bleeding at the left external capsule.	1.0716437475909275
+Diagnosis of primary hypertension was made after extensive work-up in the acute hospital.	1.2797046258476024
+Blood pressure was adjusted with five-fold antihypertensive medication at the time of admission to neurological rehabilitation, but was still elevated with "non-dipping" as determined by long-term measurement despite medications above the recommended dosages.	1.1194367577179067
+Polysomnography confirmed the diagnosis of obstructive sleep apnea.	0.7718785554655617
+10 days after initiation of treatment with nasal CPAP blood pressure control was easier with normal dipping at night.	0.953525583122574
+Medication could be reduced during rehabilitation with further reduction after discharge.	0.9122714687521284
+Moderate obstructive sleep apnea appears to be the cause of severe hypertension resistant to pharmacological therapy in this patient.	0.9769351894548179
+The case underlines the impact of diagnosis and treatment of sleep-disordered breathing for the secondary prevention of stroke.	0.979337100510452
+The possibility of a specific origin of joint infection should be considered in finding the diagnosis.	1.1040336152403127
+This is demonstrated in a case of tuberculosis of the hip treated in the Dept.	1.2633283103229636
+of Trauma Surgery in collaboration with the Medical Dept.	1.0240002499718943
+Microbiological and imaging examinations are essential to plan and perform a combined therapy of hip arthroplasty and concomittant medical antituberculous therapy.	0.9531814830655897
+In accordance to a literature review, this procedure proved successful for both eliminating the local infection and the functional outcome of the operation.	1.2708498836981563
+The purpose of our studies was to investigate experimentally the dose-dependent effects of extracorporeal shock waves on tendon and bone and to unveil therapeutic possibilities in tendopathies and pseudarthroses.	1.2201517878158523
+From January 1994 to January 1996, 18 patients underwent vitrectomy as a result of endophthalmitis.	1.0753343228074608
+All patients received intraocular and systemic antibiotics in accordance with the first group of patients in the Endophthalmitis Vitrectomy Study.	1.2027494026091023
+The aim of this retrospective study was to analyze the visual outcome of surgical treatment.	1.169065728318574
+Tracheostomy is considered the airway management of choice in long-term ventilated ICU patients.	1.175343797731551
+In the last few years, percutaneous dilatational tracheostomy (PDT) has been established as an attractive and safe alternative to conventional open tracheostomy.	1.131236410128847
+Recently, there is another percutaneous technique according to Fantoni with translaryngeal airway access (TLT) available.	1.0754982754314595
+Our study seeks to evaluate TLT in terms of complications and practicability.	0.7851151123761079
+In 47 patients of our surgical ICU, elective TLT was performed.	0.8869954367458467
+Mean operative time was 9.8 +/- 10.9 (range 6-27) minutes.	1.114309329329789
+Severe complications, such as bleeding, aspiration or infection of the tracheostoma have never been noted.	0.8789757731499337
+A slight detoriation of arterial oxygen tension occured in 25 patients intraoperatively, demanding to rise the concentration of inspired oxygen temporarily.	0.9112498534091644
+However, no patient became hypoxic during the procedure.Since during the procedure gas exchange may worsen, TLT should not be employed in patients whose inspired oxygen concentration exceeds 80%.	1.1568954189777934
+Despite the fact that severe complications associated with TLT have recently not yet been reported, physicians who perform TLT should be well-trained in the technique of conventional open tracheostomy, too.	1.0248086151123896
+According to our present data, TLT seems to be an attractive and safe alternative to PDT.	1.0357877725843556
+Nevertheless, for a definiteve evaluation of TLT, further investigations in larger groups of patients and in the long term seem to be necessary.	1.4792292012429473
+There are no direct associations between testosterone levels and sexual function in the aging male.	0.9753635378312546
+A study of 169 patients focusing on the relations of hormone levels and sexual dysfunction did not reveal associations between testosterone levels and the risk of altered sexual functions.	0.9581183085247859
+In volunteers, in whom a hypogonadism was generated by the application of GnRH, no alteration in sexual reactions occurred.	1.0841487917626818
+It is possible that other testosterone fractions are more meaningful than the total testosterone.	0.9896909730300141
+However, all the known fractions correlate closely.	1.4033694680523656
+The significance of a normal testosterone level for a normal erection has been rarely considered up to now.	1.1042299539071474
+In an animal experiment, the intracavernous pressure, the density of -receptors, and the PDES activity depended on normal testosterone levels.	1.2884734766921864
+It is not known whether different testosterone levels influence the effectiveness of treatment procedures for erectile dysfunction in humans.	1.0400512298765459
+In a 65 years old male patient 38 cc of a 7.45% potassium chloride-solution was inadvertently infused within 3 hours into an epidural catheter on the first postoperative day.	1.0996837382799691
+The epidural potassium chloride administration resulted in a paresis and painful paraesthesia of the patient's legs and a level of sensory blockade to TH 11.	0.9795544537252345
+Furthermore vegetative symptoms like hypertension and tachycardia were observed.	0.6507292559034934
+For therapy a single bolus of 40 mg dexamethasone was administered intravenously followed by an epidural infusion of sodiumchloride 0,9% 99 cc/h for several hours.	0.9873725396141767
+About 6 hours after the start of infusion all symptoms had disappeared.	0.6482840512491789
+It is proposed that the use of colour-coded epidural catheter devices and coloured electrolyte solutions as well as infusion-pumps with a larger reservoir that reduce the frequency of syringe changes would be helpful in avoiding such complications.	0.9363213913419779
+This paper reviews respiratory muscle/circulation interaction in congestive heart failure.	0.8753853110734696
+Respiratory muscle dysfunction consisting of both reduced pressure - generating capacity and reduced endurance is well documented in these patients.	0.9315726048303682
+The mechanisms underlying its development and the potential consequences especially in the development of dyspnea are then presented.	0.986334831773013
+Not only are respiratory muscles dysfunctioning in these patients, but under specific circumstances they can impede the circulation, such as during weaning from mechanical ventilation.	0.897499324163503
+The underlying pathophysiology and the theoretical model explaining this interesting interaction is finally discussed.	0.8330151839638771
+Traumatic, perilunate dislocations are rare lesions, and one third of them are associated with perilunate dislocation fractures.	1.0398174479793703
+Unfortunately, one quarter of all such fractures go unrecognized, although conventional X-rays can allow their diagnosis in as many as 48% of cases, which can be improved by performing CT or bone scan in addition to 62% and 95%, repectively.	1.2787061311770578
+Forced extension seems to be the most frequent trauma mechanism.	1.0946289536696419
+The treatment consists of open reduction, predominantly of the lunate bone, and internal fixation.	1.0799827962830544
+Huge carpal fragments such as the scaphoid and capitatum are ideally fixed by means of compression screws, while smaller fragments can only be aligned with Kirschner wires.	0.9346668681453499
+Osteochondral chips are best reinserted into the bone by means of anchoring systems.	0.7747902268682931
+In cases of complex carpal instability supplementary stabilization may be achieved with an external fixator.	1.016557794201953
+The best results on the Martini evaluation score were achieved in simple perilunate dislocations that were reset early by open surgical procedures and were accompanied by minimal involvement of/damage to different tissues.	0.9702875033623353
+Although we had a nonunion rate of approximately 20% in our series of 11 mixed traumatized patients in all, the Martini classification of hand function seems to be a reliable score system for practical clinical follow-ups.	1.257423153528766
+Maternal anxiety in the event of a false positive result is an argument against universal hearing screening in newborns.	0.8884566211513263
+The aim of this study was to investigate the mothers' attitudes towards neonatal hearing screening and their anxiety in case of a positive result.	0.989155485337214
+Interleukin-2 (IL-2) and interferon- (IFN-) were both administered subcutaneously (SC) in combination with intravenously (IV) applied 5-fluorouracil (5-FU) for the treatment of patients with metastasized renal cell carcinoma (RCC).	1.1610292726846518
+The therapy protocol consisted of a treatment cycle of 8 weeks, which could be carried out in an outpatient regimen.	1.0983068624281278
+The IFN- was given in each of the 8 weeks (6-9 MU/m2 once to three times weekly SC) combined sequentially with IL-2 (5-20 MU/m2 three times weekly SC for 4 weeks) and 5-FU (750 mg/m2 IV weekly for 4 weeks).	1.2277050208767322
+Among the 30 consecutive patients treated, in 2 cases a complete, and in 9 cases a partial, remission was achieved in patients with mostly lung and skeletal metastases, with an overall objective response rate of 37 %.	1.2713615284517383
+Mean response duration was 8 months (range 3-18 months).	0.9282718290643649
+A stable state of the disease lasting 3-18 months was observed in 10 cases.	1.3265705524036613
+The side effects were only slight and corresponded to toxicity grade I (n = 2), grade II (n = 22) and grade III (n = 6), according to the WHO classification.	1.245226241203656
+In conclusion, this triple-drug biochemotherapy demonstrated significant clinical effectiveness comparable with that of an aggressive IL-2 treatment regimen (applied IV), but without its high toxicity.	1.2613364754933578
+Compression therapy was employed for 4 weeks 20 patients with chronic venous insufficiency stage CVI I and CVI II according to Widmer's classification.	1.0097569050272497
+Compression bandaging for 2 weeks was followed by compression stockings for 2 more weeks.	0.8104510988527628
+The cutaneous microcirculation was evaluated before therapy, after 2 weeks and after finishing compression therapy after 4 weeks.	1.0566341880679098
+Marked improvement in symptoms such as pain and itching was observed after 4 weeks, along with a significant reduction in lower limb volume.	0.9791296837402146
+Video capillary microscopy revealed an increase in capillary density associated with a decrease in capillary diameter and pericapillary halo diameter.	0.9050500216495093
+Compression treatment achieves at least part of its effect by improving the function of the skin microcirculation.	1.0237732592460496
+The efficacy of bandaging and stockings was similar.	0.5960916373635944
+The splanchnic perfusion is reduced early in the course of any shock.	0.7761317573095246
+The mucosa of the gut suffers most as it experiences a high oxygen demand even in the steady state.	0.9545317382365205
+The specific arrangement of the micro vessels within the villus of the mucosa exposes the tip of the villus at the highest risk for ischemia, particularly in low flow states.	1.00527155547959
+As a consequence the integrity of the mucosal layer is compromised and dysfunction of the mucosal barrier may allow bacteria and toxins to translocate from the gut lumen.	1.0744093918880082
+Activation of leukocytes and stimulation of cytokine synthesis may comprise a sustained inflammatory response syndrome.	0.7523105255979717
+So far there is a good body of evidence that the splanchnic region may play an important role in the pathophysiological sequence from shock to organ dysfunction.	1.0137969610061133
+As pacing impedance is inversely related to pacing current, the increase of pacing impedance additionally decreases pacing current.	0.9044746864012536
+Whether the impedance measurement at implantation predicts the outcome during follow-up, was studied in 87 patients who received the VDD-single lead UniPass 425 connected to the pacemaker Unity (Sulzer Intermedics).	0.9976862969360518
+The impedance changes between implantation and 6 months follow-up were assessed for each patient.	1.1265802414165624
+Similar impedance values were defined, if the two measurements were within a range <= -100 to +100 .	1.278246098856285
+Six-months impedance was lower or higher compared to implantation, if the difference exceeded > -100 or > +100 .	1.2095802153791892
+At implantation, impedance was 535  +/-  98  (range: 333-811 ) and significantly increased to 604  +/-  160  (range: 361-1150 ) after 6 months.	1.2906985566604205
+Mean difference between the two measurements was 69  +/-  162  (range: -336 bis +560 ).	1.3011279849076665
+Similar impedance had 43 (implantation: 527  +/-  75 , 6 months: 531  +/-  87 ), lower values 11 (implantation: 660  +/-  83 , 6 months: 494  +/-  73 ) and higher values 33 patients (implantation: 503  +/-  99 , 6 months: 735  +/-  168 ).	1.255887025799481
+Compared to the patients with similar impedance patients with lower impedance had a significantly higher impedance values at implantation.	1.1518629395940796
+Conclusions: Pacing impedance increased significantly within 6 months after implantation.	1.074034701166088
+Pacing impedance changed > 100  in 51% of the patients.	1.0163571037650854
+The long-term follow-up of pacing impedance can be predicted generally, but not for the individual patient.	1.2155345661201744
+Endothelin has both vasoconstrictor and mitogenic properties and might, therefore, play a role in the pathogenesis of acute coronary syndromes and coronary atherosclerosis.	0.9554784335859364
+The aim of the study was to characterize the mechanisms and kinetics of cardiac endothelin-1 (ET-1) release following a local endothelial injury during PTCA (group A) and after sustained myocardial ischemia (group B).	1.1825771015375295
+Additionally, the precision of agreement between measurements in coronary sinus and peripheral venous samples should be analyzed.	0.9547178056212859
+Since first described in the early 1990s, coronary magnetic resonance angiography (MRA) has evolved as a promising noninvasive modality for imaging of the coronary arteries and evaluation of coronary artery disease.	1.2460461566656633
+Despite technical limitations, coronary MRA has established value for imaging of anomalous coronary artery and assessment of bypass graft patency.	0.987242695916163
+Current research focuses on the development of optimal respiratory compensation strategies, improved spatial and temporal resolution and faster acquisition of image data.	0.8571947148400574
+The accurate detection of stenoses and assessment of the severity of coronary atherosclerosis is presently being evaluated with large multicenter studies.	1.024787172343767
+With further technique enhancements and more clinical experience, coronary MRA is likely to become the dominant noninvasive modality in clinical cardiology.	0.89393067654476
+Which consequences can be ascribed to the intraarticular position of devices in the operative treatment of a slipped capital femoral epiphysis?	0.9241528620650258
+Which steps are to define as a standard of a careful procedure?	1.0765994764178837
+A digitised three-dimensional (3-D) image of the face has many valuable uses.	1.2337652503189833
+These include accurate measurements of facial morphology, clinical documentation and objective analyses of surgical procedures.	1.0155735134704833
+A new system presented here, based on stereophotogrammetric techniques, instantaneously captures digitised images using high-resolution cameras.	0.8999115495875304
+It has an accuracy of more than 0.5 mm RMS and creates the 3-D image from approximately 20,000 points.	1.0521722406717435
+The principles of the image capturing are demonstrated and the potential uses discussed.	0.9602170473212777
+Surgical changes of the soft tissue in two patients following orthognathic surgery are also illustrated.	1.0404314269391397
+This new capturing and measurement system provides a simple method of determining 3-D changes in soft tissue following surgery and is a useful tool for clinical purposes.	1.0731710226497677
+A potential impact of tricyclic antidepressants on oral anticoagulation is controversial.	0.7009769071754813
+Phenprocoumon - the most commonly used anticoagulant in Germany - is rarely considered in clinical trials.	1.452252680297071
+In the present study, a potential drug-drug interaction between phenprocoumon and tricyclics, causing an alteration in prothrombinemic effects, has been investigated.	1.1417746803762694
+To analyse the possible injuries of vertebral segments, especially the disc, after unstable thoracolumbar fractures stabilised with AO internal fixator, we performed magnetic resonance imaging (MRI) of the traumatised region after implant removal.	1.209976983048408
+There were two aspects of disc degeneration (DD): (1) biochemical changes and (2) structural damage.	1.0337112514027842
+MRI detects biochemical processes as one aspect of DD that is often small even in the presence of greater structural damage of the nucleus pulposus caused by fracture.	0.915879501406395
+None of the patients presented with structural failure of the anulus fibrosus, which is the essential structural component of the vertebral segments with regard to stability.	1.2579434724064205
+We observed biochemical changes more often in the lower of the two fracture-adjacent discs and alterations of discal shape more often in the upper of the two, whereas loss of height concerned both discs to approximately the same degree.	1.2344653596101571
+The supporters of upper-disc resection in thoracolumbar fractures justify their procedure among other things with the structural disc damage, such as alteration of shape and loss of height (altogether more frequent in the upper disc).	0.9964786743592896
+Our observations that a disc with a structurally altered nucleus pulposus can be biochemically intact and can show an intact anulus fibrosus are arguments in favour of disc preservation.	0.8831807746760062
+With regard to the upper disc, the widespread opinion that complete and regular disc damage requires a resection has to be revised.	1.1525211828544246
+The question of whether the lower disc should be resected more often because of its greater biochemical changes cannot be answered by the present study alone.	1.138820078617324
+Besides the excellent static information in all anatomical structures of the vertebral column available by MRI, a repeat examination in a prone position yields dynamic information on the spinal cord in the case of suspected dorsal adhesions.	1.119222706594845
+To study the frequency and clinical aspects of cold urticaria in Central Europe, patient data from a university dermatology clinic and a private dermatology office between 1984-94 were analysed and the patients reexamined if possible.	1.0522559743309516
+The incidence of cold urticaria was found to be 0.05%.	1.0896638829965923
+Of the 56 patients with cold urticaria (31 women, 25 men), 49 had idiopathic cold urticaria.	1.1500294951135632
+The mean age was 41.0 +/- 15.6 year, the mean duration of disease 7.9 +/- 5.8 years.	1.2428516344978637
+Atopy was found in 46.5% of patients, and 23.2% of the patients suffered from other types of urticaria (cholinergic, chronic idiopathic, dermographic, aquagenic and heat-induced).	1.0854786131128902
+Laboratory examinations were only rarely abnormal.	0.7149098201041626
+44 patients were treated with antihistamines, with generally only moderate symptomatic improvement.	1.0250532846096179
+Treatment with antibiotics (penicillin, 1-2 mil IU/d over 2-4 weeks, n=18, or tetracyclines, 2 g/d over 2 weeks, n=10) induced full remission in 13 patients and symptomatic improvement in 8.	1.1078832402058532
+During an average of 6.5 year-follow-up, 20 of 43 symptomatic patients went into spontaneous remission.	1.109832572854369
+The good therapeutic response to antibiotics in this study underlines the need for a better elucidation of the cause of cold urticaria, in view of possible infectious causes.	1.1964320007368645
+Background: Since its first implantation as an eyeball replacement in the United States in 1985, hydroxyapatite has been rarely used as an orbital implant in Germany.	1.1046762446624725
+The aim of the study was to collect data on long-term tolerance, postoperative complications and the cosmetic end results.	1.016099268039452
+A 37-year-old woman had intensive care for 105 days and artificial ventilation for 72 days because of a lung transplantation and multiple postoperative complications.	1.0446970516325778
+She developed severe heterotopic ossification of both shoulders, the right elbow and both hip joints.	1.0612394847361
+Owing to complete joint stiffness, she was immobilized and unable to eat or drink without help.	0.7680148994093049
+Operative treatment was performed in two procedures.	0.9912646700459808
+The right shoulder and right elbow were operated on first; the right hip and later the left hip were operated on after recovery from the previous surgical procedures.	1.1075020041252501
+After 22 months, there was a good functional result; the patient took part in all activities of daily life and was pain-free.	1.244801316188302
+The present knowledge on heterotopic ossifications is summarized, as well as possible prophylactic measurements.	0.9762339788415585
+Background: Atrioventricular nodal reentrant tachycardia (AVNRT) is one of the most common forms of supraventricular tachycardia in the pediatric population.	1.1645833368529834
+Patients and methods: 41 children with a mean age of 9.6 (3.7-16) years with recurrent atrioventricular nodal reentrant tachycardia (AVNRT) refractory to medical treatment (n=38) and recurrent syncope (n=3) underwent electrophysiologic (EP) study.	1.189995957268007
+In all patients dual AV-nodal physiology could be demonstrated during EP study and typical form of AVNRT (mean heart rate 220/min) could be induced by programmed atrial stimulation.	1.1073062819725819
+A steerable 7 F ablation catheter was placed at the inferoparaseptal region of the tricupid valve annulus close to the orifice of the coronary sinus with the intention to record a late fractionated local atrial electrogram during sinus rhythm.	0.9834137449858813
+Starting at this point radiofrequency current (500 kHz) with a target temperature of 70 °C was delivered with the intention to ablate the slow pathway.	1.0007939218570312
+If a slowly accelerated junctional rhythm (<120/min) occurred during energy discharge, programmed atrial stimulation was repeated.	1.043383977543364
+Otherwise radiofrequency current was delivered step by step up to a septal position next to the tricuspid valve annulus.	0.8582928935049392
+Slow pathway ablation was defined as lack of evidence of dual AV nodal pathways during repeated atrial stimulation.	0.8591814149947121
+Slow pathway modulation was defined as maximal one atrial echoimpulse after ablation.	0.7326647669844291
+Results: The number of energy applications ranged from 1-19 (median 6).	1.1488052376781597
+In 35/41 patients slow pathway ablation could be achieved; in six patients the slow pathway was modulated.	1.00042107828781
+In none of the patients permanent high grade AV block was observed.	1.0351416247519565
+During follow-up (mean 4.1 years) two patients had a recurrent episode of AVNRT after slow pathway modulation.	1.2593626649289051
+All other patients are still free of AVNRT without medical treatment.	0.9256135072619983
+Conclusion: Selective radiofrequency current ablation/modulation of the slow pathway is a safe and curative treatment of AVNRT in young patients.	1.065801431839585
+Since we had the impression that there was an increase in blood loss during mammaplasties after a change in the anesthesiology department responsible, we conducted a study to compare 28 cases from each anesthesiology department.	1.1747049881531317
+All operations were carried out by the first author in succession using the same operative technique.	1.0615086036809496
+The two groups did not differ in age, BMI, operative time, weight of resected tissue or preoperative laboratory.	1.1913226395661247
+Blood loss was calculated from the perioperative drop in hemoglobin and patient's blood volume.	0.9153535081406989
+Blood pressure, heart rate, medication and intravenous fluid supply were obtained from the anesthetic protocols.	0.7849890624915714
+Results (means and standard deviations): Group I (n = 28) and [Group II (n = 28)]: total resected tissue 1862  +/-  928 g [1912  +/-  791 g]; Hb-preop.	1.1267777444560236
+13.6  +/-  0.9 g/dl [13.8  +/-  0.8 g/dl]; Hb-postop.	1.1550576739397793
+10.8  +/-  1.3 g/dl [9.7  +/-  1.3 g/dl] P = 0.006; Blood loss 970  +/-  339 ml [1443  +/-  456 ml] P < 0.001.	1.0913483640849202
+After exclusion of surgical or biological causes hemodynamic effects of the anesthetic techniques were suspected as the reason for the significant difference in blood loss.	1.10195506240919
+MAP was elevated only initially, while the heart rate was considerably elevated throughout the procedures in group II.	1.2782889621780926
+During anesthesia with nitrous oxide and enflurane, the dose of enflurane in group I could be limited to 0.3-0.5 % after initial i. v. administration of 60 to 100 µg sufentanil, while in group II without opioids doses of 0.5-2 % were required.	1.3460114851931393
+The well-known dose-dependend effect of enflurane on the peripheral vascular tone was not masked by vasoconstrictors at the operative site.	0.9170791447487558
+Conclusions: Blood loss during mammaplasties can be affected considerably by the anaesthetic technique - even without deliberate hypotension.	1.2623909805529256
+Sufentanil can indirectly reduce the blood loss by lowering the necessary dose of enflurane.	1.0041724427202994
+Blood transfusions can be avoided at mammaplasties.	0.9424428074796511
+Continuous epidural infusion of bupivacaine with the opioid fentanyl represents an effective analgesic method in the therapy of strong postoperative pain after major surgery.	1.0228204169759454
+Preparation of the required infusion solution in syringes with a volume of 50 ml immediately prior to administration is routinely performed by nursing staff in Germany.	0.8942048735815726
+The effort required for the preparation is associated with logistical and pharmaceutical difficulties.	0.8398589221471777
+The preparation of a mixture of bupivacaine hydrochloride 0.06% and fentanyl 0.0002% in 250 ml infusion bags at the pharmacy of the University Hospital Mainz is described.	0.9850155699144013
+To determine the physicochemical stability, the concentration of bupivacaine-HCl and fentanyl was assessed using HPLC over a period of 32 days; in addition the pH values were determined.	1.0596126671422368
+After 32 days 95% of the bupivacaine hydrochloride and fentanyl baseline values were recorded.	1.0531624335955527
+The pH baseline value had decreased from 5.48-5.52 to 0.5-0.7 units.	1.2252642211821059
+The measured values confirm the physicochemical stability of the mixture of bupivacaine hydrochloride 0.06% and fentanyl 0.0002% over a period of 32 days.	0.8180096552307071
+The infusion bag can be stored for 4 weeks at room temperature.	0.747978995461603
+The programming of a cochlear implant speech processor used by young children is often difficult, especially when the stimulus level associated with maximum auditory loudness (MAL) needs to be determined.	0.9341167607584946
+Excessively high stimulation should be avoided as this can have a traumatic effect.	0.9713899425728781
+The aim of this study was to determine if a relationship exists between the intraoperatively determined electrical stapedius reflex threshold (ESRT) and the postoperatively determined MAL and hearing threshold for 27 patients, each having one of three implant types.	1.1077780736670193
+The question of whether the ESRT provides a practical technique to simplify, improve and accelerate speech processor programming was investigated.	0.8879804977749385
+For the monopolar stimulation mode used for the Med-El and Clarion implant systems, the average MAL and threshold was expressed as a percentage of the average ESRT across all electrodes.	1.0083939436015856
+For the "common ground" stimulation mode used for the Nucleus implant system, a parabolic transformation was used to relate MAL and ESRT to one another.	1.0176410025111302
+These transformations between MAL values calculated from the ESRT and the actual MAL values, determined psychoacoustically, diverged considerably from one another.	0.9170449986470802
+Therefore, it was not possible to determine the MAL from the ESRT with certainty.	1.2452239708840147
+The ESRT does, however, provide a means to estimate an approximate upper boundary for the MAL, apart from its use to control implant function.	1.0528862808764319
+The determination of the exact MAL will still need to be determined using behavioural techniques.	0.9472159923519078
+Movements and vibrations of intraocular structures can be observed during vitrectomy with mechanical cutting systems.	0.871510472852265
+We experimentally compared these intraocular motion artifacts between mechanical and erbium:YAG laser vitrectomy.	0.7299722914169755
+Spontaneous rupture und false aneurysms of the non-arteriosclerotic aorta are rare.	0.6725391557511254
+We report on a 53-year-old patient with false aneurysm due to covered rupture of the thoraco abdominal aorta following sarcoidosis initially repaired by semicircumferential aortic end-to-end anastomosis.	0.9853368520030799
+After 6 months local recurrence occurred and the afflicted aorta was replaced by autologous arterial graft, transferring the right iliac artery as aortic patch.	0.9235672306667403
+The iliac reconstruction was performed by PTFE interposition.	0.8901709960494887
+There was no specific therapy for sarcoidosis.	0.9623876757676056
+At 1 year follow-up there was no recurrence and the patient is free of symptoms.	1.2709122104398498
+In this biomechanical study the implanted Unreamed Humeral Nail (UHN) has been tested concerning bending and torsional stiffnesses.	0.9300431785823531
+In literature other intramedullary implants have been critisized for insufficient rotatory stability especially in transverse and short oblique fractures of the humeral shaft.	0.9151358983410058
+This study examined, whether the implanted UHN, as well as the UHN implanted with interfragmentary compression through a specific compression device, is able to augment torsional stiffness significantly.	1.0710262943152145
+To evaluate bending and torsional stiffnesses, the UHN has been compared biomechanically to the Russell-Taylor humeral nail (RT) in paired mid-shaft osteotomized cadaveric humeri.	1.0073699866366166
+Identic paired comparison has been performed with the UHN without and UHN with interfragmentary compression.	0.8676325172669673
+In anterior-posterior, as well as medio-lateral direction stiffness under four-point-bending is significantly higher in stabilizing with the RT.	0.7844458054478093
+Under torsional loading with moments of 4 Nm, 6 Nm and 8 Nm the UHN reached more than the double torsional stiffness.	0.8595115154237891
+The RT, which is only dynamically interlocked, owns a high initial "play" between bolts and nail itself.	1.0620345808897458
+Through additional interfragmentary compression stiffness of the UHN under four-point-bending in anterior-posterior, as well as medio-lateral direction augments significantly.	0.695083852399455
+Also under torsional loading with moments of 4 Nm, 6 Nm und 8 Nm torsional stiffness increases with interfragmentary compression significantly.	0.7491930134361451
+In comparison to other biomechanical studies of different autorship it is clear, that this statically interlocked intramedullary nailing of the humeral shaft is superior to non-statically interlocked types of nailing concerning their stabilizing potency in torsion and serves especially for fracture types, which are critically under rotation, as transverse or short oblique humeral shaft fractures.	1.0845187965925447
+While the different national health systems merge structurally, cost expansion in health care is a global challenge.	0.9420603536141015
+Structural reforms have been developed during recent years in the USA which can be summarized as "managed care".	1.0365734824603912
+They are characterized by the evolution of an economically orientated system, in which units of medical therapy are generally handled like conventional economical goods.	1.0920116913991451
+In managed-care models, patients are deliberately directed to the most economic forms of therapy.	1.0951475191190916
+The spectrum of medical interventions as well as diagnostic or therapeutic patterns are predefined by a system of contracted guidelines, which lead to a standardization of processes.	1.0605698250656737
+Financing and medical executive responsibilities fuse.	0.5871916031282585
+The autonomy of medical decisions is clearly reduced to enforce an integrated and economically oriented steering of the health system.	0.8840784912819828
+Leadership is no longer primarily confined to doctors or scientists.	0.8386834191901343
+It is progressively shifting to financing institutions, managing directors or insurance companies.	0.6486923047674388
+Structural changes currently are expanding rapidly in the U. S. and have meanwhile led to marked regional reductions of medical costs.	0.8842803404805721
+Nevertheless, the US model is still far more expensive compared to the German system.	1.1989177157152593
+Historical development, current concepts of US-managed care, its potential influence and general applicability to the German situation are discussed in an overview.	1.095845258219361
+On the subject of natriuretic peptides there is a great deal of controversy, and intensive research efforts have been made studying their effects on electrolyte homeostasis.	1.1774082445267695
+In the early 1980s, a peptide that caused diuresis, natriuresis, and had a relaxant effect on vascular smooth muscle was discovered independently by several groups.	1.156113590731938
+This was the breakthrough for the identification of natriuretic peptides, followed by the characterisation of the amino-acid sequences of several species.	0.8733707455466935
+Synthesis of the peptide, cloning of the encoding gene, identification and characterisation of specific receptors, as well as the development of antibodies and radioimmunoassays were rapidly accomplished.	0.9621358494410391
+Research on the immunohistochemistry of cardiodilatin/atrial natriuretic peptide (CDD/ANP) and the regulation of CDD/ANP gene expression led to detection of the peptide in extra-atrial tissues.	1.0855793515820944
+Later on, two new peptides were discovered brain natriuretic peptide (BNP) and C-type natriuretic peptide (CNP).	0.9718985282350843
+These peptides share structural features with CDD/ANP with regard to their 17-amino-acid-exhibiting loop bridged by a disulfide bond.	0.8533285906476699
+Another recently discovered peptide is urodilatin (URO), a renal-borne new member of A-type natriuretic peptide.	1.0370157511531504
+URO was isolated from human urine and consists of the same sequence as CDD/ANP, containing the 17-amino-acid residue loop of the circulating hormone with 4 additional amino acids located at the NH2-terminus of the peptide.	0.9414709885485103
+Regarding physiological actions, data strongly support a close association between URO and urinary sodium excretion.	0.9247287421174707
+The application of URO in animals revealed a stronger diuresis and natriuresis with a lower influence on arterial blood pressure compared to CDD/ANP-99-126.	0.9019440711881744
+These results were encouraging for the use of URO in clinical trials as a tool to prevent acute renal failure (ARF) in patients following heart transplantation and for treatment of incipient ARF in patients following liver transplantation.	1.1690199737916245
+Summarising the results of these two studies, URO represents a new approach for not only prevention, but also for treatment of ARF following organ transplantation.	1.2057006352855637
+This opens up new possibilities for the treatment of ARF of other origins in intensive care medicine.	0.7975562636102842
+Dermatomyositis in a 7 year old girl was diagnosed two months prior to admission to our pediatric rheumatology program.	1.017891386663085
+Serological and molecular biology methods were used to investigate the evidence for a recent coxsackie-B-virusinfection.	1.1103768296381793
+Objectives Wide approach to the posterior aspect of the scapula for internal fixation of unstable fractures of neck of scapula and glenoid.	1.0172426216098316
+The guideline "Joint Swelling" is addressed to primary care physicians - general practitioners, internists or orthopedists without special experience in rheumatology.	1.0513259910117185
+It provides a framework for interviewing patients, as well as for physical, laboratory and imaging examinations and for selection of treatment appropriate to the level of primary care.	1.0736223144862582
+Situations which call for urgent evaluation and criteria for referral to rheumatologists are described.	0.7412153816493742
+The appendix contains comments on signs and symptoms to differentiate arthralgia from joint swelling and on the diagnostic value of a history of joint swelling without confirmation by the physician.	1.0057191630590079
+Further recommendations for the evaluation of patient history and physical and technical examinations are given in a tabular form.	1.0271047633897816
+The significance of laboratory and imaging procedures is discussed.	0.8243922194388832
+Introduction: Bile duct complications after laparoscopic cholecystectomy occur twice to three times more frequently than after an open procedure.	1.0449898043852515
+Four different types of lesions may be differentiated by the Siewert classification: postoperative bile fistulas (type I), late strictures (type II), tangential injuries of the bile duct (type III) and defect lesions (type IV).	1.1352546815194655
+The diagnostic and therapeutic management is demonstrated in relation to our own experience and the literature.	1.1518887562288218
+Methods: Eleven patients (median age 43.8  +/-  17.2) with bile duct complications after laparoscopic cholecystectomy were operatively treated between November 1993 and December 1998.	1.1750310306409506
+Nine patients (four type-II lesions, five type-IV lesions) were referred from another hospital; 2 defect lesions out of 410 laparoscopic cholecystectomies (0.5 %) were documented in our own patient group.	1.144724657488718
+Results: Four patients with late strictures were operatively treated with a hepaticocholedochostomy (n = 2) or hepaticojejunostomy (n = 2) after 14.3  +/-  8.4 months and were discharged from hospital after 10.6  +/-  3.8 days.	1.2935616265860805
+In both cases with type-IV lesion and a short defect, an end-to-end anastomosis was successful (hospital stay 11.6  +/-  1.0 days).	1.119383549140075
+However, a retrocolic Roux-Y end-to-side hepaticojejunostomy was perfomed in all cases with a larger defect (n = 5; hospital stay 14.8  +/-  2.0 days).	1.196135685347489
+The two defect lesions in our own group were detected by intraoperative cholangiography and immediately treated after conversion either with hepaticocholedocho-stomy or hepaticojejunostomy (hospital stay 11.2  +/-  0.6 days).	1.0090716652251617
+Conclusions: The incidence of bile duct complications after laparoscopic cholecystectomy might be kept down by anatomic preparation, selective intraoperative cholangiography and early consideration of conversion to open procedure.	0.8812510985858651
+The clinical course after biliary tract injury can be positively influenced only by a standard diagnostic and operative procedure and by an early transfer to a specialized center.	1.1327786922023224
+In the last years the incidence of renal cell carcinoma diagnosis increased about 15-20 %.	1.012036751705367
+The main aim of this study was to analyse the reason of the increase of incidence.	0.9685735353460946
+In the present autopsy series comprising 23.801 autopsies the percentage of patients who died of renal cell carcinoma is 1,77 % in Jena and 1,55 % in Königgrätz (200.000 inhabitants each).	1.3141036977527956
+Over this time the incidence of renal cell carcinoma in autopsies has increased.	0.9333552982243036
+With the advent of atypical antipsychotics, quality of life for patients with schizophrenia has improved significantly.	1.0205817082771051
+The positive effects are based not only on the compliance-enhancing reduction of extrapyramidal side effects but also due to improved cognitive function and social integration, shorter duration, and overall reduction of hospital treatment.	1.0555245760680905
+The mortality of perioperative myocardial infarction is still high and according to recently published data amounts to 17 to 42%.	0.9894712554399391
+In the seventies introduction of thrombolytic therapy has led to a dramatic reduction in mortality of non-perioperative myocardial infarction.	0.8772932639390502
+However, in the perioperative situation thrombolytic therapy remains to be problematic in most cases because of expected severe bleeding complications.	1.2140913522386574
+In the last 4-6 years acute-PTCA has been established in the therapy of acute myocardial infarction.	1.1088387041255618
+Up to date no data are available concerning the effect of acute-PTCA on mortality of perioperative myocardial infarction.	0.8669232328363201
+Nevertheless it can be assumed, that acute-PTCA will lead to a considerable reduction in mortality of perioperative myocardial infarction.	1.0375096051167227
+Therefore, in patients with significant perioperative myocardial infarction immediate coronary angiography and, if indicated, acute-PTCA should be performed.	1.2797156116415056
+In principle, thrombolytic therapy is considered to be contraindicated in the intra- or postoperative situation.	1.0278115619252213
+However, if coronary angiography and PTCA are not possible, thrombolysis might be taken into consideration, in particular if the expected bleeding complications are small in relation to the expected benefit of thrombolysis.	1.3202098595848326
+Since acute-PTCA has been shown to remarkably reduce mortality in patients with cardiogenic shock after acute myocardial infarction, this group of patients should be especially considered.	1.045912106830486
+Medical theories and practices concerning illness and health in old age as well as several aspects of society that do influence the aging process are described from a historical perspective integrating classical antiquity, middle ages, and modern times.	0.9858343609208525
+From the present state of research it is distinguished between "primary illnesses in old age" and chronical diseases which might principally also begin in younger ages but take a different course in old age.	1.0275860179542295
+Even if the frequency of disease and multimorbidity is increasing, negative stereotypes of the aging process have to be invalidated.	1.0843934785392293
+Advances in medical sciences are a good pre-condition for increasing physical and mental health in old age.	0.8869257441112639
+The analysis of wall motion abnormalities with dobutamine stress echocardiography is an established method for the detection of myocardial ischemia.	0.9475901677065072
+With ultrafast magnetic resonance tomography, the application of identical stress protocols as used for echocardiography is possible.	0.94077676992211
+Transvaginal ultrasound provides an early and accurate technique to assess first trimester pregnancy.	0.8969486091538823
+Beginning with the demonstration of an intrauterine gestational sac, sonography enables further evaluation of normal pregnancy development, such as identification of the embryo, visualization of the yolk sac, and the presence of fetal cardiac activity as a reassurance of fetal viability.	1.0932266178864634
+Furthermore it allows closed sonographic monitoring of early intrauterine pregnancy and distinction between normal and abnormal development of pregnancy.	0.8842055240399365
+A prediction in terms of pregnancy outcome can be made regarding pregnancy complications or specific risks like vaginal bleeding, the demonstration of intrauterine hematoma, advanced maternal age, early growth delay or fetal bradycardia.	1.0347476965544835
+Because of the marked heterogeneity of patient groups and the diverse causes of obstruction, surgical therapy of the small-bowel ileus is difficult to standardize.	1.1709539048659976
+A homogeneous strategy of intraoperative handling of the obstructed bowel (decompression, endoluminal splinting) as well as abdominal closure would be desirable.	0.8697966045502932
+Adhesiolysis remains the most common procedure.	1.1081881491523031
+Small bowel plication is still used by a minority of surgeons with the Noble's technique replaced by the Child-Phillips' technique and its modifications.	0.9138485564992406
+However, as a result of the lack of controlled studies, there is no large body of evidence available to support the use of plication, long tubes or any other specific surgical intervention.	1.1930532541234602
+This is an important task for the future, especially in view of incidence and economic importance of small bowel-ileus.	1.2331214551285645
+Purpose: The purpose of our study was to determine the value of MRI in monitoring laser-induced interstitial thermotherapy (LITT) of cerebral neoplasms.	0.9607347605448091
+A 70-year-old woman with severely symptomatic hypertrophic obstructive cardiomyopathy was unresponsive to drug treatment.	0.7924349593374627
+She had recurrent ventricular tachyarrhythmias and syncope and was at high risk for sudden death; a dual chamber pacemaker defibrillator (DDD-ICS) was implanted.	1.0392525541472286
+Her initial left ventricular outflow tract gradient was 80 mmHg and fell to 40 mmHg during dual-chamber pacing at an atrial ventricular delay of 140 ms.	0.9172089312033781
+In the follow-up over six months she was asymptomatic with respect to angina pectoris; ventricular tachycardias could be successfully terminated by antitachycardia pacing or by shocks.	0.9410470689906834
+A dual chamber pacemaker defibrillator is an important therapeutic option for patients with symptomatic hypertrophic obstructive cardiomyopathy and ventricular tachyarrhythmias.	0.9484992369282288
+Morbihan's disease was first reported as a distinct entity in 1957 by Degos, describing a chronic persistent erythema and oedema of the upper half of the face.	1.0553344181094588
+Such conditions have been noted in the literature designated as chronic lymphoedema or solid persistent facial oedema in acne or rosacea.	0.9524213281787216
+The characteristic features are a chronic course, a typical clinical picture, lack of specific laboratory and histological findings and refractoriness to therapeutic measures.	1.166508840929529
+Paediatric cardiac transplantation (pHTX) has gained widespread acceptance as a therapy in end-stage myocardial failure and some forms of congenital heart disease, particularly hypoplastic left heart syndrome (HLHS).	0.976147462189022
+The major problems to the anaesthesiologist in these patients are induction of anaesthesia in infants with HLHS and treatment of pulmonary hypertension in the early post-bypass period.	1.3536672986373566
+Objective: Thirty years ago, cardiopulmonary resuscitation (CPR) was primarily developed for otherwise healthy individuals who experienced sudden cardiac arrest.	1.0042845699613927
+Today, CPR is widely viewed as an emergency procedure that can be attempted on any person who undergoes a cessation of cardiorespiratory function.	0.9470693193426594
+Therefore, the appropriateness of CPR has been questioned as a matter of the outcome, the patient's preferences, and the cost.	1.4361778274132317
+The objective of this article is to analyse ethical issues in prehospital resuscitation.	0.9366294838885111
+Arguments: CPR is bound by moral considerations that surround the use of any medical treatment.	0.9216924226152194
+According to Beauchamp and Childress, the hierarchy of justification in biomedical ethics consists of ethical theories, principles, rules, and particular judgements and actions.	0.9679418948720108
+The decision to start CPR is based on the medical judgement that a person is suffering from circulatory arrest.	1.0242615503815669
+The decision is justified by the moral rule that the victim of a cardiac arrest has the right to survive and to receive CPR.	1.0680295318032644
+Moral rules are more specific to contexts and are based on ethical principles.	0.8806278888646324
+The principle of beneficence means the provision of benefits for the promotion of welfare.	0.7399139313539617
+Talking about beneficence in resuscitation means once again reporting stories of success, as many victims of pre- and in-hospital sudden death have been saved in the past.	1.1377724416099342
+Nevertheless, resuscitative efforts still remain unsuccessful in the majority of cases, involving the principle of nonmaleficence.	1.0369080827860266
+There is potential harm in CPR.	0.540187319006227
+Survivors may recover cardiac function, but sustain severe hypoxic brain damage, at worst surviving without awakening for months or years.	0.9981158381327744
+In particular, post-traumatic CPR is associated with an extremely poor outcome, leading to the issue of futility.	1.0761942345312794
+However, futility should be defined in a strict fashion, as there might be an individual chance of survival.	1.2801534812441304
+The principle of respect for autonomy means the right of a patient to accept or reject medical treatment, which continues in emergency conditions and after the patient has lost consciousness.	1.2142500836659005
+The time frame in CPR requires medical decision-making within seconds, and CPR is usually initiated without the patient's involvement.	1.0330844084693116
+If the patient's wish's can be ascertained later on, life-sustaining therapies might be withdrawn at that time.	0.9416949655030106
+Terminally ill but still competent patients should be encouraged to write a no-CPR document, which does not deny patients relief from severe symptoms, but might facilitate withholding resuscitative efforts at the scene.	1.0090652009755023
+The principle of justice affects priorities in the allocation of health care resources.	0.7541977678815887
+The decision made for a particular patient might delay or prevent emergency treatment in other patients who could receive greater benefit.	0.9904446129457696
+Conclusions: The standard of care remains the prompt initiation of CPR.	1.1167239194679446
+However, ethical principles such as beneficene, nonmaleficence, autonomy, and justice have to be applied in the unique setting of emergency medicine.	1.2308145851370325
+Physicians have to consider the therapeutic efficacy of CPR, the potential risks, and the patient's preferences.	1.4031844571835526
+Acting within the context of the therapeutic process is often equated with acting-out.	1.0612892798088511
+Subtile behaviour, too, as a part of the "complex system of sending and receiving unconscious signals" (Sandler) which serve for the patient to induce behavior of the transference object in the analyst or fulfilling his unconscious wishes is seen as acting-out or microacting-out (Treuniet).	1.1180358733740192
+However, this delicate acting has no meaning, it is not symbolic or communicative action.	1.196671117542719
+It is aimed at inducing effects and interactions.	0.6090605887213189
+It appears both on the side of the analyst and of the patient and is part of the unconscious communication in the therapeutic process.	1.2100230274715935
+Diverse interactive means and ways will be demonstrated, how the analyst is moved to unnoticed acting and to handling the patient in an unnoticed manner in a certain way.	1.0113338044140845
+The acting-reactions of the analyst may have the character of interpretations, by which he unintentionally demonstrates, in what a way he understands the patient.	1.1081417502636008
+Background: The therapy of phimosis is circumcision.	1.1099485019351243
+Since many years it has been discussed, whether phimosis is treatable with local estrogen application analogous to the treatment of labial synechia in girls.	1.0340303001535829
+This conservative treatment depends on the presence of estrogen receptors (er-alpha) in male prepuce-cells.	0.9962945088661085
+Findings in previous investigations have indicated that contrast-enhanced colour Doppler can be used to improve the demonstration of characteristic features of neovascularization in malignancies.	0.9195949090831138
+However, the quantification of the increase in colour Doppler signals after Levovist in the cited study relied only on descriptive criteria defined by the investigator, resulting in a subjective scoring system.	1.0344596009503704
+A computer-assisted method for quantitative analysis of colour pixel density is a novel approach for objective assessment of colour Doppler signal after contrast media administration.	0.9989351809530355
+After microbubble contrast medium injection in 47 patients, carcinomas and benign lesions behaved differently regarding degree, onset and duration of Doppler enhancement.	0.9137274172502236
+However, the high interindividual variability and the temporal variations of the Doppler signal still limit the value of these criteria for prospective diagnosis.	1.1468175060257932
+Rapid image-acquisition techniques are needed in order to apply the necessary mathematical processing before the contrast kinetics can be used for diagnostic purposes.	1.0679692158206453
+Recent studies have shown that increased intraocular pressure following keratoplasty may cause progressive endothelial cell loss and thereby lead to early transplant failure.	0.8385437829037142
+This study examined risk groups for development of postoperative glaucoma and thereby transplant failure.	0.900410516782303
+Dysphagia is a common complaint following surgical intervention in the oral cavity and hypopharynx, often leading to prolonged postoperative recovery.	1.09237261826526
+Videofluoroscopy allows detailed visualization of deglutition, demonstrating the morphology as well as the functional aspects.	1.1301840038179032
+Therefore, videofluoroscopy provides the basis for further therapeutic management.	1.2844857140596124
+We discuss the pathology of deglutition in 19 patients recovering from tumor surgery of the oro- and hypopharynx.	0.9827013453407338
+In most cases the results demonstrated severe impairment of both the oral and pharyngeal phase of deglutition.	1.1403320981510998
+Our data emphasize the importance of the oral phase of deglutition for preparation and initiation of the following phases.	1.1439214169906786
+People who suffer a stroke most often experience a major crisis in their lives.	0.86022670017567
+This leads to psychological problems which are likely to influence the patient's life satisfaction, long-term rehabilitation outcome, and quality of life as much as the physical consequences caused by the stroke.	1.0894614340065574
+The patient's ability to accept the new reality created by a disability as a part of their future life is therefore essential.	1.013663205687011
+This necessitates an individual coping strategy in the center of which is a mourning process, which unfolds in the same way as other experiences of vital threat, e.g.	1.0525956378592516
+confrontation with one's own dying.	0.7352382505432261
+Different stages of mourning that can also be found in stroke patients are nonacceptance of the facts, erupting emotions, parting with the former and finding of a new self as well as new perspectives for one's future.	1.0275452291591638
+Whether a coping process is successful does not depend on the type of the defense mechanisms or stages, but essentially on their persistence.	0.9954953933491848
+It is the task of the therapeutical team to support this process by applying a basic therapeutic behavior, stage-consistent interventions and a positive feedback.	1.1459069489565534
+A failed process of coping may be one of the causes of the high prevalence of psychological disorders like depression and anxiety disorders in patients having sufferd a stroke.	1.1208905035535472
+A 63-year-old woman developed a pruritic exanthema on the extremities after one hour of work in her garden pond in Planegg, Southern Bavaria.	0.9573873796746555
+As the appropriate vectors (ducks and snails) were present, we made the tentative diagnosis of cercarial dermatitis (swimmer's itch).	0.9925506071228739
+By different serological methods (cercarial fluorescent antibody test, cercarial Hüllen reaction, circumoval precipitin test) antibodies against cercariae could be demonstrated in the serum of the patient 14 days later.	0.9817542499659406
+Cercarial dermatitis appears worldwide, but in Central Europe the disease is often not recognized.	1.2892062781185847
+The current adjustment of cochlear implant (CI) speech processors is based on a knowledge of the lower and upper limits (T- and C-levels) for electrical stimulus currents.	1.1410428165104871
+These data are usually acquired from subjective classifications of individual patients.	0.8797516847689022
+In cases with non-reliable patient responses, objective methods are necessary.	0.7179962750098519
+Especially for the estimation of correct T-levels, auditory evoked potentials (AEP) can be applied, since they allow the determination of response thresholds in a frequency-specific manner.	1.0773366204905181
+By determining the AEP of different latencies, late cortical responses can be registered almost without artifact contamination.	0.8726981442012978
+These patients have been examined in 20 patients provided with 22- or 8-channel CI-systems (Nucleus or Med-El implants).	1.0243899606730984
+In all cases, clear responses and clearly discernible threshold transitions could be detected.	0.7937365809172148
+By making use of acoustical stimulation in a free sound field, subjective hearing threshold and the T-levels of electrical stimulation could be verified.	0.9591599324880932
+Since late responses are generated in the primary auditory cortex, their assessment permits a nearly integral functional control of the aided hearing system.	0.9734549468200205
+To date, no problems have occured from maturation or attentional effects in either pediatric or adult patients.	0.9622764065738005
+The applicability in very young children remains to be explored.	0.7093254080521345
+Laparoscopic gastric banding has become a common procedure in bariatric surgery.	0.8961239572183796
+Early as well as late complications are, in comparison to conventional techniques, rare.	1.0996339069005039
+Complications arising from the operative technique are: perforation, early pouch dilatation, gastric slippage, infections of the port and the band, erosion and defects of the band tube.	1.048330320125608
+Insufficient weight loss and late pouch dilatation arise from unsatisfactory compliance on the part of the patient.	0.8087391375517262
+In 7.5 % of 146 cases, reoperations were necessary.	1.121741115549464
+Obstruction of the pouch stoma and a slippage resulted in total food intolerance.	0.8363224109462993
+After radiologic diagnosis the band system should be deflated first and a naso-gastric tube applied.	0.7366766422103121
+If this does not result in the pouch collapsing, a revision operation is needed.	1.0560193716399957
+The significant legal and ecomonic ramifications of a positive drug test produce an incentive among users of illicit drugs to escape detection.	0.8177427251306094
+Therefore, being the easiest body fluid to handle for drug screening urine is very often manipulated to test clean.	1.0948068198450498
+Methods available to cause a negative result range from substitution of urine, adulteration of the collected specimen by various chemical agents and in-vivo manipulations.	0.9838328963792964
+Among these, the preferred strategy is to increase fluid intake and urine flow so as to dilute the concentration of drugs below the threshold of detection.	0.9825583685980581
+To determine the extent of possible specimen dilution the urinary creatinine concentration is generally determined.	0.8881523323081868
+Based on data from uncontrolled and controlled fluid intake studies in the literature and physiological conditions of urinary excretion, the meaningfulness of creatinine concentration in randomly obtained urine samples is discussed.	1.0801340331490554
+A low creatinine concentration not clearly proving an intentional dilution of the sample, the application of GC/MS analysis or the concentration of the urine prior to drug screening is recommended for specimens exhibiting a "suspect" urinary creatinine concentration.	1.0141490385038119
+Goal: Intracranial pressure (ICP) monitoring has a key role within the neuromonitoring, although ICP does not monitor processes of the central neuron directly and only with delay.	1.045914761233577
+One of the important factors in ICP monitoring is measurement accuracy.	1.0473844517040376
+For a better understanding of ICP probes and their differences, the function and principles of intracranial pressure transducers should be evaluated from a technical point of view.	1.0482341714719081
+The therapy for spontaneous or artificial perforation of the esophagus remains a controversial matter.	0.9663949039212961
+The following case report deals with the medical history of an artificial esophageal perforation after operative treatment of cervical disc disease.	1.0708684052845578
+A 68-year-old male patient underwent a C4/C5 and C5/C6 discectomy with interbody fusion of C7-T1 vertebral body, according to Smith-Robinson.	0.8146245025823873
+During this operation, a 3-cm-long lesion was made in the posterior wall of the esophagus, which was treated 24 h later with a primary suture.	1.2995928586999996
+The clinical follow-up was complicated by mediastinitis with subsequent multiorgan failure.	0.9668189807191913
+After recovery from this critical condition the patient complained of severe dysphagia, which was related to a persistent lesion in the posterior esophageal wall with endoscopically demonstrated dislocation of a screw.	1.1626263487502129
+After removal of the screw, the lesion was covered by means of sternocleidomastoid myoplasty.	0.9948236914321579
+Moderate postoperative dysphagia was successfully treated by bougienage.	0.8499325360024806
+Introduction: The loss of functional capacity by peripheral nerve lesion is easy to be estimated: A certain neurologic dysfunction results in a characteristic reduction of the former individual capacity.	1.2052271148127185
+In contrast, the effect of accompanying pain to every-day life and working ability is not known exactly.	0.9577196906227153
+In this study, we compared the results of judgement in nerve lesions under the circumstances of additional pain syndromes.	1.1084989022564689
+The guidelines of the International Union against Cancer are generally used to assess malignancy of squamous cell carcinoma of the skin.	1.0439304333990924
+Beside TNM-staging, histological grading is performed.	0.8261733789175664
+This system has been extended by a selection of histological parameters which were studied with respect to prognosis, based on a review of 184 patients with squamous cell carcinoma.	1.0711779450421777
+An increased malignancy was found in carcinomas with the following features: clinical diameter greater than 2 cm, low degree of keratinization, high degree of cellular polymorphism, high mitotic index and high tumor thickness index (metastases only from tumor thickness 2,4 mm and subcutaneous infiltration), desmoplasia and ulceration.	1.148834938874883
+Consideration of histological tumor parameters improved prognosis assessment.	0.7188960602132357
+Multivariate analyses with large case series are necessary to determine ranks of the prognostic factors.	0.9446220332062203
+Therefore, the data analysis of all centers that contribute to the carcinoma registry will make a precise difinition of high- and low-risk carcinomas possible and can thus influence therapy and follow-up procedures.	1.251813243819079
+Surgical closure of atrial septal defects can nowadays be performed without preoperative cardiac catheterization.	0.8698856238704443
+For a transcatheter closure, however, x-ray exposure has been indispensable.	1.029985897201146
+We report a closure of an atrial septal defect under transesophageal echocardiography without fluoroscopy.	0.9555113781304019
+In field research, training intensity was tested during three different dances by recording the exercise heart rates.	0.8622284611104613
+The subjects (twelve women from 59 to 77 years old) were tested once a week three times, over three minutes with a break of three minutes, three weeks in all.	1.102125574976773
+The sequence of the dances changed every week.	0.7268105213136609
+Measurement of baroreflex sensitivity is a new method to identify patients after myocardial infarction with a high risk for sudden cardiac death, ventricular tachycardia or ventricular fibrillation.	1.1470762722758954
+In this retrospective study the baroreflex sensitivity was obtained noninvasively by measuring the systolic blood pressure with a FINAPRES-device and correlating this with the R-R intervals of the ECG after raising blood pressure with an intravenous dose of Norfenefrinhydrochlorid (Novadral).	1.0150901494872517
+According to other investigators a correlation of >0.7 with a significance of p<0.05 was recommended for evaluable results with a baroreflex sensitivity <3 ms/mm Hg being judged as decreased.	1.0836326074556806
+We investigated 302 patients (mean age 59 +/- 17 years, 224 males, 78 females).	1.0097147612842028
+75% of the investigations showed acceptable results.	1.1260437991151446
+In 77 cases (25%) reasonable results could not be achieved.	0.9539827109252306
+We found premature ventricular beats to be responsible in 18 investigations (6% of all investigations).	1.2529512769896256
+41 (13.1%) of all investigations were not evaluable because of bad correlation for unknown reason.	1.1966471153678093
+When we looked closely at these nonevaluable results, we found a significantly higher number of patients with impaired left ventricular ejection fraction (<40%), diabetes or inducible sustained ventricular tachyarrhythmia in the electrophysiologic study in this group.	1.2266891201545507
+Embryonal rhabdomyosarcomas of the female genital tract usually occur during infancy in the vagina.	0.8472936373367036
+Only in rare cases can they be found in the cervix, where they are most commonly seen in adolescence.	1.1332109085231972
+Their prognosis seems to be good since the introduction of a combination of surgery and chemotherapy.	0.9107022666549076
+We report a case of cervical embryonal rhabdomysarcoma in IRS stage Ia in a 32-year-old female.	0.9214031560876085
+After surgical resection and chemotherapy there has been no evidence of disease for 7 months.	1.1016924115731035
+The case is compared with the published literature and prognostically relevant features, and possible problems in the differential diagnosis in biopsies are discussed.	1.18655970266288
+Between 1987 and 1993, 41 grade 3B open tibial shaft fractures were treated with the unreamed tibial nail (URTN n = 22) or an external fixator (FIX n = 19).	1.0347040188949495
+The method of treatment was left to the choice of the operating surgeon.	1.250715586773499
+Three below the knee amputations were performed, three patients died, and three were lost to follow-up.	1.2083869809981869
+In all, 32 patients were followed up to union or at least for 1 year.	1.0443540055934835
+There were no significant statistical differences between the two groups (P<0.2, chi-squared, t-test) with respect to fracture type, fracture location, age, gender or accompanying injuries.	1.1091164464230692
+The URTN group showed significantly better results regarding time to full weight-bearing (URTN 11 +/- 4 weeks; FIX 20 +/- 11 weeks, P<0.01 M-W) Mann-Whitney Test, number of reoperations (URTN 1.04; FIX 2.89; P<0.01 M-W), isolated bone grafting (URTN 3/22; FIX 8/19; P<0.05 chi-squared), and average Karlström and Olerud score (URTN 30 +/- 4; FIX 26 +/- 5; P<0.05 M-W).	1.075797335106555
+In all, 15/17 URTN patients and only 6/15 FIX patients achieved unlimited walking distance (P<0.01 M-W).	0.906722702627299
+Time to bony union, infection, and nonunion were not significantly different between groups.	0.8985728354416115
+By varying the light spectrum, impulse length, impulse sequences and fluences, the PhotoDermVL allows a large choice of individual treatment parameters.	1.0071708647670525
+Superficial as well as deeper localized vascular malformations (essential telangiectases, port-wine stains, Poikiloderma of Civatte, hemangiomatous malformations) and cosmetically bothering hypertrichosis can be treated successfully with this high intensity polychromatic pulsed light source.	0.9635360421347966
+Catheter ablation is an established method to treat paroxysmal supraventricular tachyarrhythmias.	0.9348860750270367
+However, the risks of catheter ablation have to bee weight against antiarrhythmic therapy.	1.0354571574059923
+With catheter ablation AV-block III °, pulmonary embolism, pericardial tamponade (in some cases followed by death), arterial embolism as well as other complications have been described.	1.2229124726788037
+Especially the long term consequences of prolonged fluoroscopy time are an increased risk for fatal malignancies in young patients.	1.0043813011730172
+On the other hand the efficacy of antiarrhythmic therapy in patients with paroxysmal supraventricular tachycardia has been shown.	1.0523748390523404
+The risk of proarrhythmia associated with the treatment with class 1 and class 3 antiarrhythmic drugs that has been documented in patients after mayocardial infarction and in heart failure patients cannot be transferred to patients without structural heart disease.	1.109303012164917
+It is concluded that drug therapy is still an important form of treatment in patients with paroxysmal supraventricular tachycardia.	1.0998004700518562
+Background: Chloroquine keratopathy is known as a disease with epithelial deposits in the cornea.	1.1701065211293875
+The appearance of corneal changes does not seem to be related to dose and duration of treatment.	0.7345363255231059
+The purpose of this study was to investigate microscopic changes of corneal morphology in patients treated with chloroquine in vivo.	0.9192371716777353
+Dermatological rehabilitation treatment can take different forms: climato-therapy, baths, phototherapy and psychosomatic treatments.	0.8484331464267267
+Which of these treatments is of most benefit to any one patient depends on his or her illness.	0.8945671397413226
+Accordingly, a psychosomatic approach to dermatological illness is indicated mainly when a psychological disorder and a dermatological disease coincide.	0.9738908504563274
+In addtion, dermatoses with psychological triggers or overlays, and also depression, pre-existing emotional disorders and special motivation for psychotherapy should be considered for psychosomatic treatment.	1.103866938332576
+Finally, patients who are having trouble accepting or confronting malignant skin tumours may also benefit.	1.216196619250852
+We report about the possibility of electrophysiological diagnosis and therapy in the treatment of a symptomatic left ventricular tachycardia which could not be treated effectively by oral medical therapy in a 10 year old boy with no obvious structural heart disease.	1.1702749016416862
+By right bundle-bloc-like QRS-complexes in the surface-ECG, the diagnosis of the ventricular origin of the tachycardia was confirmed by transesophageal-ECG.	1.091901822429676
+This was followed by the first electrophysiological examination that showed increased leftventricular vulnerability.	0.9361483135335771
+During this electrophysiological examination the tachycardia was terminated by stimulated singular premature beats.	0.716625087817689
+An oral medical therapy with sotalol was started.	0.6960223649153543
+After the phase of saturation the next ventricular stimulation was done, that showed no sufficient protection of sotalol against VT.	0.9856990304252436
+So the decision was made for ventricular ablation.	0.7890342670474982
+After 5 high frequency-applications no furhter ventricular tachycardia could be induced.	0.7815163570520853
+Since this intervention the patient lives without symptoms.	0.7281352272743195
+The vertebral bodies and vertebral arches show a characteristic distribution of cortical and cancellous bone.	0.833213090031015
+The pedicles are loaded by uniplanar bending that is reflected by the arrangement of the Corticalis.	0.7483543025512465
+The ligaments of the vertebral column consist of longitudinal and (with exception of the lig.	1.2302030020178425
+longitudinale anterius) horizontal/oblique segmental ligament bundles.	0.6799127289086185
+In combination with the anulus fibrosus, the ligaments work as a kind of gear system.	0.9225585014596924
+They regulate the process of movements of adjactent vertebral bodies in a very precise manner and control the final phase of motion.	1.0066466247820471
+Besides maintaining the necessary amount of pretension the intervertebral disc distributes the loads uniformly onto the adjacent vertebral bodies.	0.7530136294716422
+The intervertebral joints are important for guided motion, by restricting the extent in specific planes and directions.	1.0312558846681326
+Because of their position, they are able to take up the shear forces and to simultaneously restrict them in different planes.	1.01948067218751
+The integrity of the fascia thoracolumbalis warrants the protective function of the autochthonuos muscles.	0.790991675234639
+Prolonged immobilization or physical inactivity has been shown to produce increased bone resorption due to enhanced osteoclastic activity and diminished bone formation.	0.9045586961809247
+These skeletal changes are a typical complication in tetraplegic patients, who are at risk of developing hypocalcemia.	1.0734794242700068
+Hypercalciuria is the most characteristic symptom.	0.9564509282920942
+Risk factors for development of malignant melanoma have been investigated in several case control studies during the last decade, with some variation in results, partly with geographical region.	1.1190825668605775
+Four studies have been conducted under the auspices of the Central Malignant Melanoma Registry of the German Dermatological Society; these have yielded consistent results allowing the identification of risk factors for melanoma development.	1.0386101521738356
+The numbers of common melanocytic naevi, of atypical melanocytic naevi and the frequency of actinic lentigines were found by multivariate regression analysis to be the most important independent risk factors for melanoma development.	1.0285830872614505
+Additional factors were hair colour, skin type and a history of naevus growth.	0.9172904218297214
+A classification of relative risks was established by considering the first three risk factors mentioned, without any clear improvement of classification when further additional significant factors were taken into accout.	1.0552439831105536
+For example, in individuals with more than 50 common melanocytic naevi, 5 or more atypical melanocytic naevi and simultaneous presence of actinic lentigines the risk of developing melanoma was found to be 100-fold that in persons with 10 common melanocytic naevi or fewer and without atypical melanocytic naevi or actinic lentigines.	1.0822640698052395
+Early recognition of melanomas may be substantially improved if these risk factors are considered.	0.8922228510555054
+Furthermore, intermittent intensive sun exposure (sunburns as indicator) before the age of 20 induces the development of melanocytic naevi, and after the age of 20 it contributes to the development of actinic lentigines; both factors are associated with an increased risk of melanoma development.	1.2005459103747569
+Problem: Clinical and ultrasound data of neonatal hips were analysed to answer the question whether a neonatal screening is necessary or not.	1.0968134488353478
+Method: Children born between 1.	1.0600889454938134
+1995 were examined clinically and by ultrasound.	0.7658175412746291
+The data were analysed by SPSS/PC.	0.8704782883679485
+Results: 5069 children with 10 138 hips were examined.	0.9568488534947833
+85 % were mature (type I), 14 % were physiologically immature (type IIa) and 1.2 % were pathological (IIc, D, IIIa).	1.4559673135666789
+The comparison shows, that from 119 hips with pathological ultrasound findings only 44 (37 %) had positive clinical findings.	1.1145035170661446
+A screening that is restricted to children with positive risk factors (positive family history or breech position) would result in half of the newborns with pathological hips not being treated in time.	0.9332363338705586
+The interpretation of three-dimensional (3D) structures of the coronary tree and the myocardium by a clinician demands a subjective visual integration of two-dimensional (2D) images of cardiac diagnostic procedures like coronary angiography and myocardial scintigraphy.	0.9955378800779725
+Although in the conventional analysis of 2D display scintigraphic myocardial perfusion segments are arbitrarily assigned to three major coronary artery systems, the standard myocardial perfusion distribution territories correspond with the individual pathologic-anatomic coronary tree in only 50-60% of the patients.	1.0204026057895208
+Hence, the mental integration ob both 2D images of coronary angiography and myocardial scintigraphy does not necessarily allow an accurate assignment of particular myocardial perfusion regions to the corresponding vessels.	1.0209768830879589
+For an objective assignment of each vessel segment of the coronary tree to the corresponding myocardial regions, we have developed a 3D "fusion image" technique and applied it to patients with coronary artery disease.	1.1163551345370193
+Cause-and-effect relationships may be more obvious with 3D data fusion and may enable an easier comparison of anatomy and physiology.	0.8808406199721436
+The physician's duty of professional discretion is one of the basic tenets at the heart of the doctor's profession.	1.01539187262025
+It is laid down in the physicians' professional code and determined ultimately by the patient's right to self-determination, which is regulated in §203 of the German Criminal Code.	1.118543148301224
+It is established in the ordinance governing physicians' work and has its origin in the patient's right of self-determination.	1.034632991922028
+It is also regulated in §203 of the German Criminal Code.	0.7725602185874267
+An exception can be made to the duty of professional secrecy if a patient gives express permission for this or if it is allowed or required by law.	1.0165345545136864
+Some such exceptions are also specified in the German Social Code, although the physician's duty of disclosure is then always precisely stated, particularly when medical data in the strictest sense of the phrase are concerned.	1.133789872387549
+Borderline cases are described to illustrate how the rules of professional medical discretion are breached in the course of day-to-day business transacted between the statutory accident insurance firms and the physicians under contract to them, and some hints are given on how this can be avoided.	1.0400721156876012
+We report on a 56-year-old renal allograft recipient receiving cyclosporin A immunosuppression.	0.8987766754669567
+During this therapy he subsequently developed the following cutaneous neoplasms: squamous cell carcinomas, basal cell carcinomas, Bowen's disease, actinic keratosis, sebaceous hyperplasia, a dysplastic naevus and, finally a nodular malignant melanoma.	0.9386259766652668
+Adverse effects of the cyclosporin A therapy are discussed, with special reference to dermatologic effects and the implications for patient and doctor.	1.2116546756438238
+With Multislice Spiral Computed Tomography (MSCT), existing indications for performing CT of the chest are strengthened and new applications are emerging.	1.1183598191862243
+The high speed of MSCT improves efficiency, image quality and patient comfort of "routine"- imaging of the chest.	1.1481197037813333
+The ability to cover large volumes with thin slices improves the evaluation of mediastinal lymph nodes and pulmonary nodules and allows for high-quality secondary reconstruction.	1.0148993051980657
+If a comprehensive diagnosis of the mediastinal structures and the pulmonary parenchyma is desired, MSCT for the first time allows reconstruction of contiguous and high- resolution (HRCT) sections from the same set of thin-collimation raw data.	1.117921452965063
+This way, contiguous chest images of superior and HRCT sections of equal image quality compared to conventional CT scanning can be obtained.	0.8868410760636262
+Vascular protocols greatly benefit from the high speed of MSCT: For imaging the thoracic aorta or pulmonary emboli (PE), the amount of contrast material can be substantially reduced.	1.0605609010248942
+Owing to thin collimation, the detection-rate of small peripheral emboli can be significantly increased.	1.0057770565711814
+If indicated, the entire subphrenic venous system can be evaluated during the same session, without additional contrast material.	1.092828678519194
+Abstract   Basis of the modern shoulder implants is the Neer II-system, a non constrained total shoulder prosthesis with conforming radii of curvature and improved protection against dislocation.	1.1241452410697668
+The second generation of shoulder prosthesis is based on the geometric shaft design of the Neer II prosthesis and offers not only a variety of modular head- and shaft-sizes but also through different radii a physiologic rotation-translation-mechanism.	1.0180810379388894
+The third generation of humeral head prosthesis carries the concept of an anatomic reconstruction one step further and enables the surgeon to adjust the inclination and the eccentric offset of the humeral head to restore the centre of rotation.	0.9836770543025594
+The latest development in shoulder arthroplasty are humeral head prosthesis with a fully variable 3-dimensional modularity to independently adjust the prosthestic head position regardless of the individual shaft geometry.	0.9635466035087412
+This achieves a 3-dimensional adaptability of the prosthetic head about the stem axis in the coronary and in the sagittal plane.	1.1384521053634102
+Besides of the humeral shaft prosthesis an alternative concept of shoulder joint replacement is established - the replacement of the humeral head articular surface.	1.185876495199895
+A hemispheric surface prosthesis - cup arthroplasty - is cemented onto the residual humeral head, which eliminates the obligatory humeral head resection and the reaming of the medullary canal.	1.0905381975583297
+Bipolar shoulder prosthesis are humeral shaft prosthesis with a bi-rotational head system.	0.780576378892407
+Their indication is limited to pre-existing lesions of the rotator cuff and/or the glenoid surface.	1.0566265354559805
+The inverse total shoulder prosthesis reverses the articular surface morphology of the humeral head and the glenoid.	0.9868891388201197
+The hemispheric glenoid component serves as the centre of rotation for the concave epiphyseal proximal humerus component.	0.8349607383534237
+This implant is especially used in cases of massive rotator cuff deficiences.	0.8757934587434312
+The role of shoulder prosthesis in treating acute humeral head fractures needs special consideration.	0.8445999102849874
+A fracture prosthesis has to restore the exact length of the humerus, the centre of rotation, and the anatomical retroversion.	1.2773383920143373
+Positioning of the tubercula and their adequate osteosynthesis is most critical and fundamental to ensure a correct healing process.	0.8968798452424359
+A failed consolidation of the tubercula does not lead to a satisfying result.	0.8165120826355263
+The shoulder joint replacement can be sufficiently fixated in cemented, cementless or hybrid techniques.	0.9730147030076357
+Today several component design variations of cemented glenoid implants exist.	0.6789568530051571
+Their main distinction is the fixation system which can be divided into two main groups - the keel - and the peg-shaped glenoid components.	1.3947857186191062
+The peg-shaped anchorage system shall guarantee a greater stability against shear-forces.	0.7362572476853354
+Cementless glenoid components consist of a polyethylen inlay and a surface treated metal-back with an integrated fixation system.	0.8645355467969235
+These fixation systems are object of intensive biomechanical research and range from conventional screw fixation to specialised cone systems and self-cutting cage-screw-systems.	0.8965658011435059
+The critical area of cementless glenoid components is the transition zone of the PE-inlay and the metal-back because of high force development.	0.9433521272720685
+The question of implanting a hemi- or total shoulder prosthesis is answered by the morphologic changes of the glenoid articular surface, which includes the size of the subchondral defect and the underlying etiology of the shoulder joint disease, and the age of the patient.	1.357181080587192
+Preoperative planning must consist of an adequate radiologic work-up - X-ray, CT or MRI - to accurately assess the glenoid morphology.	1.2182766149510742
+G. Walch categorised the different glenoid lesions and developed a very important classification of possible glenoid deformations.	1.0241507342142813
+To compare and evaluate the operative results one must consider the different shoulder prosthesis and the discrepancies between a hemi- and a total shoulder prosthetic replacement.	1.1631442256769138
+Looking at the loosening and survival rate of the implant the results are related to the type of prosthesis and the preoperative diagnosis.	1.219728501487033
+The Neer total shoulder prosthesis has a 15 year survival rate of 87 %, compared to 74 % of the hemi-prosthesis.	1.216820288623168
+The objective for the future has to be to further advance the development of prosthetic components, especially for primary joint replacement in acute humeral head fractures.	1.15605145257519
+Another point of interest is how to reduce the still existing high loosening rates of the glenoid components.	0.9708219902556025
+A fairly new research-field is the computer-assisted surgery, e. g. navigation systems and robotics.	0.9422456946041124
+The computer-assisted navigation could be of great advantage to accurately find the individual resection plane (inclination and restroversion) of the humeral head.	1.0969264936180774
+The use of a surgery-robot could be very helpful to reproducibly achieve the desired conformity of the articular surface when preparing the glenoid.	1.0079721240626802
+Two patients with complete paralysis of the axillary nerve are reported on.	1.0334482530829108
+One case is well documented.	0.7761094784821815
+In both cases there was very good functional adaptation, resulting from hypertrophy of the rotator cuff so that there was only a slight or no loss of movement.	1.0911130354004037
+The rotator cuff should therefore be exercised at an early stage when there is isolated axillary nerve damage.	0.9908619952385456
+The function of the supraspinous muscle is also discussed.	0.6535310931075806
+Johann Friedrich Dieffenbach (1792-1847) is generally known as the founder of modern plastic surgery.	0.9386412275101957
+One focus of his work, apart from the physiology of transplantation and operative techniques, was reconstructive oral and maxillofacial surgery.	1.023257304447613
+This special aspect of plastic surgery as well as Dieffenbach's biography is presented in this historic article.	0.8442363953239491
+When a lifeless person is found in a bath tub, the emergency physician is obliged to give medical assistance.	1.0640692335662685
+If the patient is dead on arrival, the manner of death will in most cases unsettled.	1.0649188708837478
+In these cases the physician should inform the police immediately.	1.0275439384148863
+Any alteration of the scene of death should be avoided.	0.8216549479497097
+The purpose of this review is to outline the laparoscopic-endoscopic procedures that we perform for early gastric cancer.	0.8715588067071598
+These procedures were applied to 29 patients.	0.8218857888244175
+Preoperative work-up included gastric endoscopy, barium X-ray examination, endoscopic ultrasonography, and histological examination, and surgery was performed in patients diagnosed as having mucosal gastric cancer for which endoscopic mucosal resection (EMR) was difficult.	1.1832482286817727
+Laparoscopic wedge resection of the stomach using the lesion-lifting method, by which a wedge resection is made while pulling up the full-thickness gastric wall, was carried out in the 16 patients with lesions of the anterior wall, lesser curvature, and greater curvature of the stomach.	1.1633507409970485
+On pathological examination of resected specimens, the surgical margin and lymphatic or venous invasion were negative in all these patients.	1.0659764852365938
+The histological depth of the lesions was m (mucosal cancer) in 15 patients and sm1 (slight cancer infiltration into the submucosal layer) in one.	1.2066975434735572
+This one patient later underwent gastrectomy but no lymph node metastases were found.	0.8576428895929608
+Oral nutrition was resumed for a mean ( +/-  SD) of 2.9  +/-  0.8 days after operation, and the duration of hospitalization after operation was 12.3  +/-  3.4 days.	1.157647808641192
+The 13 patients with lesions of the posterior wall of the stomach and near the cardia or the pylorus received laparoscopic intragastric mucosal resection.	0.8865696270636458
+Laparotomy was required in 1 of these patients due to intraoperative hemorrhage.	1.0497315508591032
+The surgical margins were negative in all 12 patients in whom laparoscopic intragastric mucosal resection was successful.	0.9603436220068079
+Lymphatic or venous invasion was positive in 2, both of whom had sm1 cancer lesions of both of these patients were located in the cardiac region, total gastrectomy was avoided, and careful observation is continued.	1.2189314999348053
+Oral nutrition was resumed 4.0  +/-  1.6 days after operation, and the duration of hospitalization after operation was 12.0  +/-  3.5 days.	1.1407137459945977
+In addition, no postoperative complication was noted after either procedure, and all patients have been recurrence free for a follow-up period of 460 months.	1.2565193379080317
+Selected properly, these laparoscopic endoscopic procedures are considered to be curative and minimally invasive treatments for early gastric cancer.	0.8978479255300654
+Between 1988 and 1997, tumor resection was carried out in 18 irradiated patients (group 1: 36-72 Gy, 83 implants) and 22 nonirradiated patients (group 2: 92 implants) in the mandible and floor of the mouth, and these patients subsequently underwent mandibular endosseous implant rehabilitation.	1.2625886353993712
+A total of 23 patients were treated with exclusively implant-supported prostheses, and 16 with implant tissue-supported constructions.	1.0936725075491456
+	-0.0

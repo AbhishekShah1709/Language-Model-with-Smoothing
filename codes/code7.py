@@ -3,7 +3,6 @@ import numpy as np
 import re
 import math
 import time
-import sys 
 
 epsilon = 0.00000001
 
@@ -148,9 +147,9 @@ def train_test_split(data):
     return fin_train_data, fin_test_data
 
 
-def make_ngrams_dct(initial_tup, dct, words, n):
+def make_ngrams_dct(initial_tup, dct, words, n, ending_word_dct=None):
     
-    for i in range(0, len(words)-n+1):
+    for i in range(0,len(words)-n+1):
         tmp_tup = tuple(words[i:i+n])
 
         if dct.get(tmp_tup):
@@ -161,43 +160,36 @@ def make_ngrams_dct(initial_tup, dct, words, n):
 
     return dct
 
-def make_ngrams(data_lines, combined_lst, n_value=4):
-
-    for i in range(n_value+1):
-        combined_lst.append({})
+def make_ngrams(data_lines):
+    
+    _4gram_dct = {}
+    _3gram_dct = {}
+    _2gram_dct = {}
+    _1gram_dct = {}
+    ending_word_dct = {}
     
     for line in data_lines:
         line = line.strip()
         words = line.split(" ")
     
-        if len(words)>=n_value:
-            for i in range(1, n_value+1):
-                curr_dct = combined_lst[i]
-                initial_tup = tuple(words[0:i])
+        if len(words)>=4:
+            initial_tup = tuple(words[0:4])
 
-                combined_lst[i] = make_ngrams_dct(initial_tup, curr_dct, words, i)
+            _4gram_dct = make_ngrams_dct(initial_tup, _4gram_dct, words, 4, ending_word_dct)
+        
+        if len(words)>=3:
+            initial_tup = tuple(words[0:3])
+            _3gram_dct = make_ngrams_dct(initial_tup, _3gram_dct, words, 3)
+        
+        if len(words)>=2:
+            initial_tup = tuple(words[0:2])
+            _2gram_dct = make_ngrams_dct(initial_tup, _2gram_dct, words, 2)
+        
+        if len(words)>=1:
+            initial_tup = tuple(words[0:1])
+            _1gram_dct = make_ngrams_dct(initial_tup, _1gram_dct, words, 1)
 
-        else:
-            for i in range(1, len(words)):
-                curr_dct = combined_lst[i]
-                initial_tup = tuple(words[0:i])
-
-                combined_lst[i] = make_ngrams_dct(initial_tup, curr_dct, words, i)
-
-#
-#        if len(words)>=3:
-#            initial_tup = tuple(words[0:3])
-#            _3gram_dct = make_ngrams_dct(initial_tup, _3gram_dct, words, 3)
-#        
-#        if len(words)>=2:
-#            initial_tup = tuple(words[0:2])
-#            _2gram_dct = make_ngrams_dct(initial_tup, _2gram_dct, words, 2)
-#        
-#        if len(words)>=1:
-#            initial_tup = tuple(words[0:1])
-#            _1gram_dct = make_ngrams_dct(initial_tup, _1gram_dct, words, 1)
-
-    return combined_lst
+    return _1gram_dct, _2gram_dct, _3gram_dct, _4gram_dct, ending_word_dct 
 
 
 def helper_fnc(gram, dct_lst):
@@ -270,44 +262,36 @@ def kneyser_ney_smoothing(sent, dct_lst, max_len):
     else:
         return term + lamda*kneyser_ney_smoothing(sent[:-1], dct_lst, max_len)
 
-def perplexity(sent, dct_lst, smoothing_type):
-    
-    if smoothing_type=='k':
+def perplexity(sent, dct_lst):
 
-        sent_words = sent.split(" ")
-        prob = 1
-        tot_kneyser = 0
-        
-        for i in range(len(sent_words)-3):
-        
-            temp_sent = tuple(sent_words[i:i+4])
-            
-            val_kneyser = kneyser_ney_smoothing(temp_sent, dct_lst, len(temp_sent))
-            tot_kneyser += math.log(val_kneyser+epsilon)
+    sent_words = sent.split(" ")
+    prob = 1
+    tot_kneyser = 0
+    tot_witten = 0
+    t1 = time.time()
+    for i in range(len(sent_words)-3):
     
-        word_count = len(sent_words)
-        perplex_score_kneyser = -(tot_kneyser/word_count)
-    
-        return perplex_score_kneyser
+        temp_sent = tuple(sent_words[i:i+4])
+#        t1 = time.time()
+        val_kneyser = kneyser_ney_smoothing(temp_sent, dct_lst, len(temp_sent))
+#        t2 = time.time()
+#        print(t2-t1)
+        tot_kneyser += math.log(val_kneyser+epsilon)
+       
+#        print("-----")
+#        t1 = time.time()
+        val_witten = witten_smoothing(temp_sent, dct_lst)
+#        t2 = time.time()
+#        print(t2-t1)
+        tot_witten += math.log(val_witten+epsilon)
 
-    elif smoothing_type=='w':
+    t2 = time.time()
+#    print(t2-t1)
+    word_count = len(sent_words)
+    perplex_score_kneyser = -(tot_kneyser/word_count)
+    perplex_score_witten = -(tot_witten/word_count)
 
-        sent_words = sent.split(" ")
-        prob = 1
-        tot_witten = 0
-        
-        for i in range(len(sent_words)-3):
-        
-            temp_sent = tuple(sent_words[i:i+4])
-            
-            val_witten = witten_smoothing(temp_sent, dct_lst)
-            tot_witten += math.log(val_witten+epsilon)
-    
-        word_count = len(sent_words)
-        perplex_score_witten = -(tot_witten/word_count)
-    
-        return perplex_score_witten
-
+    return perplex_score_kneyser, perplex_score_witten
 
 ##########################################################################################3
 
@@ -316,89 +300,75 @@ general_data = read_data('./dataset/general-tweets.txt')
 general_vocab_dct = {}
 preprocessed_general_data, general_vocab_dct = preprocessing_data(general_data, general_vocab_dct)
 
+#for line in preprocessed_general_data:
+#
+#    print(line)
+
 ##########################################################################################3
 
-n_value = sys.argv[1]
-smoothing_type = sys.argv[2]
-corpus_path = sys.argv[3]
+europarl_data = read_data('./dataset/europarl-corpus.txt')
+medical_data = read_data('./dataset/medical-corpus.txt')
 
-n_value = int(n_value)
-inp_sent = input()
+europarl_train_data, europarl_test_data = train_test_split(europarl_data)
+medical_train_data, medical_test_data = train_test_split(medical_data)
 
-if corpus_path=="./dataset/europarl-corpus.txt":
-    europarl_data = read_data('./dataset/europarl-corpus.txt')
-    europarl_train_data, europarl_test_data = train_test_split(europarl_data)
-    europarl_vocab_dct = {}
-    preprocessed_europarl_data, europarl_vocab_dct = preprocessing_data(europarl_train_data, europarl_vocab_dct)
-    tmp_dct = {}
-    preprocessed_europarl_test_data, _ = preprocessing_data(europarl_test_data, tmp_dct)
+europarl_vocab_dct = {}
+preprocessed_europarl_data, europarl_vocab_dct = preprocessing_data(europarl_train_data, europarl_vocab_dct)
+medical_vocab_dct = {}
+preprocessed_medical_data, medical_vocab_dct = preprocessing_data(medical_train_data, medical_vocab_dct)
+
+europarl_1dct, europarl_2dct, europarl_3dct, europarl_4dct, ending_word_dct = make_ngrams(preprocessed_europarl_data)
+medical_1dct, medical_2dct, medical_3dct, medical_4dct, ending_word_dct = make_ngrams(preprocessed_medical_data)
+
+
+europarl_combined_lst = []
+europarl_combined_lst.append([0])
+europarl_combined_lst.append(europarl_1dct)
+europarl_combined_lst.append(europarl_2dct)
+europarl_combined_lst.append(europarl_3dct)
+europarl_combined_lst.append(europarl_4dct)
+
+fe = open("./dataset_split/euro_part_7", "r")
+content_part_euro = fe.read()
+fe.close()
+
+f1 = open("./outputs/L1_7_train.txt", "w")
+f2 = open("./outputs/L2_7_train.txt", "w")
+
+for line in content_part_euro.split("\n"):
+
+    print(line)
+    pre_line = preprocessing_line(line)
+    acc_kneyser, acc_witten = perplexity(pre_line, europarl_combined_lst)
+   
+    f1.write(line+"\t"+str(acc_kneyser)+"\n")
+    f2.write(line+"\t"+str(acc_witten)+"\n")
+
+f1.close()
+f2.close()
+
+medical_combined_lst = []
+medical_combined_lst.append([0])
+medical_combined_lst.append(medical_1dct)
+medical_combined_lst.append(medical_2dct)
+medical_combined_lst.append(medical_3dct)
+medical_combined_lst.append(medical_4dct)
+
+fm = open("./dataset_split/med_part_7", "r")
+content_part_med = fm.read()
+fm.close()
+
+
+f3 = open("./outputs/L3_7_train.txt", "w")
+f4 = open("./outputs/L4_7_train.txt", "w")
+
+for line in content_part_med.split("\n"):
+
+    pre_line = preprocessing_line(line)
+    acc_kneyser, acc_witten = perplexity(pre_line, medical_combined_lst)
     
-    europarl_combined_lst = []
-    europarl_combined_lst.append([0])
-    europarl_combined_lst = make_ngrams(preprocessed_europarl_data, europarl_combined_lst, n_value)
+    f3.write(line+"\t"+str(acc_kneyser)+"\n")
+    f4.write(line+"\t"+str(acc_witten)+"\n")
 
-    pre_line = preprocessing_line(inp_sent)
-    acc = perplexity(pre_line, europarl_combined_lst, smoothing_type)
-    print(inp_sent, end=": ")
-    print(acc)
-
-elif corpus_path=="./dataset/medical-corpus.txt":
-    medical_data = read_data('./dataset/medical-corpus.txt')
-    medical_train_data, medical_test_data = train_test_split(medical_data)
-    medical_vocab_dct = {}
-    preprocessed_medical_data, medical_vocab_dct = preprocessing_data(medical_train_data, medical_vocab_dct)
-    tmp_dct = {}
-    preprocessed_medical_test_data, _ = preprocessing_data(medical_test_data, tmp_dct)
-    
-    medical_combined_lst = []
-    medical_combined_lst.append([0])
-    medical_combined_lst = make_ngrams(preprocessed_medical_data, medical_combined_lst, n_value)
-
-    pre_line = preprocessing_line(inp_sent)
-    acc = perplexity(pre_line, medical_combined_lst, smoothing_type)
-    print(inp_sent, end=": ")
-    print(acc)
-
-
-#europarl_combined_lst.append(europarl_1dct)
-#europarl_combined_lst.append(europarl_2dct)
-#europarl_combined_lst.append(europarl_3dct)
-#europarl_combined_lst.append(europarl_4dct)
-#
-#medical_combined_lst.append(medical_1dct)
-#medical_combined_lst.append(medical_2dct)
-#medical_combined_lst.append(medical_3dct)
-#medical_combined_lst.append(medical_4dct)
-
-
-#f1 = open("./outputs/L1_test.txt", "w")
-#f2 = open("./outputs/L2_test.txt", "w")
-#
-#for line in europarl_test_data.split("\n"):
-#
-#    pre_line = preprocessing_line(line)
-#    acc_kneyser, acc_witten = perplexity(pre_line, europarl_combined_lst)
-#    print(line)
-#    print(acc_kneyser)
-#    print(acc_witten)
-#   
-#    f1.write(line+"\t"+str(acc_kneyser)+"\n")
-#    f2.write(line+"\t"+str(acc_witten)+"\n")
-#    
-#f1.close()
-#f2.close()
-#
-#
-#f3 = open("/outputs/L3_test.txt", "w")
-#f4 = open("/outputs/L4_test.txt", "w")
-#
-#for line in medical_test_data.split("\n"):
-#
-#    pre_line = preprocessing_line(line)
-#    acc_kneyser, acc_witten = perplexity(pre_line, medical_combined_lst)
-#    
-#    f3.write(line+"\t"+str(acc_kneyser)+"\n")
-#    f4.write(line+"\t"+str(acc_witten)+"\n")
-#
-#f3.close()
-#f4.close()
+f3.close()
+f4.close()

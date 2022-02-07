@@ -1,0 +1,1001 @@
+Animal models and first clinical trials using antibiotic therapy seem to support an etiological role of C. pneumoniae in coronary artery disease.	0.5271672286631202
+In this paper the current knowledge of the role of C- pneumoniae in coronary artery disease is reviewed and possible pathomechanisms are discussed.	0.7581987267116825
+Preeclampsia is a disorder specific to pregnancy which can affect all maternal organs.	0.39086185598777545
+Cerebral involvement with the occurence of convulsions is the defining factor for eclampsia.	0.3409245318971754
+The most prominent signs of cerebral dysfunction include headache, hyperreflexia, visual disturbances, confusion and/or altered state of consciousness.	0.4973304358385807
+Patients usually recover completely however some patients remain disabled due to cerebrovascular damage.	0.2764577854592642
+Intracerebral and subarachnoidal hemorrhage are severe however rare complications of eclampsia.	0.3273179459244463
+TCD investigations regularly find vasospasm in all great cerebral arteries.	0.24785635063336536
+Reversible hypodense lesions in the white matter on early CT-scans and increased signal intensities on T2-weighted MRT images indicate local edema.	0.44160046418083887
+The etiology of preeclampsia and eclampsia remains unknown and its current pathophysiology is still hypothetical.	0.4607689008199816
+The clinical picture may best be explained by an endothelial dysfunction with increased vascular sensivity to circulating pressure agents as well as by a structural endothelial lesion with fluid loss from the intravascular compartment.	0.5498610907566939
+This article reviews the surgical treatment of chronic posterior knee instability.	0.6652554116623589
+The treatment rationale includes exact definition of the instability pattern ("envelope-of-motion" of the tibia) by clinical examination, arthrometry and stress radiography.	0.7370812123460023
+Exact evaluation of the osseous anatomy is mandatory to identify an eventual varus morphotype.	0.4752611273728993
+This osseous variant in combination with posterior/posterolateral instability should be treated by an osteotomy in every case.	0.5917896269222498
+The technique of additive osteotomy to correct varus and increase the sagittal tilt of the proximal tibia is described.	0.5341553948616915
+Ligament reconstruction in chronic posterior knee instability must address the posterior cruciate ligament and the lateral/posterolateral structures in many cases.	0.5185923140304619
+Patellar tendon grafts, quadriceps tendon grafts or hamstrings can be used for posterior cruciate ligament replacement.	0.5738406811774599
+Arthroscopic or mini-open techniques may be used for graft placement, direct posterior fixation of the graft via a posterior incision is an option for patellar tendon grafts.	0.6315712858984064
+Bousquet's biceps plasty or Clancy's biceps tenodesis may be used for posterolateral stabilization; a biceps tendon strip can also be used for lateral collateral ligament reconstruction.	0.5316047718813363
+Results of surgery are still moderate.	0.37219814198965323
+In the author's series of chronic posterior/posterolateral instability, 26 cases were treated with posterior cruciate ligament reconstruction and biceps tenodesis.	0.6608356738720718
+Follow-up at 18 months demonstrated increased stability (mean residual posterior drawer 8 mm at 70  ° and 20 lb force) and improved knee function (33 % IKDC B, 67 % IKDC C).	0.701921693386205
+Presently, surgical treatment of chronic posterior knee instability should be restricted to centers devoted to this problem.	0.7053761806199497
+This article reviews the current state of consensus reached for the diagnosis of myocarditis and dilated cardiomyopathy on the basis of conventional histopathological and immunohistochemical methods for inflammatory infiltrates in addition to molecular biological methods for persistence of viral genome in endomyocardial biopsies.	0.5302913480316446
+Health policy in Germany has in recent years given priority to the self-administration of physicians, sickness funds, and hospital associations.	0.5831073473490569
+Hence, legal regulations on quality assurance have focused on defining responsibilities and areas of primary importance, while precise processes are being defined by the self-administration.	0.5632692075227487
+As prices for health care are increasingly restricted by lump sum payments, quality and quality assurance become more important as a factor in competition between health care providers.	0.5524639616210894
+To support the implementation of quality assurance in the health care system, the German Federal Ministry of Health has funded model-projects, e.g., to support the adaptation of successful strategies of total quality management for health care.	0.7338244742565991
+The research field of tissue engineering combines cells biology, biomaterial science, and surgery.	0.5719998991376237
+Major long-term goals are tissue and organ replacement therapies using the patients' own cells.	0.5971211760168877
+Our work is focused on the treatment of severe joint defects and on plastic surgery using in vitro engineered cartilage tissues.	0.5361077433497755
+The practical approaches in cartilage engineering face problems with three-dimensional cell distribution or cell immobilization raising biocompatibility problems.	0.36774387206184084
+The tissue engineering of cartilage is based on combining biocompatible cell embedding substances such as fibrin, agarose, alginate, hyaluronic acid and fiber fleece scaffolds of poly -hydroxy acids (PLLA/PGLA).	0.35171709795624095
+Different technical approaches were established: a) three-dimensional in vitro cultures of chondrocytes for the development of vital tissue transplants and b) interacting three-dimensional cultures consisting of different cell populations, such as BMP-transfected mesenchymal cells.	0.5238173651950898
+The preshaped artificial tissue constructs were cultured in perfusion chambers to maintain a stable diffusion of nutrients during the in vitro pre-formation step.	0.42689725746233653
+Subsequently, pre-formed tissues were implanted into nude mice and into 4mm articular joint defects of rabbits.	0.3417340723003479
+Transplants were found to produce cartilage typic morphological patterns and matrix.	0.467911704554482
+80% of the transplants remained stable in vivo.	0.5012310394213243
+However, 20% of the tissues are resorbed or replaced by a fibrous tissue.	0.5833826416415587
+These results demonstrate that current artificial cartilage transplants are already feasible for plastic reconstruction.	0.3399940304997851
+The treatment of severe joint defects, however, faces additional problems which are addressed in ongoing studies: (a) the fixation of engineered cartilage in joints, (b) the protection against chronic inflammatory degradation, and (c) the required enormous mechanical stability.	0.7399521721431297
+Background: Silicon-rubber central venous catheters have become commonplace in the care of premature infants.	0.4301372196363879
+We report on a rare complication, fracture and cardiac embolization of a silicone-rubber catheter and its interventional retrieval.	0.5749960854745287
+The ARO multicenter study intended to show clinical and radiological differences with regard to different systems of fixation and designs of the prothesis in total hip replacement in patients with hip dysplasia, osteoarthritis and rheumatoid arthritis.	0.5368755209346793
+In 1987 and 1988 5255 total hip prothesis were implanted by the 24 hospitals which took part in the study.	0.4546864523447156
+3133 prothesis (95,6 %) were clinically and radiologically examined.	0.6960564365374267
+The follow-up period averaged 6.9 years.	0.8364991131000669
+The results of the Aro multicenter-study showed that despite difficult preoperative conditions especially in cases of rheumatoid arthritis the satisfaction rate improved remarkably.	0.518775496250885
+During the operation less complications arose in comparison to patients with hip dysplasia and osteoarthritis.	0.6306430760295126
+Regarding the rate of infection after operation there were no differences between the 3 groups.	0.7549575837801623
+Only the rate of postoperative luxation concerning rheumatoid patients turned out to be twice the number of the others.	0.5043147926729575
+In our opinion this is due to the fact that these rheumatics were operated by posterior approach.	0.552942838708557
+Patients with rheumatoid arthritis were satisfied most with their surgeries.	0.32825870755281567
+Results of rheumatic patients according to Harris hip score were slightly worse than the results of the two other groups.	0.6294453076406207
+This was due to systemic involvement and bad preoperative function of the hip.	0.5771483975414765
+As a result of the study there were no differences in using cemented or cementless techniques for rheumatic hip replacement.	0.6835077985569926
+The decision for the method of fixation should depend on the patient's ability to relief the prothesis after operation.	0.6444567809476238
+The study has shown that cementless implantation can also be used for young rheumatics provided that a suitable design of prothesis will be selected.	0.5470836950381115
+Sepsis developing on the basis of a postoperative infection is a rare, but life-threatening event.	0.73069920787374
+Early diagnosis of postoperative complications usually facilitates decisive intervention and a favorable prognosis.	0.5364556460076499
+If the right moment is missed, endothelial damage leads to the release of inflammatory mediators and generalized systemic infection (SIRS).	0.49034993062274
+For the subsequentially developing septic shock, often combined with multiple organ failure (MOF), it is not important whether the starting point was an uncontrollable infections focus, ischemic damage following hypovolemic shock, or massive bacterial translocation with postoperative bowel obstruction.	0.554493932391983
+The collapse of the immune system results in immune paralysis and explains the inability of the organism to defend itself against systemic infections.	0.4086130852642324
+For early recognition of the developing septic complication and its effective treatment, pathophysiological and clinical issues are discussed.	0.45944236319963655
+The comparison of prediction of mortality and sepsis by different score systems was the objective of this retrospective study in 51 patients.	0.5907461177665524
+Specific scores for burned patients - "Abbreviated Burn Severity Index" (ABSI) and the "Baltimore Sepsis Scale" (BSS) were compared with the general intensive score systems: "Mortality Prediction Model" (MPM II), "Simplified Acute Physiology Score" (SAPS II), APACHE II (ApII), "Hannover Intensive Score" (HIS) and the sepsis score developed by Elebute and Stoner (ES).	0.7466544804004707
+On days 1 and 3 the true-positive ratio (sensitivity) was plotted against false-positive ratio (1-specifity) for each score.	0.7491722920475742
+The area under the curve (max.	0.38976850345302827
+0.5) correlates with the quality of the score system.	0.7627267033431002
+We also tested the discrimination of septic and nonseptic patients by using the different scores.	0.5637050782293993
+Bilateral symmetric changes in the cerebral hemispheric white matter are found with increasing frequency using CT and MRI techniques.	0.5736962246727445
+These unspecific canges of the white matter signal are often called leukoaraiosis.	0.3365315377544811
+They differ from the normal white matter signal.	0.4797570720796457
+These changes are found with increasing frequency in persons older than 60 years and also patients with dementia and cerebrovascular diseases.	0.5650783703729128
+The pathogenesis, clinical significance and morphological substrate are unclear.	0.49977548854226544
+The aim of this review is to summarise the actual knowledge about the etiology and clinical signs and symptoms found in patients with leukoaraiosis.	0.8568063032249893
+This term should not be used when white matter changes are found in patients younger than 35 years, with an unilateral onset, asymmetric distribution, and extensive changes all over the infra- and supratentorial white matter area.	0.7415968583699091
+Neuroradiological and clinical criteria are given to differentiate between leukoaraiosis and diseases of the white matter, especially enlarged Virchow-Robin spaces, lacunar infarction, subcortical arteriosclerotic angiopathy (Binswanger's disease), leukoencephalopathy of different origin, and demyelinating diseases.	0.538288495619655
+A case with various skeletal abnormalities, soft tissue masses and skin lesions diagnosed as Proteus syndrome is reported.	0.5270241176194193
+Proteus syndrome is included in the differential diagnosis of many disorders, because of the polymorphous nature of its clinical manifestations.	0.612774987870735
+It is a rare disorder and leads to functional disabilities as well as cosmetic and psychological problems.	0.734301058052298
+Early diagnosis and careful follow-up with appropriate surgical interventions is important in preventing long-term complications.	0.6890577295631143
+The value of elective PTA in stenoses of the supraaortic vessels and especially of the carotid artery is still under discussion.	0.561979966680132
+Stenoses after surgical and/or radiation therapy and a high cardio-vascular risk for a surgical procedure, however, justify minimal-invasive techniques.	0.6497038363528974
+Profiles of fundamental frequency sound pressure levels and voice duration are measured separately in clinical practice.	0.4413071536581748
+It was the aim of the present study to combine the two examinations, in order to estimate the relationship between pitch, sound pressure level and voice duration and to develop a new computer-assisted graph.	0.7152724090360534
+A three-dimensional (3D) wireframe phonogram was constructed based on SPL profiles to obtain a general view of the parameters recorded.	0.48828727978907965
+We have termed this "phonetography".	0.28615121536217575
+Variable further projections were selected for the analysis of different aspects of parametric relationships.	0.3853032938633815
+The results in 21 healthy volunteers and 4 patients with hyperfunctional dysphonias demonstrated that there were three typical figures of the 3D phonograms produced, depending on the relationship between voice duration when soft ("piano") compared to loud ("forte").	0.6381220174753038
+In one-third of the healthy volunteers, the values of the piano voice duration were greater than those of forte for almost all pitches examined.	0.6648166170223008
+In two-thirds of the healthy subjects the values of forte voice duration were partly greater, as were those of piano voice duration.	0.6107933690796079
+All of the patients showed voice duration values greater for forte than for piano.	0.662197957036969
+The results of the study demonstrate that the 3D phonogram is a useful tool for obtaining new insights into various relationships of voice parameters.	0.7006476584798133
+Sinus histiocytosis is as a rule a benign disease of lymph nodes, infiltrated by large histiocytes.	0.5084058251486854
+These cells show typical cytophagocytosis, particularly lymphophagocytosis.	0.4555257769648654
+Other organs may be also involved by this disease, often including the skin.	0.49348012731483387
+Exclusive cutaneous sinus histiocytosis without infiltration of lymph nodes seems to be very rare.	0.5493132096232618
+To exclude other non-X histiocytoses or histiocytosis-X, it is advisable to use immunohistochemistry.	0.536788715298548
+We report on a patient with sinus histiocytosis and discuss the problems of differential diagnosis.	0.6263495849816078
+The case of a five-year-old girl with intractable fluor vaginalis and recurrent perianal fistulas is reported.	0.5584823675387676
+A presacral dermoid cyst was shown to be the cause of these symptoms.	0.6994992611741976
+Extensive radiological investigation revealed the cyst and the associated fistulas extending into the perianal region and the vagina.	0.4556407875190736
+After verification of the anatomical situation, an uneventful surgical procedure was carried out.	0.7665479739971601
+Positron emission tomography (PET) is a noninvasive functional method for the study of solid tumor perfusion, metabolism and interaction with different therapeutic agents.	0.6370115406934176
+The aim of the study was the investigation of the metabolism of hepatocellular carcinomas (HCC) and the kinetics during a treatment with intratumoral ethanol by PET.	0.7903536415228818
+The ongoing study includes seven patients with child A cirrhosis and HCC (UICC stage III-IVA; tumor size 3-6 cm).	0.5769926778701253
+Dynamic PET studies (60 min) with 18F-fluordeoxyglucose (FDG) were performed prior to therapy to assess tumor viability.	0.7900984100960408
+The evaluation of the FDG data demonstrated a liver-equivalent uptake in six of the tumors (well and moderately differentiated HCC), which were poorly delineated against the normal liver parenchyma.	0.6639244962688657
+One moderately differentiated HCC showed an increased FDG metabolism, indicating no correlation between histology and metabolism.	0.5307573328932339
+A dose of 37-80 MBq 11C-ethanol was applied together with a nonlabelled therapeutic dose of the drug via a puncture needle positioned under sonography.	0.5368459250777404
+Five out of seven tumors demonstrated a high 11C uptake shortly after the end of the ethanol injection followed by constant 11C-ethanol concentration during the whole study period of 45 min.	0.47210104972744404
+The PET data demonstrated no significant elimination of the 11C-ethanol from the tumor and no accumulation in the surrounding liver tissue.	0.6011056053124167
+One case showed a decrease of the intratumoral 11C-ethanol concentration due to a punkture of a tumor vein, and in another case the surrounding liver parenchyma demonstrated significant 11C uptake in the early phase following paratumoral injection of the drug.	0.8176801634576505
+In conclusion, PET is a useful tool for the study of the mechanism and the kinetics of percutaneous intratumoral ethanol injection of HCC.	0.7005828073533924
+During the last decade, many investigations were conducted in order to understand the mechanisms involved in the development of acute lung injury (ALI) or acute respiratory distress syndrome (ARDS).	0.6299060221124455
+However, the increasing knowledge, instead of clarification, leads us to realize that these terms may assemble a wide variety of lung pathologies.	0.5752219760266661
+Indeed, many circumstances can result in these syndromes and no particular factor has been defined to distinguish ARDS of one etiology from another.	0.5428902966835595
+We are still ignorant about which factors lead to the extended inflammation from pneumonia to ARDS, while it is not clear whether the timing of events are determined by some mediators.	0.6092486654284882
+Furthermore, in the clinical arena, there is no clear distinction between pneumonia, severe pneumonia which may lead to ALI and then ARDS.	0.7764292205735236
+Finally, the results of all these studies should have allowed us to investigate new therapeutical approaches while none seems to emerge.	0.6086688765741174
+This review is an analysis by an ICU clinician of the different points of view of these syndromes and intends to give a global vision of the numerous factors implied, emphasizing the complex interactions between them.	0.5979587479037232
+The present state about new potential treatments directed on mediators is summarized.	0.3626975165780385
+The aim of the study was to evaluate if a combined physiologic-therapeutic scoring system (MARIS = Marburger Intensive Score) offers better outcome prediction compared to scoring systems, which are based either only physiologically (APACHE II = Acute Physiology and Chronic Health Evaluation II) or only therapeutically (TISS = Therapeutic Intervention Scoring System) in medical intensive care medicine.	0.6916569795842701
+Main outcome parameters employed were hospital mortality, severity of disease classification and length of hospital stay.	0.49848754833373693
+During a 12-months period (1993/94), 531 consecutive patients (ICU stay >4 hours) being admitted to a medical ICU of a tertiary care university hospital were prospectively investigated.	0.5886383426359942
+The day-1-scores of MARIS, APACHE II, and TISS were determined and the patients were followed until hospital discharge or death.	0.7607622532006897
+There was no advantage in using the combined scoring system (MARIS) neither in discrimination between survival and non-survival (hospital mortality; areas under the ROC-curve: MARIS = 0.84, APACHE II = 0.86, TISS = 0.78) nor in severity classification (relationship between day-1-scores and hospital mortality: p<0.001 (chi2-Test) in all three systems).	0.6251528308658243
+In contrast only for the combined system (MARIS), a dependence of length of hospital stay from day-1-scores in the analysis of survivors only and in the analysis of all patients (survivors and non-survivors) (p<0.001; ANOVA) could be demonstrated.	0.7159230909054296
+In conclusion the combined physiologic-therapeutic scoring system (MARIS) did not offer a better outcome prediction concerning hospital mortality and severity classification compared to the established systems in critically ill patients.	0.5338615094890664
+Its use may be advantageous in evaluating the relationship between day-1-scores and length of hospital stay, which for economical reasons has become a parameter of growing interest in intensive care medicine.	0.656354463962202
+A 23 month old boy was admitted to hospital because of anemia, mainly truncal rash and unclear pain.	0.4836867741655136
+Previously he had shown fever, conjunctivitis and desquamations of hands and feet.	0.30844974516490037
+Laboratory findings were moderate leucocytosis, thrombocytosis, anemia, and an elevation of ESR and gamma-globulins.	0.5968465257222484
+No bacterial infection was found.	0.24395594697511305
+The ECG showed signs of a myocardial ischemia.	0.6694045659018262
+The sonography of the heart detected an aneurysm of the left coronary artery.	0.73819110851334
+The boy died of a sudden cardiac arrest.	0.46733216744486117
+The autopsy verified the diagnosis of Kawasaki-syndrome and revealed two coronary aneurysms blocked by thrombosis and a necrotic panarteriitis.	0.4616310865690162
+The etiology of the painful hip in children is widespread.	0.5658602116172049
+In this paper, predominants cases without previous trauma are discussed in detail.	0.5338270905255669
+Depending on age, history, clinical picture and laboratory results, an imaging diagnostic algorithm is presented, which should avoid unnecessary tests and lead to the necessary therapeutic measure.	0.798189548335139
+Several common as well as uncommon clinical entities are illustrated by representative examples.	0.38219411998744957
+The present study exemplifies the method of quantitative reverse transcriptase - polymerase chain reaction (cRT-PCR) by quantifying, in bovine tissues, the specific mRNAs for the two key proteins which regulate cellular cholesterol metabolism, the low density lipoprotein (LDL) -receptor and the 3-hydroxy-3-methylglutaryl-Coenzyme A (HMG-CoA) reductase.	0.7181495568340426
+Our data reveal a broad range of expression for both mRNAs.	0.38561929261978595
+The LDL-receptor mRNA expression was highest in the adrenal gland (6.7 x 104 molecules/ug cellular RNA) followed by the corpus luteum of the ovary, intermediate in the liver (8.6 x 102 molecules/ug cellular RNA) and not detectable in the large intestine.	0.6045742544987964
+Expression of the HMG-CoA reductase almost paralleled LDL-receptor values.	0.41220487268859
+It was found to be highest in the ovary (6.1 x 106 molecules/ug cellular RNA) followed by the adrenal gland, intermediate in the liver (3.1 x 105 molecules/ug cellular RNA) and lowest in the large intestine (9.9 x 104 molecules/ug cellular RNA).	0.6478345365829532
+These data are consistent with other reports concerning the quantitative analysis of the expression of both proteins as determined by other experimental approaches.	0.5337044609631757
+Thus cRT-PCR is a valuable tool for the quantitative analysis of the LDL-receptor and the HMG-CoA reductase.	0.5815935729303128
+Spinal opioids are effective analgesics for surgical and non-surgical pain.	0.4002116824023246
+Central and systemic side effects are less frequent than with epidural local anaesthetics or parenteral opioids.	0.5544780738987289
+This review focuses on the analgesic efficacy of spinal opioids and their combination with local anaesthetics for postoperative analgesia, including patient-controlled epidural analgesia.	0.6462301376259484
+Intrathecal administration of opioids has some advantages over their administration by the epidural route.	0.4320864420481404
+Several factors may influence selection of the opioid; however, in most situations morphine is the drug of choice.	0.6107958738609787
+Thoracic epidural administration of opioids seems to have no clinically important advantages over the lumbar route in terms of quality of analgesia, adverse effects, doses required or pulmonary function.	0.5597301295673818
+However, evidence suggesting that effective postoperative analgesia can significantly improve postoperative morbidity in patients at risk is accumulating.	0.6138065455316977
+In such patients, combined use of epidural local anaesthetics and opioids may become the technique of choice for postoperative analgesia.	0.759715277394914
+However, there is no evidence that this would have any clinically relevant benefit in low-risk patients.	0.7671460022280502
+This contribution summarizes a discussion of several experts on the field of clinical nutrition, which was held in Evangelische Akademie Loccum, Germany, May 20-21, 1998.	0.6060171409063325
+Nutrition can be considered a medical treatment, which justifies assessment of benefits according to outcome parameters.	0.6412611266046145
+With regard to nutritional support of the cancer patient, evaluation of quality of life (QL) is more appropriate than morbidity and survival related parameters.	0.646179908279048
+Quality of life is a multidimensional construct which can be measured by standardized questionnaires.	0.6340812929159281
+The QL Questionnaire (QLQ-C30) of the European Organization for Research and Treatment of Cancer (EORTC), is an established and validated instrument which provides reliable information with regard to disease-related limitations of QL.	0.7343957101335419
+The measurement of QL can be extended by appropriate modules for specific problems according to the underlying cancer disease and special therapies (e.g., percutaneous endoscopic gastrostomy).	0.49375915202862525
+In the individual case, the interpretation of the role of nutritional parameters for QL may be confounded by other parameters, such as disease or personal changes.	0.5861130881947076
+However, the information supports decision making about the indication, the route of nutritional therapy, as well as individual follow-up.	0.651681623740709
+Using QL as an outcome parameter, carefully designed prospective trials might be feasible in order to investigate the outcome of nutritional therapy in patients with advanced cancer.	0.6096516580737501
+The inclusion of a control group is questionable from the ethical viewpoint.	0.4201058487719339
+The treatment of distal fractures of the lower arm can be conservative or operative.	0.7422387000598165
+The immediate aims of any treatment are anatomical realignment and the avoidance of trophic impairments, with the ultimate objective of unrestricted function of the hand and wrist.	0.6203279694289744
+A graduated treatment scheme based on the ASIF classification is necessary to do justice to the different forms of fracture that can occur.	0.6183644832792318
+The majority of injuries can still be successfully treated by conservative means; operative treatment becomes more important when there are signs of unusually high levels of instability or joint involvement.	0.5966771476907456
+The authors' own patient population is presented in this paper: in these patients fixation with Kirschner wires has proved to be the most successful of the operative procedures used, followed by palmar plate fixation with or without cancellous bone plasty, and for C-type fractures according to the ASIF classification or when there is severe soft-tissue damage, application of a fixateur externe spanning the joint has proved best.	0.7224741511465272
+Treatment strategy, risks, complications and results are presented.	0.5923664485785639
+Many couples have to cope with periods of involuntary childlessness and they often ask for medical help.	0.3666515861987065
+In the Heidelberg Project of involuntary childlessness in men, andrological patients were surveyed from the time before diagnosis till the end of 1 year's andrological treatment.	0.49723182728017407
+Cardiac complications remain an important cause of perioperative morbidity and mortality with noncardiac surgery, despite improvement in surgical techniques and anaesthetic management.	0.5679180483557846
+Therefore preoperative cardiovascular risk assessment plays a pivotal role in management of patients prior to noncardiac surgery.	0.4289428136140609
+Thorough history-taking and careful examination are essential to consider further diagnostic steps in order to predict the patient's individual perioperative cardiac risk as accurately as possible.	0.5926453744831032
+Besides elaboration of medical therapy, cardiac catherization and even balloon angioplasty or bypass surgery must be considered if indicated by preoperative cardiac testing.	0.5693860816588416
+According to the literature, chronic ankle instability occurs after acute rupture of the lateral ankle ligaments in 10-20 % of the cases.	0.7397375926438153
+The etiology of the instability are ligamentous damage and functional neuromuscular disorder of the peroneal muscles.	0.5997075285250165
+The standards of diagnostics are the history with the frequency of inversion trauma per period and the interval from the primary trauma, the clinical examination and radiological stress tests.	0.7443303156877961
+Newer diagnostic methods, up to now not well established in clinical routine, include stabilometry, cybex-measurements of the pronator muscles, the evaluation of peroneal reaction time on a tilting platform and dynamic pedography.	0.587201036786608
+Conservative management of chronic ankle instability consists of wearing ankle braces and rehabilitation programs concerned with peroneal muscle strengthening and coordination training.	0.38264997688225205
+The indication for surgical reconstruction of the ankle ligaments are a well-documented mechanical instability with the neuromuscular reflexes intact and a failed physiotherapeutic training program.	0.6330432459422898
+The surgical procedure should be selected according to a priority list: 1. anatomical repair, eventually augmented with periosteum from the fibula, 2.	0.6949648710448777
+Watson-Jones tenodesis, and 3.	0.516762131952087
+Chrisman-Snook tenodesis to treat a concomittant subtalar instability.	0.20793623606755868
+No other disease has exhibited such a significant influence on the behaviour of health care workers (HCW) as the AIDS pandemic.	0.6766494245116051
+Numerous epidemiological data, however, have proven that the overall risk of transmission of the human deficiency virus (HIV) during surgical interventions is low; it is 0.3 % for all types of percutaneous exposures.	0.78017542412002
+Nevertheless, there still is a need for wider adoption of safer surgical techniques to reduce the chances of HIV transmission in the operation theatre, which additionally minimize the risk of transmission of other blood-borne pathogens.	0.6936042540770876
+In the case of occupational exposure to HIV-contaminated blood or body secretions post-exposure prophylaxis should be recommended stratified by the type of exposure and source material.	0.47037159047854
+Abstract   Pachyonychia congenita (PC) comprises a heterogeneous group of autosomal dominantly inherited conditions showing characteristic nail thickening and associated signs such as palmoplantar keratoderma, follicular keratoses, and mucosal leukokeratoses.	0.4242559002430447
+Less frequently epidermal cysts, hairshaft abnormalities, natal teeth and laryngeal involvement may be seen.	0.38273568146270276
+Phenotypically and genetically two major forms of PC are recognized, pachyonychia congenita Jadassohn- Lewandowsky/PC type I (Medelian inheritance in man - MIM - 167200) and pachyonychia congenita Jackson-Lawler/PC type II (MIM 167210).	0.4947180918716144
+Both conditions show nail deformities, focal palmoplantar keratoderma, and follicular hyperkeratoses.	0.5228721122106487
+Diagnostically relevant are leukokeratoses of the oral mucosa in patients with PC type I.	0.5587386901022869
+In contrast individuals affected with PC type II show premature dentition and multiple pilosebaceous cysts predominantely affecting the upper trunk.	0.3636764820286755
+The latter closely resemble eruptive vellus hair cysts and steatocystoma multiplex.	0.23367789970613032
+By mutational analysis keratin K6a and K16 gene mutations have been detected in patients with PC type I, and keratin K6b and K17 gene mutations have been shown to be the underlying genetic defect in patients with PC type II.	0.572296623585627
+We investigated the incidence of postoperative chest tube bleeding, administration of blood products, and changes in coagulation tests in patients with diltiazem (DIL) administration for reduction of myocardial ischemic episodes during elective CABG.	0.6272343191313415
+We retrospectively analyzed the surgical and ICU records of CABG patients who had recieved DIL (27 pats.)	0.538791486096872
+or nitroglycerin (NTG; 26 pats.)	0.2829340946815074
+or a combination thereof (COM; 25 pats.).	0.3571660560979155
+Data investigated included the amount of postoperative chest tube bleeding (CTB), frequency of administration of packed red blood cells (RBC) and fresh frozen plasma (FFP), and changes in hemoglobin (Hb), thrombocyte (Th) levels as well as changes in prothrombin- (PT) and partial thromboplastine time (PTT).	0.6021226829997111
+There were no significant differences among the three groups with regard to biometrical or operative data.	0.5764116100401205
+The amount of CTB as well as the use of RBC and FFP were not significantly different between the groups.	0.5256833885445538
+Also, there were no significant differences with regard to Hb or Th and PT or PTT, both in the early phase after the operation in ICU as well as after 24 hours in the ICU.	0.7990819590038212
+The perioperative administration of the calcium entery blocker DIL reduces the incidence of myocardial ischemia during CABG surgery.	0.5406752033211243
+This administration during CABG surgery does not increase the risk of postoperative bleeding.	0.45701549937280916
+As compared to NTG, DIL does not have negative effects on Hb and Th levels or the commonly used coagulation parameters in the first 24 hours in the ICU after CABG surgery.	0.5674638989117057
+Depression and fibromyalgia (FM) share common symptoms, indicating a close relationship between both disorders.	0.4538657491557651
+FM patients frequently present symptoms of major depression.	0.3081931357773157
+Genetic epidemiological studies show that genetic transmission is one important component.	0.39259702069348146
+Molecular genetic studies are on the way; the serotonin transporter promoter gene seems to be associated with neurotic anxiety and FM.	0.5111998953416981
+Biochemical studies related to the serotonin and norepinephrine neurotransmission are disturbed in both disorders.	0.4128234070104516
+This view is supported by the response to treatment with antidepressants.	0.6477564698999415
+At our hospital, closed dislocations of the elbow without neurovascular or osseous lesion are treated conservatively after successful reduction in the absence of a tendency to redislocation.	0.6870820495198814
+Indications for surgery are irreducible dislocations and those with a tendency to redislocation as well as open soft tissue injuries, neurovascular and osseous concomitant injuries.	0.6125929436615641
+During a period of 10 years 113 patients were treated according to this strategy.	0.6580144944812089
+Of these patients, 46 had simple dislocations of the elbow and 67 suffered from dislocations with osseous lesions.	0.5823356130889012
+In 95 patients follow-ups could be performed after a mean period of 55 months.	0.6609424857500525
+In more than 75 % of cases good or excellent functional results were documented; unfavourable results were seen only in patients with osseous lesions.	0.736118395892782
+Nearly all of the patients had a stable elbow joint at the end of therapy.	0.8696274629485348
+The present study investigated the frequency and influencing factors of petechial bleeding (PET) in the conjunctivae and eyelids in different causes of death except strangulation.	0.6564976608127328
+In a series of 473 autopsies the over all occurrence of PET was 13.3%.	0.44949608481786996
+The highest frequencies were found in fire victims (31%), persons who had died after intensive care (24%), cardiac death (22%), drowning and intoxication (16% each).	0.6367709110826448
+The frequency of PET decreased with increasing age and increased with the body mass.	0.6127843771557087
+At first sight cardiopulmonary resuscitation (CPR) seemed to influence the occurrence of PET, because the rate was 11% without and 19% with CPR (x2: p < 0.05); an aspect which has been mentioned in the literature.	0.5870783982123732
+However, further analysis showed that a higher rate of PET could only be observed in causes of death where PET are often fround irrespective of CPR, whereas in the other groups PET (with or without CPR) are uncommon.	0.8208039016909958
+Furthermore, a case-by-case analysis showed that in several cases with PET after CPR the causes could clearly be attributed to conditions other than CPR.	0.6676074263827728
+In a second series of autopsy cases with only cardiac deaths (181 cases), the influence of age and body mass on the rate of PET was statistically significant and there was a tendency for more frequent PET with increasing heart weight.	0.6622356130952072
+On the other hand, no statistically significant influence of CPR on the rate of PET could be found in this relatively homogeneous group.	0.6639617165476877
+Media reports convey the impression that the incidence of fatal accidents in the European Alps has been increasing yearly at an alarming rate.	0.43017035323873226
+Although objective data is lacking, the annual reports of the mountain rescue services in Germany, Austria, the southern Tirol, Switzerland and the Chamonix region in France were analysed with respect to the fatal and non-fatal accidents which occurred between 1987 and 1997.	0.5626887915467161
+Because of varying definitions of "mountain accident" used in these countries, available data about the number of fatalities are not comparable.	0.5368674568163618
+A 75-year-old man had painless, slowly enlarging tumors in the right and left infrascapular regions.	0.7034080910912073
+Clinically, the tumors were nontender and semimobile.	0.5604232150371102
+MR imaging and the operative exploration revealed tumors infiltrating the lateral thoracic muscles and periost of the scapula and underlying ribs.	0.4291630895218638
+At surgery, the tumors were thought to be malignant, most likely liposarcomas.	0.7630395215436839
+The histological examination showed the characteristic appearance of elastofibromas with spindle-shaped fibroblasts, which were separated by thick eosinophilic collagenous and elastic fibers.	0.5913321757061836
+Elastofibromas are benign mesenchymal soft-tissue lesions that mainly affect elderly women.	0.34276517205857654
+In 10 % of the patients bilateral, often asynchronous tumors are seen.	0.749353875890132
+Ninety-nine percent of the lesions are located in the subscapular region.	0.5885321622109181
+Occasional elastofibromas have been described in the extremities, head, and in the abdominal and thoracic cavities.	0.9849408577388081
+The relative success of thrombolytic versus surgical therapy of thrombus in transit has not yet been evaluated in clinical studies.	0.5983865079447453
+Only case reports of one or more patients exist.	0.6563207038330193
+Optimal therapy, therefore, remains controversial, and conclusive recommendations in favor of one choice of therapy over the other cannot be given.	0.5497237872601707
+Nevertheless, in current practice thrombolysis as a noninvasive and quickly available form of therapy is preferred, if no contraindications exist.	0.7381621487799177
+Two cases are presented together with a literature review.	0.6638920480040701
+The Comèl-Netherton syndrome is a rare autosomal recessive hereditary disease.	0.5604805692868289
+A 23-year old female presented with the classical triad of ichthyosis linearis circumflexa, trichorrhexis invaginata with bamboo hairs of up to 12 cm length and atopic diathesis.	0.4697446124999875
+Nevertheless, more than 20 years passed before the final diagnosis was established.	0.7016223501858571
+In addition, the patient was slightly mentally retarded and suffered from a genital papillomatosis, minimal hypergammaglobulinaemia and a marked bilateral eyelid ectropion, more severe than previously reported.	0.7005340710156785
+Oral therapy with Acitretin was quite successful.	0.32555037975813345
+Background: Recent studies have shown the usefulness of pars plana vitrectomy with the use of growth factors in the treatment of macular holes.	0.6352844556874241
+Autologous platelet concentrates contain many growth factors to stimulate glial wound healing.	0.29396968916074884
+In vitro fertilisation IVF and intrazytoplasmic sperm injection ICSI are the most commonly used methods of assisted reproduction.	0.5085128730886712
+Whereas classic indications for both treatment options are widely accepted, for example severe tubal damage which cannot be microsurgically repaired, cryptozoospermia, severe OAT syndrome and repeated failure of fertilisation in normal IVF, ICSI might be indicated in a wider range of indications as well.	0.5275813853939607
+In this paper a number of additional ICSI indications are defined, for example minor forms of andrological subfertility, reinsemination of nonfertilised oocytes on the day after conventional IVF, reduced motility of cryopreserved sperms, reduced quality of oocytes or ICSI after one cycle of unexplained fertilisation failure in IVF.	0.5583372688050182
+Load on the human body can be influenced by shoes and surfaces which is important both in sports and rehabilitation.	0.6053527715540968
+The loading which can primarily be influenced are impact situations and friction as well as the stability of the foot.	0.4357900103825492
+This stability is of main interest in the prevention of pain and injury.	0.5452641354918598
+However, a certain amount of loading is necessary to improve strength and structure of biological materials.	0.7216901391936219
+In the past, the development of shoe and surface materials has hardly been perceived under this aspect, but may be increasingly important in the future.	0.672465521870169
+With optimal clinical management of patients with Marfan syndrome, life expectancy may be improved substantially from 32 years to a nearly normal life span.	0.6025786296831391
+Cornerstones of clinical management comprise genetic counseling, life-style management, and cardiovascular surveillance, which includes regular aortic imaging and endocarditis prophylaxis.	0.6195412559121486
+Prophylactic use of beta-blocking agents as well as timing of elective surgery and the choice of the optimal surgical technique are difficult issues that obviously need to be individualized.	0.5598959231057381
+Juvenile or postoperative patients as well as pregnant patients with Marfan syndrome pose particular problems.	0.3679726446752987
+This review intends both to facilitate differential decision making based on referenced evidence and to provide guidelines for therapeutic strategies.	0.4263099602108309
+Finally, a review of the most recent advantages to somatic gene therapy is given.	0.872493107657593
+In different animal investigations Pyrost demonstrated osteoconductive and osteostimulative effects.	0.2309099406064898
+In ectopic tissues and especially in conditions of low osteogenetic potency, the combination of Pyrost and autogenic bone marrow effects bone formation.	0.4984153457374185
+In Germany, good clinical multicenter studies that are not supported by pharmaceutical companies are rarely performed.	0.5152301172139284
+Good supranational industry-sponsored studies are usually aimed at the registration of new (expensive) drugs.	0.38333626351097166
+The preconditions for co-operation in conducting industry-independent studies which are of interest for the scientific community have been improved substantially in Germany by instituting the working group of co-operating arthritis centers, the so-called core documentation where 32000 patients with rheumatic conditions were documented in 1997 and the institution of a sophisticated information system ("RheumaNet").	0.5827299397608228
+The executive board of the German Rheumatology Association has set up an "ad hoc commission" that agreed to institute a "Committee for the Coordination of Clinical Studies in Rheumatic Diseases".	0.5459225932027693
+In this committee rheumatologists subspecialized from medicine, orthopedic, pediatrics working in universities, hospitals and private practice as well as specialists in statistics and epidemiology shall be represented.	0.4726195889343625
+In principle this committee is independent of the co-operating arthritis centers and the RheumaNet.	0.3966677573006423
+All members of the German Rheumatology Association are invited to cooperate with this committee by contributing to the clinically important questions and participating in clinical studies.	0.5076527294161806
+The committee has to define key questions in rheumatology and shall plan and organize multicenter studies to answer these questions.	0.3489780623433343
+In addition, study protocols of pharmaceutical companies may be examined as to their importance, quality, and feasibility.	0.5487893581425601
+Abnormal uterine bleeding is a gynecological problem frequently seen in women from adolescence to the postmenopausal period.	0.4375928735139421
+Nearly 70% of patients' visits to the gynecologist in the peri- and postmenopausal period are due to abnormal uterine bleeding.	0.6812987039617993
+According to the "speed"-hypothesis of cognitive development, the slowing of information processing in old age is at the core of negative age differences in psychometric intelligence.	0.6207580220645502
+The present study investigates the "speed"-hypothesis for fluid intelligence at the individual level using Latent Growth Curve Methodology.	0.6432983138749025
+Date on 4 measurement points come from the Bonn Longitudinal Study of aging (N=128, mean age 67.2, 53% women).	0.500250926746901
+Based on principal factor analysis, markers of mental speed were the WAIS Digit Symbol Test and simple psychomotor task.	0.4047981739552746
+As indicators of fluid intelligence the WAIS Object Assembly and Block Design were used.	0.3287247664272062
+After separately fitting Latent Growth Curve Models for the trajectory of mental speed and fluid intelligence, a combined model showed no statistically significant improvement of fit for freeing the covariance between the two slope-factors.	0.547947173030626
+Interpreting this result, contrary to the "speed"-hypothesis the intraindividual change of fluid intelligence does not relate to the according change of mental speed.	0.48865675681799114
+For patients with dilative cardiomyopathy (DCM), the prognosis is highly unfavorable, even under conditions of optimal medication.	0.6985744860794267
+At present, there is no option for causal therapy.	0.5527261555852115
+Since there is increasing evidence that modifications of the immune system accompanied by the production of autoantibodies, e.g., against 1 ad-renergic or muscarinergic receptors, are involved in the pathogenesis of DCM, the elucidation of the possible functional significance of these autoantibodies has attracted increasing interest.	0.5845231545975214
+In addition to the role of autoantibodies as markers for an autoimmune process, discussion of the possible pathogenetic mechanisms has centered on direct toxicity as well as on negative influencing of myocardial contractility and energy metabolism.	0.5877094092316911
+The effects gained through removal of autoantibodies by immunoadsorption therapy for DCM patients sheds light on the functional importance of autoantibodies in this syndrome.	0.4160866734485164
+The principle of this form of therapy is based on the binding of circulating antibodies to sepharose columns, to which polyclonal antibodies against human immunoglobulin are linked.	0.6198035143559643
+A pilot study conducted among DCM patients disclosed that immunadsorption took place in simultaneous conjunction with a reduction in the immunoglobulin level and with significant hemodynamic and clinical improvement.	0.5308793221297723
+These results may be interpreted as indicating that autoantibodies play an active role in DCM and that their removal by immunadsorption possibly represents a highly promising future therapeutic concept.	0.4311565360658758
+Active unspecific immunotherapy in an adjuvant or palliative setting has been shown to enhance survival in melanoma patients, and gene therapy now offers new perspectives for active specific immunotherapy.	0.5140326679163268
+Gene therapy includes the transfer of genetic material performed by either viral or non-viral methods and in vivo or ex vivo.	0.5249260139135012
+For melanoma the following approaches are suggested: vaccination with tumour-specific, HLA-associated antigens using peptides or `naked DNA', vaccination with melanoma cells transfected with cytokine genes or B7, adoptive immunotherapy with specific T-lymphocytes or transfected tumour-infiltrating lymphocytes, or transfection of tumour cells with a tumour suppressor gene whose dysfunction plays a crucial role in melanoma.	0.4644856607999303
+Since 1995, a total of 115 patients with pseudarthrosis or delayed bone fracture healing have each undergone a single session of shock wave treatment.	0.471991424782284
+After the treatment the fractures were correctly set according to the rules of conservative bone fracture treatment.	0.6295804469649162
+The mean follow-up period for all patients was 31 months (range 3-50 months.	0.7904253958301327
+In 87 cases (75.7%) bony consolidation was achieved with simultaneous reduction in the symptoms.	0.6450061434671908
+Apart from low-grade local reactions (swelling, haematoma, petechiae) no complications were observed.	0.538045355733971
+The treatment is noninvasive and requires little investment in terms of personnel or technology.	0.45107649561710195
+Extracorporeal shock wave therapy should therefore be considered before an elaborate operative procedure is initiated in the treatment of pseudarthrosis and of delayed fracture healing.	0.5420681685180416
+The sound transmission properties of three different commercially available middle ear implants and the prototype of a complete middle ear prosthesis (CoMEP) were evaluated with a special measurement system that permits standardized conditions.	0.6720614195480166
+This system uses a mechanical middle ear model (MMM) which approximates the impedances of the tympanic membrane and inner ear.	0.48360467668209467
+The implants were fitted under defined conditions into the MMM.	0.4010700559302578
+Displacement of the artificial stapes footplate of the MMM was measured with an optical probe.	0.5814601476351254
+The measurements of different middle ear prostheses showed that the mass of the implant was the most important factor for optimum high frequency transmission.	0.753958602243853
+The lightest implant (4 mg, titanium) showed the best results.	0.8300712607214257
+The CoMEP revealed the highest sensitivity because of a slight enlargement of the diameter of the artificial tympanic membrane.	0.6067963176703028
+These findings show that the CoMEP is able to restore sound transmission to a normal range.	0.5607089253751897
+In a second experiment one of the implants was fitted into the MMM with different forces.	0.7054443874610945
+The increase of stiffness produced a slightly better high frequency transmission at the expense of low frequency sensitivity.	0.50833269755405
+Hence, the fitting of the implant may not be too stiff because of its loss of mobility within a significant frequency range.	0.6373587107885615
+Angiomyolipomas are hamartomas that may be found sporadically or associated with tuberous sclerosis (M. Bourneville-Pringle).	0.4928155500773927
+Clinically, this long-term asymptomatic tumor becomes evident as an acute retroperitoneal hemorrhage or by symptoms of a flank mass.	0.643383675409145
+Due to the high percentage of fat components in this tumor type, computed tomography is far superior to other radiological procedures.	0.6148732098717243
+In view of two of our own case reports, the therapeutic strategies are discussed, paying regard to the actual literature in this field.	0.8925254071613021
+The excact pathogenesis of Peyronie's Disease (PD) is still unknown.	0.5608027566063872
+Histopathological investigations suggest, that the metabolism of the collogenious tissue plays an important role.	0.6174330367822776
+Therefore, we started a prospective study in order to evaluate the metabolic situation of 11 patients with PD and 11 healthy controls.	0.7988756856638353
+We mesured biochemical parameters of penile and venous blood, wich correspond to the collagen metabolism (procollagen III [P III P], PMN-elastase [PMN-E], fibronectin [FN], fibronectinreceptor [FN-R] und -1-proteinase-inhibitor [-1-PI]).	0.5466433364390805
+There was no difference in PMN-E, P III P, FN and FN-R in all samples.	0.6055296655133732
+There was no difference in penile and venous blood as well.	0.534629940827117
+But we found out a highly significant lower concentration of -1-PI in patients with PD (158,55 mg/dl) than in controls (214,82 mg/dl).	0.7070680538249743
+Closed rupture of the anterior tibial tendon is rare.	0.6134744264540414
+Fewer than 50 cases have been reported in the literature, perhaps because the symptoms are often neglected by the patient as well as by the doctor.	0.7562310376467158
+Most often the rupture occurs as a consequence of a sudden plantar flexion of the ankle and pre-existing degenerative changes of the tendon tissue due to systemic disease or iatrogenic local corticoid injections.	0.6914122184893841
+Clinically, the tendon rupture presents as acute weakness of the ankle extensors without reddening, swelling or neurological signs.	0.5743913334210768
+Differential diagnoses such as anterior tibial syndrome and peroneal nerve palsy can thus be excluded.	0.45125066200689457
+During the clinical examination the distal stump and the discontinuity of the anterior tibial tendon are often palpable.	0.6624991908733687
+The clinical diagnosis can be confirmed by an ultrasound examination.	0.6340811636799163
+An operation may be undertaken up to 3 months after the injury.	0.6222593720457397
+Preferred procedures are end-to-end anastomosis and transosseous refixation of the tendon, followed by a plaster cast for 6 weeks postoperatively.	0.6284970388354572
+High-risk patients can be treated conservatively, but the functional results are less satisfactory.	1.0473382267083238
+We describe a case of an acute closed rupture of the anterior tibial tendon.	0.8981777240556575
+A yet unpublished method of osseous reinsertion of the tendon is presented.	0.517022043029666
+In this four-part review article, an update of Psychological Gerontology since 1988 in German speaking countries is given.	0.46826770947785684
+Part II of this review focuses an personality development in old age.	0.5985634500565218
+In accordance with their current relevance within research on personality development, concepts and empirical studies concerned with coping, psychological resilience and development regulation in old age are addressed in the first part of this review (contributions to basic research).	0.6104888573578172
+First, research based on the two-process-model of coping, the personality theory of Thomae and the life-span theory of control is summarized.	0.643828258838049
+Next, work on subjective well-being, self and self-regulation are highlighted.	0.5809119783623937
+In the second part of the review (contribution to applied research), an overview of the scope of potential of psychotherapeutic intervention in old age is given.	0.7071091696479703
+Background: According to literature, 30-60 % of pacemaker patients suffer from paroxysmal atrial fibrillation (PAF).	0.6754330368229534
+As rapid tracking of PAF may cause severe symptoms in patients with dual chamber pacemakers, refined algorithms providing AV synchronous pacing during periods of sinus rhythm and preventing high ventricular rates during PAF are highly desirable.	0.4624519043546796
+Aim and method: This comprehensive paper introduces a new mode switching (MS) algorithm which uses either a fixed (Inos2CLS) or programmable (Logos) number of short intervals out of 8 consecutive atrial intervals to detect PAF.	0.4710913606645842
+If the MS criterion is fulfilled, a switch from AV synchronous pacing to nontracking mode is automatically performed.	0.46776136655358075
+The algorithm is described together with a discussion on optimization of the programming of parameters which may indirectly influence the MS sensitivity and specificity.	0.526952426940654
+Results: This MS concept maintains the high sensitivity and fast reactivity towards PAF of the "mode conversion" in Actros and Kairos pacemaker systems, preventing a long time delay between onset of PAF, detection of the arrhythmia, and switch to nontracking mode.	0.636641578341704
+In addition, adequeate sensing and short blanking periods in the new MS concept enable reliable MS.	0.33932131911818797
+The occurrence of atrial oversensing should be tested, as it may lead to inappropriate MS. Programmability of the MS algorithm may be advantageous for individual programming with respect to the patients' arrhythmia rate and atrial sensing performance, but the use of very restrictive or very liberal criteria should be avoided as both may lead to mode oscillations.	0.6753872865014175
+Finally, examples of stored diagnostic data are presented to assess MS reliability, identify possible problems, and optimize MS function during follow-up.	0.5301211023412156
+Purpose: To evaluate MR imaging at 1.5 Tesla in patients suffering from acute subarachnoid hemorrhage (SAH) using proton-density weighted (PDW) fast spin echo (FSE) and fluid attenuated inversion recovery (FLAIR) sequences.	0.5769742665945218
+A number of infectious agents has been newly detected in the last 10 years.	0.6899845798964115
+Climatic hanges and migration have been the most important factors in the emergence of new and old infections.	0.5998974980083732
+Additionally, new methods for the detection of DNA and RNA have played an important role in the detection of agents difficult to culture.	0.5949129931903386
+So far medical requirements for aviators have been defined by national licensing authorities.	0.3704962411253289
+For a long while ophthalmological problems, insufficiencies in vision, refraction or color vision, have been responsible for approximately 50 % of rejection of applicants for medical reasons.	0.58962443695746
+Introduction: Coronary arterty disease still remains the primary cause of death in the western industrialized world.	0.596119267409724
+Although the clinical value of selective coronary angiography (SCA) is beyond dispute, the associated risk of an invasive approach, the inherent costs and the necessary hospitalization have lead to the development and investigation of novel non-invasive techniques for coronary imaging.	0.7270756920945981
+Intravenous coronary angiography (ICA) has been shown to permit non-invasive imaging of the coronary arteries.	0.6517209515921732
+We report nine case histories of patients admitted to a psychiatric hospital for severe somatic disorders.	0.4912274425100685
+The somatic disease was either the cause of the psychiatric symptomatology, or it occurred in addition to a well-known psychiatric disorder.	0.7435884559280712
+For general practitioners and psychiatrists it can be difficult to differentiate between symptoms due to psychiatric disorders and symptoms that indicate somatic disorders.	0.5459789008932997
+If patients refuse the necessary diagnostic or therapeutic procedures and show behaviour that is not related to good health, there is increased risk for complications and increased morbidity.	0.6590986785416884
+Penetrating neck injuries are potentially life-threatening injuries.	0.4571004089129403
+Management is controversial despite decades of discussion in the literature.	0.37585576400876347
+An algorithm for diagnosis and therapy is needed because of the potential risk of mortality.	0.7325544043168002
+In the Department of Trauma Surgery of Vienna Medical School, mandatory surgical exploration after noninvasive investigations is practiced.	0.4287760838421463
+Thirty-one patients with this kind of injury were treated between August 1992 and September 1999.	0.6098785027915504
+Injuries were caused in seven cases by gunshots, in eight cases by broken glass, in one case by an iron rod, in one case by a spear, in one case by a branch and in 13 cases the penetrating injuries were stab wounds caused by knives.	0.7446331379045236
+Complications like pseudoaneurysms and fistulas were not seen.	0.2735579087076424
+No patient came to death.	0.2593743527600639
+During a 18-year-period 93 patients (f=76, m=17) with a factitious disorder were identified in the psychiatric consultation service of a university hospital (incidence: 0.62%).	0.6835551929314295
+50% of women were working in medical professions whereas only 6% of men.	0.7563932637754183
+Chronic courses of illness were prevailing, but at least one quarter of female patients showed an intermittent type.	0.7984962051928813
+There was a classical Munchhausen syndrome in 11% of patients.	0.7021639979211917
+Depressive and anxiety disorders (10%, 4%) were to be respected as psychiatric comorbidity.	0.8296507036251083
+Ca 25% of the patients suffered from a somatic illness in addition to the factitious disorder, and one third of the women had symptoms of psychosomatic, especially of eating disorders.	0.8951847105429851
+Previous somatoform disorders, deliberate self harm and attempts of suicide were to be noted in the psychiatric history of many patients.	0.5235080506798678
+There were frequent traumatizing events (foster home, disturbing family disharmony, physical and sexual abuse, early losses, serious illnesses) in the early biography.	0.6462096926957875
+Various psychosocial stressors could be identified in the actual eliciting situation.	0.5860581066132091
+The results are discussed in respect of epidemiology, development and clinical phenomenology of factitious disorders, psychodynamics and psychopathology of deception and self harm, and therapeutic options in the psychiatric consultation service.	0.6668935092772068
+In a long-term follow-up we evaluated 40 patients out of 55 (73 %) with a subtalar fusion.	0.6954062364721334
+The operations took place from 5/84 to 5/91.	0.35830312497824757
+In all cases the indication for the fusion was a post-traumatic arthritis after an intra-articular os calcis fracture.	0.7535236166295434
+The evaluation of the overall results was carried out with three different scoring systems: a.	0.773655280789128
+The Outcome-questionnaire, rating patient's complaints and the functional status based on the severity-symptom scale and functional status described for Carpaltunnel-syndrome by Levine et al.	0.5447094060988728
+c. The clinical rating system (CRS) described by Kitaoka et al.	0.703553762000583
+The statistical evaluation was performed by analysis of variance (ANOVA).	0.5032332592620183
+Level of significance was based on P = 0.05 and calculation of Pearson's correlation coefficient.	0.5494303074763028
+The Os calcis fracture was the cause for the subtalar arthritis in all 40 patients (33 males and 7 females).	0.6248567659021206
+The primary treatment of the calcaneal fracture was conservative (cons.)	0.48207759938266725
+using a plaster in 23 patients (57.5 %), while 17 patients (42.5 %) underwent open reduction and plate fixation (op.).	0.6986068668423469
+The interval between trauma and subtalar fusion averaged 3.5 years (3 months to 20 years).	0.7968258947460952
+The interval between subtalar fusion and follow-up averaged 5.2 years (4-14 years).	0.7203772276470678
+The mean age at the time of reexamination was 47 years (26-61 years).	0.612959531559068
+In the present study, complete pain relief could be achieved in 21 (52.5 %; 58 % op., 50 % cons.)	0.6965848299808454
+A relevant restriction in the range of motion in the ankle joint was found in 26 (65 %; 76 % op., 58 % cons.).	0.722519381267083
+In 23 patients (62 %; 65 % op., 59 % cons.)	0.5767571001378972
+the radiological evaluation revealed a grade 1  ° arthritis of the ankle joint, in the talonavicular joint in 17 patients (42.5 %; 41 % op., 45 % cons.	0.7047299845415846
+), and in the calcaneo-cuboid joint in 14 patients (35 %; 47 %., 27 % cons.).	0.8626793142956972
+The statistical analysis revealed a better outcome in the operative group compared with the conservative group, although the operated os calcis fractures in the majority were the more severe fracture types.	0.9156332801123481
+In all evaluation systems a score between 61 and 69 points could be achieved with no significant difference between the operatively and conservatively treated groups and between the newly developed questionaire and the clinical-radiological scoring systems.	0.6128587725318645
+For the questionaire this fulfills the requirements for a reliable outcome evaluation.	0.3821259612994765
+Objectives Correction of an overriding fifth toe.	0.3346058972438873
+Non-palpable breast-lesions like microcalcifications often fail an exact diagnosis.	0.4055568309558431
+Accurate treatment is difficult by conventional marking and operating procedures since freehand positionin of al localization wire is often suboptimal.	0.3572831381516901
+The consequences are larger tissue-defects leading to an insufficient cosmetic result.	0.4092022712737632
+Nevertheless, resection of microcalcifications by conventional surgery remains sometimes incomplete.	0.46444385379657
+Digital mammography coupled with stereotactic biopsy procedures gives more accurate results with minimal invasive techniques.	0.35301497600884985
+The advantages and disadvantages of the advanced breast biopsy intstrumentation (ABBI) procedure versus vacuum biopsy systems are summarized and compared.	0.40107899427087085
+Either of those systems is highly accepted by the patients due to the outpatient manner of its application and the convincing results regarding sensitivity, specificity and accuracy of the methods.	0.7032428210976883
+Chondroid syringoma belongs to the group of so-called mixed tumors, like pleomorphic adenomas of the lacrimal and salivary glands.	0.5757959461017
+The histogenesis of this tumour is still disputed, in particular with respect to its stromal component.	0.7667619522355348
+The distribution of cytokeratins (CKs), CEA, EMA, vimentin, S-100 protein, desmin and actin [-smooth muscle actin (-SMA)] was investigated by immunohistological examination of paraffin sections from a chondroid syringoma of the apocrine type.	0.5932449560602095
+The neoplastic formations have been classified into tubuloalveolar structures, solid nests/aggregations and stromal cells of varying morphology.	0.39527597654782826
+The innermost cells of tubuloalveolar structures were characterized by marked expression of CKs (KL1 and MNF116), CEA and EMA, while in the outer ones there was moderate expression of vimentin, S-100 was expressed to a lesser extent and KL1, weakly but there was marked and consistent expression of MNF116.	0.5044574179150396
+Whereas the solid nests expressed vimentin, S-100 protein, MNF116 markedly and KL1 weakly, the stromal cells were consistently positive for vimentin, S-100 protein and, focally, CKs and -SMA.	0.5576414106180114
+Anti--SMA specifically detects myoepithelial cells.	0.20643416211617563
+In addition, the partly overlapping immunoreactivity of the intermediate filaments, membrane proteins and proteins in the different structures may indicate a common clonal origin of all neoplastic cells in chondroid syringoma.	0.4679977104461238
+Leg ulcers may be caused by many different diseases.	0.35840856210221583
+Most frequently, they are due to vasculopathies, to a lesser extent to metabolic, neuropathic or hematologic diseases.	0.6162574150510604
+Neoplasms, connective tissue diseases, infections, trauma, and panniculitis should also be included in the differential diagnosis.	0.5540715163724489
+A 38-year-old Caucasian female patient with hereditary prolidase deficiency developed progressive and very painful leg ulcers.	0.4900317674345394
+The ulcers first appeared in childhood and did not respond to various treatments.	0.5290991548946147
+Additional features of prolidase deficiency included mental retardation, short stature, extensive dental caries, and multiple malar teleangiectases.	0.514223671125054
+Hereditary prolidase deficiency is a very rare autosomal recessive disease.	0.5348083097441783
+It is caused by heterogeneous mutations of the prolidase gene and affects many aspects of protein metabolism.	0.38647328980949575
+Ion exchange chromatography and high voltage electrophoresis of urine can prove the suspected diagnosis.	0.29232197366049484
+So far, there is no efficient therapy for hereditary prolidase deficiency.	0.5227979721056905
+All reported treatment attempts have ended in failure.	0.21260041441528232
+In this paper the basic features of acute, subacute and chronic types of osteomyelitis, skeletal tuberculosis and some special forms of osteomyelitis are described.	0.6381668464966421
+The diagnosis of osteomyelitis is established using clinical signs and symptoms, culture studies, laboratory studies and radiological signs.	0.6342154225528609
+The common conservative and surgical treatments are discussed.	0.4243412320700495
+In the treatment of post-traumatic/postoperative osteitis severe problems are encountered as a result of an increasing number of orthopaedic traumatologic surgical techniques using a variety of implants and because of a generally increasing occurrence of multiresistant strains.	0.5644222316352385
+Thanks to modern treatment and the increased use of antibiotics, a considerable decrease in morbidity and mortality is observed.	0.7346947156059648
+Despite this improved prognosis, an established infection remains one of the most challenging problems for the orthopaedic surgeon.	0.675101748983921
+Besides an exponential growth in possibilities for diagnosis, treatment, and prevention in reproductive medicine and genetics, the synergistic effects of modern health technologies have led to the necessity of fast transfer of knowledge into the public domain in order to develop a common social consensus.	0.635884559405215
+Thus, physicians and scientists have enormous obligations not only for the development of medical technology but also of medical and societal ethics.	0.5681540195478726
+Very early, i. e. in 1984, the German Medical Association developed professional laws for reproductive medicine.	0.6887245798294113
+In addition, the German government saw the need in 1990 for an "Embryo Protection Law" (Embryonenschutzgesetz).	0.5999771100089425
+Today, in the light of European integration, the medical profession's and state's obligations are challenged in different ways.	0.6488278487223758
+Whereas the German Medical Association continuously works on professional guidelines for reproductive medicine and genetics - currently the case with preimplantation genetic diagnosis - the government must develop the sociolegal framework for ethically sound reproductive medicine, i. e. , in the areas of inheritance law, adoption law, family law, and law of succession, the latter especially in the case of discrepancies between genetic vs. social paternity in heterologous insemination.	0.6595817663748591
+In Crohn's disease, some concomitant neurological illnesses such as cerebral ischemia following arterial or venous thrombosis, subacute combined degeneration of the spinal cord following malabsorption of vitamin B12 or folic acid, opticus neuropathy, and polyneuropathy have been described.	0.570871953698832
+Cerebral vasculitis secondary to Crohn's disease seems to be a very rare phenomenon.	0.8053329030947197
+We report on three such cases in three female patients (aged 26, 29, and 61 years).	0.807639087824869
+All patients became symptomatic with a hemiparesis; one complained additionally of a speech disorder, headache, and intermittent loss of orientation.	0.5142817715475771
+In CT and MRI scans, multiple lesions were detected; cerebral angiography showed multiple stenoses of middle- and large-sized vessels that were compatible with cerebral vasculitis.	0.6021156091492057
+Serologic tests concerning vasculitis were inconspicuous at that time.	0.23552811003992039
+Under anticoagulation (in two cases) and immunosuppressive therapy, neurologic symptoms disappeared.	0.7486563801412641
+In the following 6 to 12 months, no new neurological symptoms appeared.	0.7941010662135884
+In two cases, Doppler sonographic controls showed stationary and, in one case, progressive intracranial stenoses.	0.7023323795390973
+The serin protease tryptase (ECNr.	0.21908524001504703
+3.4.21.59), which is almost exclusively expressed in mast cells, is released by mast cell degranulation in an enzymatically active form together with other mediators, e.g.	0.6223500146260049
+histamine, into the extracellular space and the circulation.	0.43130907408508107
+The capability of the enzyme to directly stimulate several cell types as well as to cleave polypeptide hormones and to activate pro-enzymes suggests a role for tryptase in inflammatory and tissue-remodeling processes.	0.48499316246324176
+Therefore, in the skin, a role of tryptase is suggested not only in mastocytosis and immediate type hypersensitivity reactions, but also in other inflammatory diseases, degenerative or neoplastic conditions as well as in wound healing, where an accumulation and/or activation of mast cells is found.	0.7774581452254812
+Extracellular tryptase may be superior to histamine as a parameter for the onset and course of immediate type reactions and as an indicator for the activation of mast cells in other conditions.	0.5705181002331704
+Its absence during histamine-liberating reactions may suggest basophil activation.	0.20077699404466076
+In addition, tryptase has been shown to be a sensitive and specific marker for the localization of mast cells in tissues.	0.7562937624747241
+Background: Since the development of lacrimal endoscopes with which the mucosa and disorders of the lacrimal drainage system can be examined directly, the choice of surgical technique has changed decisively.	0.7015021188974747
+Flexible miniendoscopes can be combined with a laser for the first time, allowing for exact localization of the stenosis and subsequent therapy.	0.6793949763599315
+Surgery of tibial plateau fractures with joint involvement (AO classification 41 A1, B1-B3 and C1- C3) makes high demands on traumatological management.	0.4250581298670732
+By using modern, minimally invasive operative techniques for juxta-articular fractures, it is possible to prevent soft tissue injuries that might affect the functional result.	0.6639267200673805
+The aim of this technique is to achieve the exercise stability obtained with standard procedures.	0.7817313665159412
+Arthroscopically assisted osteosynthesis not only minimizes the surgical soft tissue trauma, but also enables a precise assessment of the articular surfaces under the operation, as well as the simultaneous treatment of concomitant intra-articular injuries, a particular advantage as compared to conventional operative methods.	0.7234048144264155
+From a total of 54 patients with tibial plateau fractures, arthroscopically assisted osteosynthesis was performed in 34 patients at our clinic from September 1994 to January 1998.	0.6326279720338015
+The follow-up of a total of 17 patients revealed good recoveries when assayed by means of the Lysholm and Delamarter score.	0.6002209339914407
+We suggest that arthroscopically assisted, minimally invasive osteosynthesis can also be used in selected patients for the treatment of AO classification 41 C1-C3 fractures.	0.6230934030841391
+Dorsal tension band fixation is a wide-spread technique of finger arthrodesis.	0.5018792194713696
+When using a resorbable PDS-suture as tension band fixation a costly implant removal is not needed.	0.4184188073755445
+Aim of this study is the investigation of the primary stability of this technique in combination with the cup-in-cone-procedure.	0.8915033596491365
+Freeze-preserved fingers with thread tension band fixation using the PDS-material (series 1), the same fixating method on formaldehyde preserved fingers (series 3), freeze-preserved fingers with a standard tension band fixating (wire loop, series 2) are load in a four-point-bending in the direction of palmarflexion.	0.5745390267909384
+From 6 degrees onwards the wire-tension-system requires a higher torque for bending, but in case of higher torque frequently leads to fracture.	0.544319325971797
+The examination shows that the thread-tension-band method by PDS-loop for the stabilisation of finger joint arthrodesis has a sufficient initial stability against bending forces.	0.42594937526065074
+Modern medicine has succeeded in achieving enormous technical developments.	0.22692294334274554
+One recent highlight has been the introduction of postmortem organ transplantation.	0.40427596253997083
+At the same time, serious objections have been raised concerning the radical changes in the cultural conception of the inviolable body.	0.5098376430740107
+One major objection arises from the conflict of considering a brain-dead person as dead.	0.38896554903072306
+The presence of brain death is a prerequisite for post-mortem organ donation, because only during this phase of dying does the individual quality as dead while the organs, other than the brain, remain viable.	0.6270416976314587
+The objection implies scepticism as to the physician's ability to distinguish a dead from a living person.	0.5198833785538357
+On the other hand, even the critics must rely on the physician's ability to discriminate, e.g., when to discontinue resuscitation.	0.5901408528507344
+The medical community has not found reasons to restrict the definition of irreversible coma 25 years after its first formulation.	0.4936939818661831
+It must be clearly recognised that reasons other than medical ones can be decisive for refusing organ donation.	0.33915929567755
+One ethical problem is the therapeutic benefit of organ transplantation.	0.41916819279382767
+The beneficiary of the treatment is not the donor, but another person, the recipient.	0.9392186636207962
+The concept of human dignity does not allow the use of a person fur purposes other than the ones he/she consents to, as Immanuel Kant stated.	0.6000605160870045
+Although the human corpse is not a person in the full sense, even if it is protected by the thought of respect for the former person, the life-interest of the organ recipient had to be considered legitimate.	0.744234769509244
+The resulting conflict between the respect for the donor and the life-interest of the recipient should be balanced by seeking the donor's consent as far as possible.	0.46464864712742204
+The proposed information model seems adequate at the moment.	0.3858473898768261
+A common report of both churches in Germany in 1990 supported postmortem organ transplantation.	0.4249240829803595
+The report dealt with the medical problems and harmonized them with the Christian value of solidarity.	0.4788431197407621
+The ethical alternatives to organ transplantation, however, are not mentioned.	0.5964548567100036
+Within this limitation, the report seems to adequately express the aim to strengthen individual competence and plead for fair perception of the neighbour's life-interest.	0.5002841666360166
+Starting point for this analysis are the mobility needs and requirements of elderly, as well as problems concerning access and use of public transport.	0.49188453569331864
+Elderly people as car drivers suffer from several performance deficits which are currently compensated by mobility restrictions and changed driving behaviour.	0.3720542393851236
+Driver assistance systems, just available or soon on the market, are demonstrated and analysed with respect to their impact on elderly drivers.	0.5449150225109212
+An expert evaluation comes to the conclusion that the most important systems for elderly are: emergency systems, enhanced vision systems and parking aids.	0.5815617570666701
+Emergency systems can call rescue teams automatically or at driver's request, and direct them to the emergency location.	0.5363876863929017
+Self imposed restrictions of elderly concerning night driving can partly be compensated by means of curve lightning and automatic dipping.	0.3156037443854934
+Parking aids, using cameras or infrared technique are especially helpful for persons with movability problems.	0.4476480893400392
+The group of helpful, but not highly important driver assistance systems covers several means for longitudinal and lateral control of the car, comprising autonomous cruise control, antilock systems and electronic stability programmes.	0.6062703963529955
+The value and impact of these systems are analysed in the light of risk homeostasis theory.	0.5532309937786261
+Reduced work load and ease of mobility will at last result from user centered navigation systems, helping the elder driver also to move to new areas without orientational problems.	0.3474572721861245
+The article demonstrates the particular importance of specific layouts of the man-machine-interface for elderly, to guarantee high acceptance and minimal distraction from traffic.	0.5031974464291857
+Causal treatment regimens of proven effectiveness in controlled studies are only available for cases of male infertility resulting from hypogonadotropic hypogonadism.	0.48208342330146275
+Drug treatment of retrograde ejaculation is also effective but has so far not been tested in double-blind, placebo-controlled randomized studies.	0.5183900886913503
+The results of immunosuppressive therapy in cases of immunological male infertility are still controversial .	0.5972987764932935
+In addition, antiphlogistic and antibiotic treatment of chronic male genital tract infections has not been shown to improve male fertility.	0.6456253893123871
+Inconsistent results have been obtained with empirical therapy - e.g., with kallikein, tamoxifen, clomiphene, pentoxifylline, mast cell blockers, testolacton, vitamin E, captopril, alpha receptor blockers, glutathione, indometacin, interferon alpha, growth hormone, zinc salts, ketoprofen, mesterone or testosterone undecanoate - or the studies performed are not sufficient to allow a final judgement.	0.5949089991891275
+Recent studies have indicated a possible impairment of sperm function by pure FSH, while GnrH and FSH have no influence on spermatogenesis in normogonadotropic men.	0.5062651042574933
+In 40 patients with Alzheimer's disease (AD), in 5 patients with non-AD dementia and in 36 cognitively normal controls the concentration of protein tau was determined in the cerebrospinal fluid (CSF).	0.5952037091213275
+Of the AD patients, 19 were very mildly demented (MMSE score from 25 to 28).	0.4676749557825828
+Even in these patients, CSF tau was significantly more elevated than in controls.	0.4759891350392568
+In the non-AD patients protein tau was less increased.	0.39358035097611516
+Among the AD patients there was no association between CSF tau and severity of cognitive impairment or deficit in cerebral blood flow, determined by SPECT.	0.5319831318382556
+Our findings suggest that CSF tau may be elevated even at the predementia stage of AD and be useful as a biological marker for the early recognition of the disease.	0.540116757272768
+The aim of our review is to summarize relevant data on the perioperative use of anti-ischaemic drugs in patients at risk for or with proven coronary heart disease.	0.6995980427635006
+The accessible medical literature according to current electronic information sources was explored.	0.2910073206338104
+One in every eight general anaesthetics is administered to a patient at risk for or with proven coronary heart disease.	0.42651504363366977
+Of these patients, it is estimated that 20% - 40% have perioperative myocardial ischaemia (PMI), the majority being nonsymptomatic.	0.8417522221259007
+This figure correlates with the occurrence of postoperative cardiac complications and myocardial infarction.	0.43544190703776364
+The anaesthetist therefore has an important role to play in reducing the rate of perioperative cardiac sequelae.	0.5600222205713016
+This can be achieved with good control of haemodynamic stability and the timely and appropriate use of antiischaemic drugs.	0.5614762173269748
+Nitrocompounds (nitrates, molsidomine) serve as the gold standard in current angina pectoris treatment.	0.4445548497147622
+Acting as coronary and systemic vasodilators, they effect an immediate reduction in preload and have been shown to be the drugs of first choice for intraoperative myocardial ischaemia.	0.6853801300958675
+Beta-blockers reduce the rate of PMI to a greater extent than nitrates.	0.48764247884961065
+They are also effective in myocardial ischaemia not accompanied by an increased heart rate.	0.6579214285853328
+Single pre-operative administration of beta-blockers has also been shown to be beneficial in reducing theincidence of perioperative tachycardia, hypertension, and PMI.	0.6156666315553511
+Consequently, such one-time medication can be considered for previously untreated high-risk patients presenting for surgery.	0.811390005292802
+The continuation of oral calcium channel blockers to the morning of surgery also reduces the rate of PMI and myocardial infarction in coronary-bypass patients, and combination with beta-blockers enhances this effect.	0.5876211314291053
+Intra-operative diltiazem infusions are similarly advantageous in this patient group.	0.41361812516207724
+In addition to nitrates, calcium antagonists are the drug of choice for coronary vasospasm.	0.6394327789956394
+Drugs inhibiting platelet aggregation have a particular role in patients with coronary heart disease, however, they also cause increased perioperative bleeding.	0.5348215049011942
+Consequently, it is recommended that these medications be discontinued 5 - 10 days prior to major surgery, with the exception of high-risk patients.	0.8081522988295996
+Pilot studies using alpha2-agonists have shown reduced anaesthetic requirements and a reduction in PMI.	0.41016668198816514
+The perioperative relevance of these drugs is currently being investigated.	0.6511849110285372
+Beta-blockers, calcium channel blockers, nitrates, and possibly alpha2-agonists lead to reduced rates of PMI and other cardiac complications in risk patients.	0.6146072535916027
+Current anti-anginal medications, with the exception of anti-platelet agents, should be maintained to the day of surgery and continued as soon as possible thereafter.	0.653834951592239
+All of these drugs except anti-platelet agents may also be used intra-operatively, however, possible interactions with anaesthetic agents should be carefully considered.	0.6547204986686295
+Inflammatory bowel diseases (Crohn's disease, ulcerative colitis) were thought to be psychosomatic disorders.	0.4981179481974475
+However, this argument has recently been questioned by many researchers.	0.5905681241454821
+At the same time, biomedical factors have been described that were claimed to play a role in the aetiology and modulation of the course of inflammatory bowel diseases (IBD).	0.6605736789484224
+In the present paper, the state of research regarding both biomedical and psychosomatic factors of the aetiology and course of IBD is reviewed and critically evaluated from a methodological perspective.	0.7400584635900006
+Results covering the following topics are presented: epidemiology; sociodemographic variables; genetic factors; dietary factors and cigarette smoking; drugs; permeability of bowel epithelia; immunological factors; microbiological factors; psychiatric disorders, affective symptoms, personality factors; life events and psychosocial stress; quality of life; and coping with the illness.	0.506777450941353
+Among biomedical factors, a genetically based pathological immune reaction is highly probable.	0.51552441987021
+However, the findings of immunological disturbances are of a more descriptive nature and seem to explain not the aetiological process of the development of the disease, but rather a kind of disposition.	0.8058585852214608
+The question of which agents trigger the pathological immune cascade is still under investigation.	0.5311077330919489
+Interesting findings can possibly be expected of the psycho-neuro-immunological research in this area.	0.39931213469724125
+Results of research on psychological pathology (psychiatric disorders, personality factors) are inconclusive.	0.5465855362316947
+In particular, some modern, well-controlled studies have not been able to confirm the findings of the older literature.	0.7410880960843723
+Part of the high rate of psychiatric morbidity might be due to effects of selective sampling of more disturbed subjects.	0.5706297258305605
+Research pertaining to the influence of distressing life events has also yielded inconsistent results.	0.36074156414290665
+Prospective studies about the association of psychosocial stress and somatic symptomatology mostly demonstrated cross-sectional correlations which did not allow for causal interpretations.	0.4721583358375079
+However, coping research has shown interesting results that point to the mediating influence of coping strategies on the course of the disease.	0.47449621280186394
+Finally, perspectives for future research are suggested.	0.4577746405053055
+Genital infection, particularly bacterial vaginosis (BV), increases the relative risk of prematurity.	0.5542697156389312
+Detection of disturbances of vaginal milieu at an early stage and the use of suitable countermeasures such as intervention with antimicrobial substances can reduce the preterm birth rate.	0.456446921352105
+A pregnancy with a partial or complete hydatidiform mole and a coexistent living fetus is a rare condition.	0.6283104513329395
+Most cases are consistent with a twin pregnancy, with distinct borders between placenta and mole on sonography.	0.5482408706066378
+We report a case with a single placenta with cystic structures resembling histologically a complete hydatidiform mole.	0.7014137966796324
+The pregnancy resulted in a diploid female fetus in the 34th week of gestation with marked hypotrophy.	0.4056032757794017
+The non-molar part of the placenta showed a complex alteration of villous maturity resulting in intrauterine growth retardation but a living fetus.	0.4287322882690215
+No malignancy occured post partum.	0.1409160758873087
+The clinical and pathogenetic aspects of this rare entity are discussed.	0.8338160699025363
+So far, necrosis of the lunate bone has been interpreted in the literature as a phenomenon with a traumatic, primarily vascular-arterial or mechanical causation.	0.5796055871903489
+These models seem problematic, since neither the patients' histories nor the macroscopic-radiographical or histological appearances can be reconciled with them.	0.5158561400579749
+In contrast, the model of a primarily venous aetiopathogenesis accepted for idiopathic necrosis of the femoral head is now examined.	0.5877519719745881
+Evaluation of 125 cases of lunate bone necrosis treated in the Department of Orthopaedics at the University Hospital in Heidelberg between 1958 and 1993 made it possible to reconstruct the spontaneous course of the condition.	0.6378665224914245
+X-Ray material, core spin tomographic images and material from a prospective study carried out in 49 patients with unexplained painful conditions of the wrist were available.	0.6469245407060491
+A stage-by-stage progression emerged, which initially caused alterations only in the MR image, while the X-ray picture remained unremarkable.	0.7250348728187679
+It was recognized from the spontaneous course that subsequent changes in the shape of the diseased lunate bones were always the result of the necrotic transformation process and never the cause of it.	0.6016552717745826
+This meant that fractures were excluded as a possible cause of necrosis of the lunate bone.	0.5387917489655991
+The spontaneous course was used as the basis of a stage-related classification for lunate bone necrosis.	0.7044094590837396
+In a pressure measurement test, the behaviour of the intraosseous pressure in 16 necrotic lunate bones, 16 healthy lunate bones and 16 healthy capitate bones was tested under various functional conditions.	0.6061330664976663
+The pressure fluctuations in the capitate bones were very slight, while in the healthy lunate bones pressure increased significantly during extension of the wrist.	0.5928757971154849
+The position-dependent pressure increases in the lunate bones indicated that the venous drainage was constantly in jeopardy.	0.6120691155256702
+The pressure increases in necrotic lunate bones were significantly in excess of those in healthy ones; in some cases they were far in excess of the systolic blood pressure.	0.6051655401147822
+It was also concluded that necrotic lunate bones were mechanically deformed on movement.	0.4345557852891052
+The anatomical causes of the pronounced pressure increases were examined experimentally.	0.44711138219123897
+After staining of both the arteries and the veins, epoxy sheet plastination was used to fix six fresh cadaver arms in the neutral position and six in extension.	0.48438831836392643
+Visualization of the vessels showed that capsular-ligamentous structures that were stretched on the palmar side and slackly turned back on themselves on the dorsal side still allowed the blood supply from the arteries, but substantially hindered venous drainage.	0.5242864739233964
+The anatomical preparations made it possible to see that venous drainage from the lunate bone was being prevented; this explained the pronounced pressure increases.	0.48789752498468286
+The unphysiological position of the base of the radius inclined in the palmar direction relative to the hand axis when it was extended dorsally was the crucial factor in the development of necrosis.	0.5100369013801909
+Evaluation of the histories of the patients with necrosis of the lunate bone made it clear that trauma was not significantly involved in the causation, while manual work had an important role.	0.793814775195139
+Most manual activites are performed with the wrist in extension.	0.46953617235143563
+Any extension favours triggering of bone necrosis through congestion in the venous trunk.	0.3676853995724074
+Thus, our investigations have shown that the beginning of this illness starts with congestion such as occurs with every extension of the wrist, which is initially physiological, before further factors favouring the process cause it to take a pathologic course.	0.7000144896379334
+The results of the German National Health Interview and Examination Survey 1998 confirm allergies as widespread diseases in Germany.	0.5863313337709923
+In total 40 to 43 % of the adult population have or have had an allergic disease.	0.5846569112089306
+The morbidity was assessed using a self-administered questionnaire and a personal interview performed by a physician.	0.5920162712124822
+The agreement between questionnaire and interview data is greater than 90 % for allergic rhinitis, food allergy and urticaria and about 80 % for contact dermatitis and asthma.	0.6742933622890519
+The results of both assessment methods showed remarkable differences between East and West Germany.	0.4874132610004851
+Using the interview data 17 % of the West but only 11 % of the East German adults have/had e.g.	0.5326395641606554
+Comparable differences exist for contact dermatitis.	0.2621123223465108
+Many people with allergies suffer or have suffered from several allergies.	0.29984874779574855
+Frequent patterns of combination are food allergy/allergic rhinitis and asthma/allergic rhinitis.	0.315682915769267
+In comparison with former studies we observed an increase of 70 % in the prevalence of allergic rhinitis between 1990/92 and 1998.	0.7025743147357173
+The relative increase is higher in East than in West.	0.3521270963209358
+The time trend in prevalence of asthma could only be calculated for the West German population.	0.3849803453129854
+The results show a remarkable increase here, too.	0.6142260027437507
+Case report on a 72 year old female patient presenting with collapse and progressive dyspnea.	0.5528276080347899
+X-ray of the chest showed a marked enlargement of the heart extending to the right.	0.8433083684195772
+Echocardiography revealed an impressive displacement of the heart chambers to the left caused by a large aneurysm (11x5x5 cm) located anteriorly and medially from the right heart communicating with the right atrium.	0.6508401916230375
+Pronounced compression of the basal part of the right ventricle was present.	0.8386266017073495
+Within the aneurysmatic cavity several highly mobile thrombi and extensive spontaneous echo contrast were demonstrated.	0.2764633616627704
+On magnetic resonance imaging and right heart angiocardiography the aneurysm was visualized as well.	0.5370089455079065
+Coronary angiography revealed a marked curved displacement of the right coronary artery to the left side.	0.7618618497311543
+Perfusion lung scanning suggested bilateral segmental pulmonary embolism proven by digital substraction angiography.	0.28945417073681684
+With long-term oral anticoagulation the patient remained symptomfree during follow-up of now more than four years.	0.4928814170495808
+ICD-10 was implemented for morbidity coding in Germany in January 2000.	0.4474016649580813
+The electronic versions of ICD-10 are introduced.	0.2628199740237002
+For everyday work with the classification and for epidemiological research further tools are provided by DIMDI: ICD-10 meta files, ICD conversion tables, ICD-10 thesaurus of diagnostic terms.	0.28516576222563456
+All files are available free of charge via the INTERNET.	0.2320699357298376
+Hair is regarded as a product of the skin and cutaneous appendage.	0.7278837526988224
+Possible influences of skin functions such as resorption, excretion and as a temporary reservoir for drug substances on hair analysis is discussed.	0.4155494495328908
+The relevance of skin secretions and their interactions with keratinized hair fibers is outlined.	0.35732532478619045
+For the emergency treatment of sustained, hemodynamically stable ventricular tachycardia, antiarrhythmic drugs are the therapy of choice.	0.5298947808538179
+Mostly class I antiarrhythmic drugs, such as lidocaine or ajmaline, are preferred.	0.49146027843170814
+In hemodynamically unstable ventricular tachycardia, electrical cardioversion should be applied, in case of recurrences, followed by pharmaclogical treatment with class I antiarrhythmic drugs or amiodarone.	0.5706772668421041
+For the primary prevention of sudden cardiac death, -blockers and/or amiodarone are the only effective drugs.	0.8334033121830925
+In the secondary prevention, only the implantable cardioverter/defibrillator has proved to improve the prognosis of the patients.	0.8963663835080683
+Insular carcinoma of the thyroid is a low differentiated type constituting about 5 % of all thyroid cancers.	0.7565932733167648
+Higher aggressiveness has been suggested as an important clinical feature.	0.6279714123574937
+The value of preoperative fine-needle aspiration biopsy is not clearly proven for insular carcinoma.	0.4288166025744733
+The criteria for histological diagnosis have been outlined by Carcangiu et al.	0.41586477672095057
+Because of its aggressiveness, radical treatment at primary surgery appears advisable.	0.4794642586465779
+Its clear distinction from undifferentiated (anaplastic) and medullary (C cell) cancers is important, as thyroglobulin is regularly synthesized by cancer cells.	0.5416787585421582
+Enrichment of radioactive iodine makes such treatment feasible postoperatively and at relapse.	0.2590863394684752
+Follow-up should be performed as in highly differentiated papillary and follicular thyroid cancer.	0.636983351889194
+A patient series of eight cases is presented.	0.36096611066229384
+While all cancers were advanced at the initial diagnosis, the observed disease courses were in agreement with the assumption that insular carcinoma is a more aggressive form of differentiated thyroid cancer.	0.5527141653486829
+The result of an investigation of 128 from 283 (45,2%) medical and psychological psychotherapists established in the city of Hannover is presented.	0.7376416962095435
+The aim of the study is to characterize the situation of psychotherapeutical care not only by the number of psychotherapists in relation to inhabitants but also by the working time spent for psychotherapy.	0.6596623608663319
+Besides we found gender, school of psychotherapy and professional experience as factor influencing the patients waiting time for beginning a psychotherapy.	0.470222648997865
+In contrast to other studies, the number of medical and psychological psychotherapists is not different, nevertheless the psychotherapeutical care in Hannover is not ensured.	0.6710444783915354
+Objectives Reconstruction of the anterior cruciate ligament in children without creating permanent damage to the tibial or femoral physes.	0.5058517377130692
+The semitendinosus tendon, left attached distally, is passed through a tunnel in the tibial epiphysis, led through the joint, passed behind the lateral femoral condyle and fixed to the outer aspect of the femur with a staple.	0.5712189837700697
+The anomalous origin of the right coronary artery from the pulmonary artery is one of the rarest coronary anomalies which often remains asymptomatic until the patients achieve advanced age but may also be clinically manifest already in infants and lead to sudden death.	0.6037718239310231
+We report the diagnostics and surgical treatment in a 15-month-old asymptomatic child and the necessity of surgical repair.	0.7711200486088946
+The diagnosis was incidentally made during an echocardiographic procedure and confirmed by coronary angiography.	0.4976546824500427
+A reimplantation of the ano origin of the coronary artery was carried out wihtout using extra-corporal circulation.	0.5108993183321409
+There were no postoperative complications.	0.5573891052803123
+Due to the coronary steal phenomenon and the related coronary risk, surgical repair is recommended also for asymptomatic cases.	0.6615779641734552
+The surgical management of vesicovaginal fistulae (VVF) is a matter of controversy.	0.5556751560015019
+This study deals with our experience with transvaginally treated patients suffering from VVF.	0.4734582457075473
+Between 1966 and 1996, 64 patients with VVF were treated surgically.	0.4998912759899789
+The VVF occurred in the course of hysterectomy in 54 patients, was due to radiotherapy in 7, was a result of obstetric complications in 2 patients, and occurred after colporrhaphy in 1 patient.	0.7189632405092576
+In 60 of these 64 patients closure of the fistula was carried out transvaginally.	0.556471415681015
+Fourteen of these 60 patients (23 %) had undergone prior surgical attempts to close the VVF (1 to 3 procedures).	0.706248909749575
+Transvaginal surgery was successful at first attempt in 55 of these 60 patients (92 %).	0.46067224192623635
+The other 5 patients were successfully treated by a second procedure (again transvaginal: n = 3; transabdominal: n = 2).	0.5321272456317055
+In conclusion, the transvaginal approach to close VVF is of advantage, avoiding an abdominal incision and reducing postoperative morbidity.	0.4638292391390811
+In the vast majority of the cases isolated VVF can be treated successfully by transvaginal repair.	0.7165105264754552
+Myotonic dystrophy is an autosomal dominant multisystem disorder involving muscle, brain, heart, eyes, and endocrine organs.	0.6079516143926168
+The underlying mutation is an expanding trinucleotide CTG repeat in the 3'prime untranslated region of a serine-threonine kinase gene on chromosome 19q.	0.34632855603544405
+A statistical correlation exists between the CTG copy number and the severity of the disease.	0.45192903101451365
+Infants with severe congenital myotonic dystrophy have been shown to have on average a greater amplification of the CTG repeat than is seen in the non-congenital myotonic dystrophy population.	0.5189807312250377
+However, not all patients with many CTG copies develop congenital myotonic dystrophy.	0.6188817247799271
+We present 13 patients with more than 1500 CTG trinucleotide repeats and show their variable clinical course.	0.4372335147007984
+Whilst the incidence of psychiatric disorders decreases during pregnancy, the risk during the postpartum period increases significantly, often leading to the necessity of psychopharmacological intervention during the puerperium, and subsequently during lactation and breast-feeding.	0.675746598236136
+The necessity for lithium prophylaxis in manic-depressive women after childbirth has been identified, and it is recommended that weaning rather than omission of psychopharmacological treatment is preferable during the puerperium.	0.601465440492519
+Objectives Arthrodesis of the Chopart joint.	0.28518603937075976
+Should a malalignment exist, it must be corrected prior to fusion.	0.6178946785957331
+Elimination of painful functional disturbances and reduced need for custom-made shoes.	0.38887017281770253
+In 300 patients with 339 coronary lesions the percent diameter stenosis (%-DS) was assessed both by visual estimation and by digital quantitative coronary angiography (DQCA) by use of an on-line computer workstation.	0.7551161626633417
+The decision for coronary angioplasty in the same setting ("prima vista"-PTCA) was based on history, evidence of ischemia and visual estimation of %-DS.	0.8901387134543752
+DQCA measurements of the 339 stenoses revealed a normal distribution of lesion severity with a mean of 58.4  +/-  11.3%.	0.7941386089179208
+In contrast to DQCA visual estimation led to a bimodal distribution with a nadir at ~55% between two peaks at ~45% and ~75% and a mean of 70.5  +/-  19.6%.	0.8615873667325753
+Visual estimation underestimated lesions in the range of 30-55% and overestimated the %-DS between 55-99%.	0.7536835575923281
+Visual estimation revealed a %-DS >= 60% in 251 stenoses (74.0%) of the 339 lesions, an estimate that led to subsequent "prima vista"-PTCA.	0.7647836111326901
+Conversely, DQCA revealed only 184 stenoses (54.3%) with a %-DS >= 60%; thus, 86 stenoses (25.3%) did not meet the morphologic indication criteria for PTCA.	0.6709590353836513
+The bimodal distribution of stenosis severity according to visual analysis with an overestimation of borderline stenosis severity reflects a tendency for "self-referral" of patients for PTCA.	0.6104512211073436
+DQCA serves as an objective tool in the decision-making process for PTCA and may reduce "cosmetic" interventions or justify to defer PTCA.	0.5544117404416913
+Especially in the selection process for "prima vista"-PTCA DQCA-quantification of stenosis severity is recommended.	0.5876401271809945
+S-100 protein and neuron-specific enolase (NSE) serum concentrations serve as markers of cerebral damage in cardiac surgery, neurology, or after head injury.	0.5960439175022959
+In these circumstances, S-100 and NSE levels correspond with the results of neuropsychological tests.	0.6007578442127799
+The present study investigated the diagnostic value in orthopaedic patients after joint replacement.	0.6018950053334253
+Since its introduction in clinical use more than ten years ago, propofol is well appreciated for sedation and supplemental hypnosis in anaesthesia.	0.450491731921621
+However the substance is approved only for anaesthesia in children elder than three years.	0.3687014675395467
+As can be substantiated by many data reported in literature, there are no pharmacokinetic or pharmacodynamic reasons whatsoever to withhold propofol from the younger children; this applies both to the use as a narcotic supplement and as a short term hypnotic for diagnostic and therapeutic interventions.	0.6198737181825678
+Orthostatic circulatory disorders are frequently the cause of orthostatic intolerance, syncope or dangerous falls.	0.4262370952489022
+A sufficient therapy should be based on a differential diagnosis by means of an active standing test or a tilt-table test.	0.6040765302284304
+Three typical pathological reactions of blood pressure and heart rate can be differentiated.	0.5417481829748495
+The hypoadrenergic orthostatic hypotension is characterised by an immediate drop in blood pressure (systolic drop >20 mmHg below base line within 3 min) with or without compensatory tachycardia.	0.6086679756634887
+It is caused by peripheral or central sympathetic dysfunction.	0.3212692620320802
+Tachycardia (>30 beats per minute above base line within 10 min) without significant blood pressure drop but with a fall of cerebral blood flow indicates a postural tachycardia syndrome.	0.6905713165276451
+In general, there is no further somatic dysfunction.	0.5651460040099952
+Increased venous pooling is thought to be the assumed pathomechanism.	0.5928909911250708
+A reflex mechanism evokes the neurocardiogenic syncope after a certain time of standing: sympathetic inhibition yields a strong blood pressure drop and vagal activation bradycardia.	0.34913681522238615
+Proved therapies include use of the mineralocorticoide fludrocortison (hypoadrenergic orthostatic hypotension), of the a-agonist midodrin (postural tachycardia syndrome) and of b-blockers (neurocardiogenic syncope).	0.6341855580223301
+There are numerous diseases which can irreversibly stiffen the whole spine or parts of the axial skeleton.	0.4215174907829643
+Due to didactic reasons one can distinguish 3 gropus of such disorders: -  Paradigmatic diseases of the spine with an inherent proneness to stiffness.	0.6310702859171532
+-  Rare diseases which involve a certain danger of stiffening the spine.	0.5369660665288927
+-  Rigidity of the spine due to scientifically unrecognised morphologic phenomena.	0.6921060727397055
+Modern approaches in knee endoprosthetics using computer-assisted navigation systems are based on matching procedures which refer to osseous anatomical landmarks.	0.43406467314930686
+However, surface replacement techniques require a correct position of the implants in relation to the bone, as well as an optimal postoperative interaction of the ligaments and the surface design of the endoprosthesis.	0.6550775100076466
+Functional aspects are of elementary importance.	0.2902822541415402
+A 79-year-old man died of fatal haemorrhage into the soft tissue of the true pelvis 2 days after transrectal ultrasound-guided prostatic biopsy.	0.580865089410763
+Autopsy revealed a perforation of the left prostatic lobe with ruptures of the periprostatic vessels.	0.5798822117513035
+A similar case of transrectal prostatic biopsy-associated complication has not been described previously.	0.5500934642055952
+The judicial enquiries were discontinued.	0.09196418346783303
+Several different theories exist about the orign of kinetosis and the space adaption syndrome, with individual sensitivities differing significantly.	0.44532902512078004
+One explanation involves the hypothesis of a different otolith mass between the right and left statolith organ and especially a difference in the utricles.	0.5350444868239255
+A difference in mass results in a different sensitivity to acceleration.	0.572833095226153
+For this reason we measured interindividual variances in saccular and utricular otolith mass.	0.3518313601470941
+Since the anatomy of the vestibular organ in vertebrates is based as similar principles, we selected fish (salmon and trout) as our study model to facilitation preparations.	0.5238929728003646
+The maximum difference in mass in the saccule was 17% and was generally smaller in the utricle, although in individual cases was much higher.	0.7128057741352288
+We assume that a misbalanced sensitivity of the statolith organs occurs but is totally compensated for by the vestibular system as long as physiological motion patterns take place.	0.5035690257580525
+Decompensation leads to kinetosis under non-physiological motion patterns.	0.23701637319170274
+When the vestibular system is better balanced and has an equally distributed otolith mass to both sides, the possibility for developing kinetosis or space adaption syndrome is much less likely.	0.5189046412643771
+The clinical features, diagnosis and treatment of haematogenous multifocal osteomyelitis, a rare illness, are described.	0.8144565697656259
+Of clinical note are the pain, pseudoparalyses and restriction of movement.	0.3386691369001409
+Staphylococcus aureus was the pathogen in both of the cases we described.	0.6271578186890522
+Sonography is a useful diagnostic tool for the localization of subperiosteal abscesses; scintigraphy is a supplementary examination for cases where it is difficult to establish a diagnosis.	0.6309503618740699
+MR-tomography is the most reliable method for examination of proximal infected foci (spondylitis, pelvis osteomyelitis).	0.5695975421642804
+In our view, the earliest possible removal of all infected foci by means of operation and parenteral antibiotics mare the most important treatment.	0.6354878560389666
+Interactions between the endocrine and immune systems are well known with special regard to the hypothalamic-pituitary-adrenal axis.	0.46372077800718114
+Little of the literature focuses on the complex effects of cytokines on tissue responsiveness to glucocorticoids (GC).	0.5491610374361522
+In bone tissue, osteoblasts represent a valuable model for studying GC-cytokine interactions.	0.43666070536315765
+Hence, we have studied two human osteosarcoma cell lines (Saos-2 and MG-63) with different degrees of differentiation and different constitutive IL-6 production (3.4 +/- 0.3 (mean  +/- SE) and 3309 +/- 578 pg/106 cells).	0.8196389186312298
+We measured glucocorticoid receptor (GR) number and affinity as a function of the exposure of cells to different amounts of IL-6.	0.5219230764331959
+Incubation for 20 h with IL-6 at increasing concentrations up to 2000 pg/ml yielded a significant increase of GR binding sites in both cell lines.	0.5000112227598605
+IL-6 was also able to reverse the inhibitory effect of dexamethasone (1 µmol/l) on GR in both cell lines.	0.6145954408822838
+In MG-63 cells, expressing higher concentrations of GR, IL-6 deprivation via a specific anti-IL-6 antibody (100 ng/ml) significantly decreased GR.	0.581290978217211
+In Saos-2 cells, expressing lower concentrations of GR, a 40 h treatment with human IL-1 (10 ng/ml) significantly increased both IL-6 production and GR.	0.6617538155886459
+This latter effect was completely abolished by co-treating the cells with the anti-IL-6 antibody.	0.4602110824691836
+Our results provide evidence that IL-6 is an autocrine positive modulator of GR number in human osteoblasts.	0.42452949972266796
+Tumor debulking of gastrointestinal tumors for the reduction of tumor mass is intended to improve subsequent treatment efficacy.	0.4558909247012728
+However, in advanced malignant disease, this therapy is often associated with increased morbidity and lethality.	0.7639322024723831
+Adjuvant therapies cannot be initiated when needed.	0.26177669860559366
+Therefore, long-term survival remains unaffected.	0.6923041557991553
+Advances in biomedical science provide preliminary explanations for these therapeutic problems.	0.3322372145708911
+Modern therapeutic concepts like neoadjuvant therapy for locally advanced tumors are based on these findings.	0.5368036965572021
+The probability of complete R0 resections, necessary to improve long-term survival, can be enhanced by these therapies.	0.6613765621071879
+The ongoing prospective neoadjuvant studies for gastrointestinal tumors are already very encouraging.	0.32492083173665703
+The simulation of unilateral deafness is very rare.	0.41199846971833026
+Objective findings are of special interest if it happens.	0.5505555433233184
+A patient with alleged deafness on the left-hand side due to commotio cerebri was treated in our hospital.	0.5597760847909842
+Pure tone audiometry showed deafness on the left-hand side and normal hearing on the right-hand side.	0.5227742377996683
+However, stapedius reflexes were found ipsilaterally left as well as contralaterally right, at 0.5 to 2 kHz with a stimulation of approxamately 90 dB SPL.	0.5812388225876608
+Transiently evoked otoacoustic emissions (TEOAE) and distortion-product otoacoustic emissions (DPOAE) were measured.	0.5366229173928307
+The TEOAE had the same reproducibility but a very low response on both sides, such that inner ear function could not be evaluated.	0.6498103117321115
+In comparison, the DP gram showed clear DP amplitudes over the whole frequency range on both sides.	0.5461393755637007
+Nonphysiological DPs could be excluded by assessing the DP growth rate at three different frequencies.	0.49859627695253617
+By means of brainstem electric response audiometry (BERA), with which the IV/V complex was detectable up to stimulation with 20 dB SPL clicks, and the Stenger test, a neural or central hearing loss could be excluded.	0.5888305498288068
+Normal hearing on the left-hand side was thus confirmed.	0.4172280747381191
+In cases of simulated deafness it is possible to prove a normal inner ear function by DPOAE.	0.5872273544269903
+DPOAE therefore complements the list of potential audiological simulation tests.	0.2576378428416608
+Controlled studies of adrenal steroids in premenopausal women with rheumatoid arthritis (RA) have revealed subtle and inconsistent decreases in glucocorticosteroid (GCS) function, but prominent deficiencies of adrenal androgens (AA).	0.5270440468720595
+Such findings have suggested that hypoandrogenicity may predispose to RA in younger women.	0.4139641429034308
+However, recent prospective studies of serum cortisol and dehydroepiandrosterone sulfate (DHEAS) levels before (x = 12 yrs) the onset of the disease (pre-RA) offer an alternative perspective.	0.7017239990669629
+Significant dissociation of serum cortisol and DHEAS levels was found only in the subgroup of premenopausal women who developed RA before age 50.	0.4212512170013807
+This subgroup alone had significant deficiency in serum DHEAS levels.	0.27071043884902335
+A growing number of casualties and the increasing restrictions of funding will lead as a consequence to changes within the field of trauma surgery.	0.5604952565438981
+Despite these developments trauma surgery must maintain its major responsibility towards the victims of accidents.	0.3291879425934207
+Therefore the German Society for Trauma Surgery (DGU) has to face the future economic and social challenges to influence the coming changes.	0.6399803565127004
+This role compromises the engagement in a continuous struggle for the high and global standard of injury care in Germany, for quality assessment, education and training, research and adequate public relations.	0.6389403248168873
+This paper outlines the aspects and visions of future trauma surgery and the means which may continue to guaranty international acknowledged standard of trauma care in Germany.	0.461699174411836
+Radiofrequency catheter ablation is the treatment of choice in atrioventricular nodal reentrant tachycardia.	0.6645051157480545
+Electrophysiologic investigations in 623 patients revealed eight mechanisms of tachycardia ablation: Ablation of fast (I) or slow(II), modification of fast (III) or slow AV nodal pathways (IV), modification of both pathways (V), ablation of fast and modification of slow (VI), ablation of slow and modification of fast pathways (VII) and ablation of both pathways (VIII).	0.5760179088408958
+The criteria of diagnosis of these eight mechanisms of tachycardia ablation are described.	0.54240939124844
+Follow-up showed fewer relapses in patients with ablation (0-2%) in comparison to patients with modification of a single AV nodal pathway (8-12%).	0.7969447626345261
+Alteration of both pathways includes an increasing risk of total AV nodal block, which occured in 7 patients (1.1%).	0.7323080507575889
+Detailed analysis of the mechanism of catheter ablation is recommended in all patients after radiofrequency current delivery for AV nodal reentrant tachycardia to estimate the risk of relapsing during follow-up or development of total AV block in the particular patient in case of a further ablation procedure.	0.7335260467802468
+An increasing life expectancy leads to a higher number of persons aged 70-84 years and persons aged 85 years and older.	0.5089591983278134
+Information concerning changes in the spectrum of psychiatric morbidity is rare.	0.6213242666248329
+The Berlin Aging Study was based on a representative age- and gender-stratified sample (n = 516) of Berlin citizens aged 70-100 years and older.	0.629634259738906
+In this interdisciplinary study, an intensive investigation was carried out by psychologists, sociologists, internists and psychiatrists.	0.576301838997182
+This report focuses on subjectively reported complaints (Beschwerdeliste, BL), observed psychopathological symptomatology (Brief Psychiatric Rating Scale, BPRS) and psychiatric diagnoses following the criteria of DSM-III-R (based on the Geriatric Mental State Examination, GMS-A).	0.48989794420947474
+On the self-rating scale (BL) 10 % of all persons reported severe subjective complaints, 32 % moderate complaints.	0.6453994095554072
+On the BPRS, 17 % showed severe psychopathological symptomatology, 75 % at least mild symptoms.	0.8608444207033982
+Following the criteria of DSM-III-R, 23.5 % of all persons had a psychiatric disease, 4.2 % a disease of severe intensity.	0.8580495029270246
+When the DSM-III-R diagnoses "Not Otherwise Specified" (NOS) were included 40.4 % of all subjects were diagnosed by the clinical judgement of the psychiatrists to have a psychiatric disease.	0.7428813041919795
+The most frequent psychiatric diseases were insomnia (18.8 %), depression NOS (17.8 %) and dementia (13.8 %).	0.7351224575236789
+Dementia showed the well-known age-related increase, whereas no other incidences of psychiatric morbidity were age-related.	0.6836073639914951
+Persons aged 70-84 years did not differ in the investigated psychiatric variables from persons aged 85 years and older, the only exception being the prevalence of dementia.	0.5980018210063455
+A first overview concerning developmentary risk factors and protective factors for later psychic and psychosomatic disease is presented.	0.4391604980315232
+Problems within the context of the collection of data and evaluation are discussed.	0.5607405183063299
+We analyzed how psoriasis patients sought professional help and correlated it to their illness attitudes and feelings of stigmatization.	0.33011412223898234
+Semi-structured interviews of 400 patients were reanalyzed to identify homogeneous groups concerning initial reactions at first manifestations of the disease.	0.4404855086832207
+Four groups ("isolated", "stigmatized", "socially supported" and "non-stigmatized" patients) were found and cross-tabulated with five resulting groups of a second cluster-analysis concerning the "style" of the seeking behaviour of professional and paraprofessional help and medical measures against the psoriasis ("multi-users", "arranged mini-users", "waiting-room patients", "optimists" and "self- therapists").	0.7321402653761871
+We were able to describe typical courses of illness behaviour depending on the initial reaction.	0.45543100943826037
+The results are discussed with regard to the desirable identification of problematic patients within professional care units.	0.5272423993063575
+The sonographic diagnosis of malignant lymphoma in childhood is described.	0.6419682757535339
+Malignant lymphomas are sonographically relatively uniform: initial enlargement of the lymph nodes and organs involved and disturbance of normal echo texture by mainly hypoechoic lesions can be found.	0.521262071568274
+Generally, four sonographic patterns of infiltration are described: diffuse, small nodular, large nodular and bulky type.	0.5733644366851987
+Secondary, tumor-related or inflammatory complications (e. g. dislocation or compression of vessels, thoracic inlet syndrome, venous thrombosis, ileus, urinary retention, abscess and effusion) can be sonographically evaluated.	0.672810406934126
+Response to therapy correlates with normalization of size and echo texture and recovery from tumor-related complications.	0.561527944299276
+Differential diagnosis with ultrasound is based on the topographic distribution and echo pattern of infiltration and, with certain restrictions, on the echogenicity of lesions and perfusion feasible with Doppler sonography.	0.6252209414704909
+The primary diagnosis has to be established histologically.	0.6836858458343608
+The treatment of acute posterior instabilities can involve a reconstructive procedure as well as an antidislocation augmentation.	0.5838077641088913
+Tibial bony avulsion ruptures must be reconstructed.	0.19943606478490308
+For the treatment of chronic posterior instabilities we used the patella tendon graft, which can be implanted by an anterior or posterior approach.	0.754418397845538
+In cases of posterolateral instabilities, additional procedures are necessary.	0.4712237852334145
+Ultrasound of the Achilles tendon is a suitable means of differentiating various diseases of the tendon and the surrounding tissue.	0.5550851609978319
+Different forms of degenerative disease (tendinitis, peritendinitis or bursitis, fibroosteitis, and Haglund's disease) can be discriminated from rheumatic and metabolic diseases.	0.4732952622402278
+Congenital and developmental abnormalities can also be detected.	0.3955953087641272
+Tendon degeneration mainly occurs in the ventral part of the medial third of the tendon ("critical zone").	0.7879870447279764
+Immature tissue in this area leads to temorary instability of the tendon with a high risk of rupture ("vulnerable phase").	0.756976702980401
+With sonography, lesions of the Achilles tendon are visible early in the course of the disease.	0.4980197697027684
+The German social security legislation has recognized only recently the concern of quality assessment in the field of social and medical services.	0.4943695181849588
+The legal frame for quality assessment in the field of medical treatment was enacted in the sickness insurance provision (Social Code - Book V) only in 1989.	0.589830498649389
+Quality assessment is considered to be a part of the production of medical services and, therefore, is regulated in the context of providing medical services.	0.679123950572293
+The legal provisions do not establish standards for quality and quality assessment.	0.4285550320781156
+Due to the variety of medical services, quality assessment is not regulated in an exhaustive or systematic manner.	0.6405164194729839
+According to the law, providers of medical services (doctors, hospitals) are bound to participate in quality assessment.	0.6733287000030058
+As internal quality assessment prevails in the definition of the various measures of quality assessment and the control of quality in all fields of medical treatment, external quality assessment is also prescribed for hospitals.	0.8065405466546767
+Because the establishment of quality assessment is considered to be a part of the service production organization, consumers (patients) or their representatives are not involved in the definition, establishment, and control of quality assessment.	0.7840917946758844
+The participation of patients should be provided by law.	0.5369008026277249
+Introduction: Because of an increasing number of endoscopic hernia procedures, it is important to look into the possibility of standardizing these techniques helping surgeons to acquire the operative skills necessary.	0.6195762954084141
+Material and Methods: To discuss these aspects, the documented data on TAPP operations that have been carried out in this department since 1993 were analyzed.	0.623998996936747
+The results of teaching procedures were compared with those of experts after they had gotten past the learning and development curve.	0.6290120387291612
+Results: A total of 778 teaching procedures were performed by 10 surgeons with an individual experience of 30.5 operations (median).	0.6443763108041111
+Before starting the first procedure, 89 were done by assistants operating the camera.	0.4919087233757203
+The morbidity of teaching operations was 1.9 % compared to 1.4 % for those performed by experts.	0.7840774248056496
+After a median follow-up of 23 months there were two recurrences (0.23 %) in the expert group and none in the teaching group (follow-up 16 months).	0.6883801789886175
+Conclusion: Because of the potentials of standardization of the TAPP technique, the results of teaching were equal to expert operations.	0.719086067077281
+Therefore, TAPP is suitable for application in a routine setting.	0.5407320083265534
+In spite of the high and lasting efficiency of transurethral prostatectomy, intraoperative blood loss results in increased morbidity in this procedure.	0.6616086023860475
+This led to the development of many alternative treatment modalities in the last years.	0.6782105307564914
+To minimize the risk of bleeding, we improved the high-frequency technology in several steps.	0.8057170385256323
+To achieve this, the output signals of commercially available high-frequency generators were modulated to the effect that each cut results in an efficient coagulation zone in the tissue at excellent cutting quality.	0.6510632383036519
+Laboratory and in vitro studies using porcine kidneys as well as clinical trials showed good cutting characteristics accompanied by a significant reduction of bleeding.	0.6374596231859031
+As a result, blood transfusions were less necessary, the transurethral catheter could be removed earlier in the postoperative period, and hospitalization time was significantly reduced.	0.7504170551893682
+In conclusion, the improved high-frequency technology in form of the "coagulating intermittent cutting" results in a blood-sparing tissue resection with a consecutive reduction of morbidity.	0.6608957533840027
+An accurate assessment of the duration of the ability to act following fatal poisoning can be of major importance in reconstructing circumstances leading to death, especially in determining whether the poisoning was accidental, self-inflicted, or the result of a criminal act.	0.7240483993594856
+Clinical publications have scarcely dealt with this problem.	0.236576845112053
+We therefore examined 20 legal autopsies performed at the Institutes of Forensic Medicine of the Universities of Würzburg and Leipzig as well as the respective records of the police and prosecuting attorney's offices in an effort to clarify this question.	0.4531274689942692
+As a rule the victims retained the ability to act for 10-15 min.	0.5634144350895255
+However, the material we examined and the literature also contain cases in which the ability to act lasted considerably longer.	0.7815614514435075
+The present study is intended to provide expert witnesses with guidelines for clarification of cases of fatal intoxication.	0.6580394776810197
+Androgenablation is the therapy of choice for the treatment of advanced and metastatic prostate cancer.	0.5557406138985238
+However, in more than half of the patients the disease will ultimately progress within 2 years.	0.7709777334338369
+Intermittent androgenablation through medical castration maintains the apoptotic potential.	0.20344526585049866
+By periodically changing phases on and off treatment the quality of life of the patients is improved.	0.7457242511978006
+Apart from reduced toxicity treatment costs are lowered and tumor progression is possibly delayed.	0.3452704639284237
+In how far survival is influenced is presently not clear and remains to be evaluated in further clinical trials.	0.49451682791888213
+During pressure support ventilation (PSV), the timing of the breathing cycle is mainly controlled by the patient.	0.5783600402025196
+Therefore, the delivered flow pattern during PSV might be better synchronised with the patient's demands than during volume-assisted ventilation.	0.6072567469811635
+In several modern ventilators, inspiration is terminated when the inspiratory flow decreases to 25% of the initial peak value.	0.5389178395357552
+However, this timing algorithm might cause premature inspiration termination if the initial peak flow is high.	0.5625965970742848
+This could result not only in an increased risk of dyssynchronization between the patient and the ventilator, but also in reduced ventilatory support.	0.8588319465604456
+On the other hand, a decreased peak flow might inappropriately increase the patient's inspiratory effort.	0.5559745776369802
+The aim of our study was to evaluate the influence of the variation of the initial peak-flow rate during PSV on respiratory pattern and mechanical work of breathing.	0.6859393469822342
+To date, positron emission tomography (PET) is the most powerful tool for the non-invasive study of biochemical processes.	0.6720868761518893
+Besides its usefulness for basic research PET has been proven to be superior to conventional diagnostic methods in several clinical indications.	0.5224206007418535
+However, the introduction of PET into clinical practice has been hindered considerably by its costs.	0.5822085063395748
+Several American studies lend support to the hypothesis that PET may be more cost-effective than the conventional diagnostic work-up - at least for some of its clinical indications.	0.750041970974519
+In Germany, however, this hypothesis has still not been verified.	0.5897944477806437
+The rapid growth, development and organ differentiation during early human development depend on an adequate and balanced substrate availability.	0.46753753107313684
+It is well known that early nutrition has short term effects (e.g.	0.4005515553834242
+on growth), and that marked metabolic imbalances in infancy (e.g.	0.48057484930883215
+hypoglycaemia, phenylketonuria) have long term effects on child development.	0.5752367313363383
+More recent studies indicate that also variations of metabolic conditions within the normal range, which occur during sensitive periods of early human development, may have marked long term effects on later prognosis and disease risks in adulthood.	0.629682598439915
+This metabolic programming was demonstrated in epidemiologic studies indicating close relationships between indicators of early growth and the disease incidence and the mortality of coronary heart disease in late adulthood.	0.5357728563724994
+Long term effects of infant feeding on immunological functions are indicated by the effects of infant feeds on later prevalence of allergic disease and by the difference in morbidity for diabetes mellitus, Crohn's disease and malignant lymphoma between previously breast fed and formula fed infants.	0.5868552768112258
+An improved understanding of the cellular and molecular mechanisms that modulate these observed long term effects is required to enable effective preventive interventions.	0.5799370816328595
+Already the available information indicates a great potential for actively improving long term child health and development by an improved substrate supply during pregnancy and infancy.	0.4275061371598023
+Persons who cross international boundaries are at increased risk of contracting infectious diseases.	0.39198452265463996
+An analysis of the reported communicable diseases in Germany shows: A large number of cases of typhoid fever, paratyphoid fever, shigella infections, trichinellosis and brucellosis notified during the last years in Germany originated from foreign countries.	0.5934509472672398
+Intervention measures are necessary, above all, with regard to gastrointestinal infections and vaccine-preventable diseases.	0.4671390083714508
+Bilateral testicular tumors account for approximately 3,5 % of all testicular malignancies and to our knowlegde about 800 cases are reported in the literature.	0.6254440420216971
+An even more seldom event is the appearance of a testicular germ cell tumor with a contralateral benign non-germ cell tumor.	0.505927618706703
+We report the 6th case of such a coincidence.	0.7166543939304801
+The dignity of a contralateral tumor should be assured by frozen section and in case of benign histology organ preserving therapy is indicated.	0.36948864685130883
+Even in cases of bilateral testis cancer tumor enucleation may be considered, if the strict conditions for resection and follow-up are respected.	0.5807357303734153
+Most sudden cardiac deaths are arrhythmic.	0.2589976055481446
+Besides the known effects of beta-blockers, among true antiarrhythmic drugs only amiodarone seemed to reduce total cardiac mortality in patients at risk.	0.5334283125198839
+Reevaluation of amiodarone with or without a beta-blocker in primary prophylaxis of sudden cardiac death after review of recent publications.	0.44626861905742926
+Only augmentation of case numbers by meta-analyses of controlled trials could demonstrate that amiodarone not only reduces sudden cardiac death but also diminishes total cardiac mortality.	0.43495943199327824
+However, the number of avoided sudden deaths is small in comparison to the number of treated cases.	0.573285106464742
+This and specific side effects of amiodarone contradict a general primary prophylaxis with this drug.	0.5417379415100269
+An additional benefit by combining amiodarone with beta-blockers seems to exist but has to be proven by further studies.	0.5416190831477574
+At present, primary prophylaxis of sudden cardiac death with amiodarone with or without a beta-blocker is an individual decision in all cases with special risk considerations.	0.5720966753817117
+As a result of a critical review of the literature and a survey at German epilepsy centers of usual pre- and postoperative drug treatment, the following strategy is recommended:	0.8497978936197833
+An ecological theory of remembering is formulated which is based on the patterns of meaningfulness in the social and spatial environment.	0.4899433219842125
+The specific ecological relationship to the environment is affinitive, and also opens access to the ressources of the past.	0.5915291651526939
+In the present study, conditions for this access (in particular with older people) were investigated.	0.8497211036957153
+It is assumed that older people, especially, when they lose someone with whom they had a fixed relationship seek counselling and that abrupt changes in the spatial environment, such as moving to a home, are rejected by older people.	0.6347063881290572
+These hypotheses were checked on the basis of material (N=120) gathered in a counselling service for the aged and they were essentially confirmed.	0.407043270961433
+To make matters clear, "typical" and thus every-day experiences of maintenance and loss of competence are cited from the material.	0.6629660575005384
+Finally, practical conclusions are drawn with regard to work with the aged.	0.4092122438317275
+Following Shouldice repair of a primary inguinal hernia 50 patients were given subcutaneous Redon drains, while another 50 patients underwent operations without drains in a prospective randomized trial.	0.6219132954439166
+The amount of postoperative wound secretion in the drainage bottle was added to fluid retention established by sonographic volumetric analysis.	0.40125482594865275
+The degree of personal impairment was estimated by a visual analogue score.	0.5513431209394692
+Inflammation parameters were recorded as well as the rate of complications.	0.662161018183566
+The drain group showed significantly increased fluid production in comparison to the group without drains on the 1st postoperative day (36.0 vs. 2.5 ml).	0.8518160887048162
+Wound sepsis was found in two patients in the drain group.	0.7925204636422943
+Seven patients with drains and eight patients without underwent percutaneous seroma puncture.	0.3857936653790643
+The drain only slightly affected personal impairment (25.6 % vs 21.4 %, visual analogue score).	0.6854991651967496
+Body temperature was elevated in the drain group on the 3rd day after operation (37.2 vs 36.7  °C).	0.7100076381299407
+We believe there is no indication for the routine use of a Redon drain in the repair of a primary inguinal hernia.	0.731913096970841
+Instead, percutaneous puncture of subcutaneous fluid retentions should be performed.	0.4693560023384706
+We report on three arterial thromboses of the external iliac artery following total hip replacement.	0.6446581512666252
+As a result of implanted cement/spongiosa or protrusion of the acetabular component, the iliac vessels were compressed.	0.5826388021926944
+Furthermore, we report about one intraoperative arterial vessel lesion in a 65-year-old patient during a revision operation.	0.8241672629804433
+We recommend that in case of acute ischemic syndromes of lower limbs following total hip replacement, an angiography should be performed in order to exclude an extravascular cause of thrombosis.	0.7176891883178543
+For therapy in those cases extra-anatomic bypasses should be preferred to thrombectomies.	0.5294375806391822
+One of the most important occupations of manual therapists is the treatment of hypomobilities of intervertebral joints.	0.5595789226588267
+Such hypomobilities of the spine are treated with different kind of manipulations or mobilisations.	0.5909389113960397
+The pathophysiological basis of hypomobilities is subject of discussion.	0.3947330165381292
+Objective criteria for the diagnosis of disturbed spinal mobility are missing.	0.5044387887886246
+They are not detectable in X-ray, computertomography or NMR.	0.5141187636267672
+In this article, we report on a family in which five examined members showed clinical signs of Fechtner syndrome, a condition which consists of hearing loss (49%), macrothrombocytopenia (100%), leukocyte inclusion bodies (100%), eye anomalies (54.3%), and nephritis (38.7%).	0.6367486627508193
+This article describes how tissue culture has developed from an observing method to a powerful analytical technique for oncology and for pathological cell changes such as metabolic disorders and degenerative diseas es.	0.46011534183720454
+Standard terms are defined and basic methods are explained.	0.3044360746394355
+Different models of in vitro culture - monolayer, three-dimensional tumor cultures, and organ cultures - are critically reviewed in respect of their significance for the interpret ation of in vivo tissue.	0.72042477855158
+Two important recent extensions of tissue culture, serum-free cell culture and the introduction of genetic material into cells, are described.	0.5767612527867475
+The objective of this prospective, randomised study was to investigate the incidence of postoperative nausea and/or vomiting (PONV) during the first 24 h postoperatively.	0.7950724879976855
+For a quality assurance study on PONV, we compared two established general anaesthetic procedures in 239 patients undergoing four different types of surgery (subtotal thyroidectomy, laparotomy for gynaecological procedures, laparoscopy, and surgery for extra-abdominal procedures).	0.5764108227366205
+The historical opinion that the intima layer of a ruptured artery of muscular type could stop bleeding by "rolling in" should be controlled experimentally.	0.4862908434027019
+Five segments of human femoral/popliteal artery (3-4 cm long) were overstretched until complete rupture occured.	0.6906836037739726
+Furthermore a longitudinally split and a partially oblique incised segment were ruptured.	0.2942811866747065
+As morphological findings a sandclock deformity was observed in the region of rupture.	0.5626995928188764
+This phenomenon was induced by adventitia layer, which closed the ends of ruptured media layer like a Chinese finger trap.	0.5390404205818288
+In the longitudinally split segment a transverse rupture of the media layer could be observed, while the fibers of adventitia layer were pulled out when the traction was continued.	0.5538166825026073
+Neither macroscopical nor microscopical signs could be found for "rolling in" of intima or media layer.	0.447063457785287
+The reason for spontaneous hemostasis after arterial rupture is more likely the activation of platelets by collagenous fibers of adventitia layer than "rolling in" of intima or media layer.	0.4531929446041693
+If there is no finger trap mechanism of adventitia layer like in shot- or stabwounds a massive blood loss must be expected.	0.5686494373388484
+Time and again a lack of staff in the field of people's nursing is discussed (chronic lack of nursing staff); this means that there are not enough people to do the available work) (1).	0.5748902415061469
+However, the time factor is also an important sociological dimension in old people's stationary care.	0.712161087426745
+First of all, this article points out the time dimension throughout life.	0.5996147565905484
+This is followed by people's varying perceptions of the present and the related upsets and misunderstandings.	0.6683543379810482
+Hereby the contradictory abundance and limitation in time as felt by the elderly also becomes apparent.	0.3708321408519284
+The old people's awareness of the dwindling remainder of their own lifespans conflicts with the seemingly endless time of each day that passes.	0.3834657947021957
+Intravascular ultrasound (IVUS) has evolved to a research tool to an intrinsic part of modern invasive cardiology.	0.5437881478452408
+The main reason is the capability to obtain "in-vivo" micro anatomy by means of miniaturized echo-transducers with an outer diameter of 2.9-3.5 French.	0.6998083376740433
+For the first time it is possible to base decisions not only on lumenograms but also on vessel wall assessment.	0.7153799087357673
+The capabilities of IVUS can be divided in its diagnostic and intervention associated potentials.	0.5170849356996134
+The diagnostic strength of IVUS is the ability to monitor compensatory coronary artery enlargement as a response to arteriosclerosis, to assess intermediate lesions, to reveal occult left main stem disease, and angiographically "silent" arteriosclerosis.	0.6361077210597267
+In conjunction with the estimation of intracoronary flow reserve, patients with the diagnosis of coronary "syndrome X" can be better classified into those with or without early signs of arteriosclerosis.	0.6954178433307909
+Additionally, IVUS is at present the only method allowing the classification of coronary artery lesions according to the AHA/ACC Stary classification.	0.6227347812012657
+Introduction: The chronic exertional compartment syndrome of the musculus tibialis anterior is thought to be responsible for a major part of complaints of the lower leg among active sportsmen.	0.6389889847048857
+There is an important role of tissue pressure measurement in diagnosing chronic anterior compartment syndrome during muscular activity.	0.7726402954048661
+However, there is a controversial debate about the relevant parameters.	0.6652350020305656
+The development of frontal sinuses following bilateral fronto-orbital advancement is a topic of controversial discussion in the literature.	0.4325518617455129
+In a retrospective study on 33 patients (15 girls and 18 boys) the development of the frontal sinus was examined radiologically.	0.7620956632373813
+Only patients with a minimum age of 6 years and with at least 1 year of postoperative follow-up were included.	0.7599687175740957
+The radiological reference for the frontal sinus development consisted of pneumatisation at or above the level of the supraorbital rims, as projected in postero-anterior cephalograms.	0.5390313481003075
+According to these criteria a frontal sinus development was seen in 72.7% of our patients.	0.7742882751690165
+There was no statistically proven correlation between sinus development and the sex of the patient, age at surgery or the amount of advancement.	0.7336907370798319
+With the exception of severe cases of Crouzon's disease we usually expect normal development of the frontal sinus following bilateral fronto-orbital correction.	0.5346802767127844
+Failures after ankle arthrodesis are, according to the literature and our own experience, more frequently seen with external fixation than with internal fixation methods.	0.7665456630560723
+Favourable results can be obtained with the standard four-screw technique, preservation of the ankle and the biomechanical axes seeing only one non-union in 44 own cases with this technique.	0.6900803470603014
+A vital X-ray imaging technique in oral and craniomaxillofacial surgery is the panoramic X-ray.	0.5220903957236622
+Due to its variety of special projections, including imaging of the transversal level and low exposure to radiation, it is suitable for answering many clinical questions and for diagnostics of various findings.	0.6397244822343817
+It has become possible to minimize the necessary doses by further development of technology and devices, as well as of X-ray films and by new detection systems, such as sensors or screens.	0.6593875115134157
+In some clinical cases, the diagnostic deficiencies of conventional imaging techniques make computed tomography (CT) and magnetic resonance (MR) imaging indispensable.	0.6198927523507122
+Although MR is particularly suitable for soft tissue imaging, it has also become helpful in finding cortical changes by shorter measuring times.	0.5563404889529099
+In certain cases, e. g., changes to bone metabolism, differentiated methods of nuclear medicine make image-aided analysis of function possible.	0.488845687871166
+Secondary haematogenous joint involvement is seen in less than 1 % of patients with Salmonella infections.	0.7383493156321899
+These atypical infections are frequently encouraged by pre-existing local or systemic disease.	0.47007971235368795
+We present a case of a patient with known alcohol abuse who developed a septic infection of her right hip requiring resection of the femoral head.	0.7013405777917653
+Histologic analysis showed signs of pre-existing osteonecrosis probably induced by alcohol intake.	0.4349980205740445
+Cartilage and bone were invaded and destructed by an aggressive granulation tissue.	0.42117364910128774
+Initially, a biopsy evaluated without knowledge of the positive bacteriological result had been interpreted as indicative of a tumour.	0.5115837240427044
+The onset, clinical course, diagnosis and therapy of joint involvement by Salmonella are discussed with regard to our case and the relevant literature.	0.6753409518289681
+This case illustrates the necessity for clinicians to share all their information about the patient with the pathologist.	0.6047412400568521
+There are two types of diabetes mellitus.	0.5642076968680675
+Type I, insulin-dependent diabetes (IDDM), which becomes manifest before the age of 40, is the result of an absolute deficiency of insulin.	0.738127229050321
+Type II, the non-insulin-dependent diabetes (NIDDM), develops in the elderly and is caused by a relative insulin deficiency.	0.6071662687196009
+Patients with type-I diabetes are prone to the development of ketoacidosis, while type II causes hyperglycaemic, hyperosmolar, nonketotic coma.	0.5411776662063251
+Apart from these acute metabolic alterations, the long-term complications of diabetes are of concern to the anaesthesiologist.	0.5992975371514815
+Hypertension, coronary artery disease, renal insufficiency and autonomic neuropathy are common and can result in myocardial ischaemia, cardiovascular instability and gastroparesis, with an increased risk of aspiration.	0.8071795948299193
+Limited movement of the atlanto-occipital joint can cause difficult intubation.	0.38297079125625394
+To avoid perioperative metabolic catastrophy, blood glucose concentration should be kept between 6.7 and 10 mmol - l-1 (120 - 180 mg - dl-1).	0.7117980923798093
+Hypoglycaemia can result in neurological damage, whereas hyperglycaemia causes impaired wound healing and susceptibility to infections and worsens ischaemic damage to the myocardium and brain.	0.6081233337757643
+Perioperative diabetes management depends on the severity of the surgical procedure and the type of diabetes.	0.7218402933785266
+All type-I diabetics, whatever operation being performed, need insulin.	0.4419578551953353
+The intravenous route is recommended as it allows better adjustment.	0.5653802167239573
+After determination of the fasting blood glucose level, insulin is given at a dosage of 0.5 - 1 U - h-1 (at gluc<11.1 mmol - l-1), 1.5 - 2 U - h-1 (at gluc 11.1 - 16.7 mmol - l-1) or 3  U - h-1 (at gluc>16.7 mmol - l-1).	0.7870540888073756
+In addition, 5 - 10 g glucose - h-1 is given.	0.7679676670980418
+In type-II diabetes the oral antidiabetic drug is withheld.	0.41977971814748144
+During minor surgery the blood glucose concentration is monitored frequently, and if necessary insulin (with gluc>13.9 mmol - l-1) or glucose is given.	0.6865588374233945
+In most cases of major surgery insulin therapy will be necessary.	0.5811868196181893
+Administration should follow the guidelines listed for type-I diabetes.	0.3948314133514092
+Whether the intravenous or the subcutaneous route is used for insulin, repeated glucose determinations are mandatory.	0.4871422985176683
+If ketoacidosis develops the volume depletion is treated with normal saline.	0.40113633801089116
+For hyperglycaemia and acidosis insulin (3 - 6 U - h-1) with 10 - 20 mmol - h-1 potassium phosphate is given.	0.7727656330091021
+Bicarbonate is only indicated when the serum pH is lower than 7.1.	0.5894655814528881
+It must be borne in mind that perioperative management of diabetes does not end with postanaesthesia care.	0.4050119540708788
+At the beginning of the 19 th century, institutional care for the insane was established by the various German states.	0.5204296168725508
+At first, the separation of curable and incurable patients influenced psychiatric care and the construction of hospitals.	0.5481850351682067
+The combination of care and cure in one hospital in Illenau was a turning point in institutional care.	0.4515896657432816
+Contradictory tendencies characterized the second half of the 19 th century: the integration with general medicine in the cities, on the one hand, the social separation and cure in the seclusion of the countryside, on the other.	0.6187317433221539
+The characteristic psychiatric construction in different countries was influenced by individual architects.	0.32385194764753006
+The following building styles were dominant: in England, panoptic architecture; in the United States, linear staggered structures; in France, the "carrés isolés"; and in Germany, the structure of blocks with cross-axes.	0.6580648914448729
+At the end of the 19 th century, the system of pavilions was internationally accepted; occupational therapy and mental care in the countryside were introduced.	0.5129737807701046
+From the First World War until the end of the 1960 s, a standstill in psychiatric buildings was noted in Germany, and institutional care came under increasing criticism.	0.5723442279119197
+	-0.0
