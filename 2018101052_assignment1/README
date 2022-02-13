@@ -1,0 +1,13 @@
+To get perplexity of any sentence, run the following command:
+- python3 language_model.py <n_value> <smoothing type> <path to corpus>
+
+A prompt will appear asking for an input. Give the input sentence and it will return the perplexity of that sentence for given value of n, smoothing type and corpus input.
+
+
+To get perplexity of each sentence on the europarl or medical corpus, comment out the following parts:
+1) Where we are taking parameter argument
+2) Where if conditions based on the parameters is written
+3) Remove the smoothing type argument from perplexity function
+
+and uncomment the last part of the code and run it using the following command:
+- python3 language_model.py
